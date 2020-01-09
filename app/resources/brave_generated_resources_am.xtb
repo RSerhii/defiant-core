@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="am">
-<translation id="3333887201479867589">ናይ Dissenter ሽልማታት</translation>
+<translation id="3333887201479867589">ናይ The Hive ሽልማታት</translation>
 <translation id="7942180974165298215">ብሬቭ ኣድ ብሎክ</translation>
 <translation id="6406506848690869874">አመሳስል</translation>
 <translation id="120759863357279975"><ph name="EXTENSION_NAME">$1</ph> (extension ID "<ph name="EXTENSION_ID">$2<ex>abacabadabacabaeabacabadabacabaf</ex></ph>") በብሬቭ ውስጥ አይፈቀድም፡፡</translation>
@@ -29,8 +29,8 @@
 <translation id="4988333904713528597"><ph name="HOST">$1<ex>mail.google.com</ex></ph> ላይ በራስ መጫወቱን ሁልግዜም ፍቀድ;</translation>
 <translation id="4150684676757176434">አውቶለይ መከላከሉን ይቀጥል</translation>
 <translation id="2044383478723007273">የብሬቭ ቀለም</translation>
-<translation id="6123134130710658846">የ Dissenter Rewards መምረጫ ቁልፍ ደብቅ</translation>
-<translation id="7635711399568194460">Dissenter Rewards  ካልበራ በአድራሻው አሞሌ ላይ ያለው የ Dissenter Rewards መጫኛ ይደበቃል።</translation>
+<translation id="6123134130710658846">የ The Hive Rewards መምረጫ ቁልፍ ደብቅ</translation>
+<translation id="7635711399568194460">The Hive Rewards  ካልበራ በአድራሻው አሞሌ ላይ ያለው የ The Hive Rewards መጫኛ ይደበቃል።</translation>
 <translation id="7965178729203412357">አዲስ ቶር ተለይቷል</translation>
 <translation id="8784924142044142231">ከቶር ይውጡ</translation>
 <translation id="5410152065859052603">ቶር</translation>
@@ -38,9 +38,9 @@
 <translation id="1434416574322382019">አዲስ የግል መስኮት ከቶር ጋር</translation>
 <translation id="4703780849509456860">ሊንኩን በግል መስኮትዎ ከቶር ጋር ይክፈቱ</translation>
 <translation id="3488584642074079080">ሊንኩን በብሬቭ የግል መስኮት ከቶር ጋር ይክፈቱ</translation>
-<translation id="6313675821927505581">አዲስ የግል መስኮት በ Dissenter</translation>
+<translation id="6313675821927505581">አዲስ የግል መስኮት በ The Hive</translation>
 <translation id="2638041073279639246">Torን በመጠቀም ሊንኩን በግል መስኮት ይክፈቱ።</translation>
-<translation id="3425600262621021599">Torን በመጠቀም ሊንኩን በ Dissenter የግል መስኮት ይክፈቱ።</translation>
+<translation id="3425600262621021599">Torን በመጠቀም ሊንኩን በ The Hive የግል መስኮት ይክፈቱ።</translation>
 <translation id="3155170474926428993">ቶር ማስጀመርያ</translation>
 <translation id="2515126961943087659">የባት የማስታወቂያ አገልግሎት</translation>
 <translation id="7924918279836988121">የBat Ledger አገልግሎት</translation>

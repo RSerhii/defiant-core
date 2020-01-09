@@ -15,7 +15,7 @@ copy("copy_exe") {
   ]
 
   outputs = [
-    "$root_out_dir/dissenter",
+    "$root_out_dir/thehive",
   ]
 
   deps = [
@@ -29,7 +29,7 @@ copy("copy_sandbox") {
   ]
 
   outputs = [
-    "$root_out_dir/dissenter_sandbox",
+    "$root_out_dir/thehive_sandbox",
   ]
 
   deps = [

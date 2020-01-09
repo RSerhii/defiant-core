@@ -90,7 +90,7 @@ void BraveActionsContainer::Init() {
   // make sure separator is at index 0
   AddChildViewAt(brave_button_separator_, 0);
   // Populate actions
-  actions_[dissenter_extension_id].position_ = 1;
+  actions_[thehive_extension_id].position_ = 1;
   actions_[brave_extension_id].position_ = ACTION_ANY_POSITION;
 
   // React to Brave Rewards preferences changes.
@@ -273,9 +273,9 @@ void BraveActionsContainer::OnExtensionSystemReady() {
   // observe changes in extension system
   extension_registry_observer_.Add(extension_registry_);
   extension_action_observer_.Add(extension_action_api_);
-  // Check if dissenter extension already loaded
+  // Check if thehive extension already loaded
   const extensions::Extension* dextension =
-          extension_registry_->enabled_extensions().GetByID(dissenter_extension_id);
+          extension_registry_->enabled_extensions().GetByID(thehive_extension_id);
   if (dextension)
     AddAction(dextension);
 

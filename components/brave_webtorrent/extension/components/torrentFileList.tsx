@@ -3,9 +3,9 @@
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
 
 import * as React from 'react'
-import { Table } from 'dissenter-ui/components'
-import { Cell, Row } from 'dissenter-ui/components/dataTables/table/index'
-import { LoaderIcon } from 'dissenter-ui/components/icons'
+import { Table } from 'thehive-ui/components'
+import { Cell, Row } from 'thehive-ui/components/dataTables/table/index'
+import { LoaderIcon } from 'thehive-ui/components/icons'
 
 // Constants
 import { File, TorrentObj } from '../constants/webtorrentState'

@@ -6,7 +6,7 @@ index e2b768ff5868efce0058d6b55e6f44b99cfdba89..a938e57295883b1c454b68efeb1c06f4
  
  bool NtpOverriddenBubbleDelegate::ShouldIncludeExtension(
      const extensions::Extension* extension) {
-+  // Dissenter: Don't nag about the users new tab.
++  // The Hive: Don't nag about the users new tab.
 +  return false;
    if (!extension_id_.empty() && extension_id_ != extension->id())
      return false;

@@ -6,13 +6,13 @@
 import * as React from 'react'
 
 // Feature-specific components
-import { Content, Title, Paragraph } from 'dissenter-ui/features/welcome'
+import { Content, Title, Paragraph } from 'thehive-ui/features/welcome'
 
 // Shared components
-import { Button } from 'dissenter-ui'
+import { Button } from 'thehive-ui'
 
 // Images
-import { WelcomeSearchImage } from 'dissenter-ui/features/welcome/images'
+import { WelcomeSearchImage } from 'thehive-ui/features/welcome/images'
 
 // Utils
 import { getLocale } from '../../../common/locale'

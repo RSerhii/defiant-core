@@ -14,7 +14,7 @@ import {
   Footer,
   DynamicBackground,
   Gradient
-} from 'dissenter-ui/features/newTab/default'
+} from 'thehive-ui/features/newTab/default'
 
 // Components
 import Stats from './stats'

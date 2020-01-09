@@ -375,7 +375,7 @@ void RewardsServiceImpl::ConnectionClosed() {
 
 void RewardsServiceImpl::Init() {
   AddObserver(notification_service_.get());
-  // Dissenter: Disable Rewards Service.
+  // The Hive: Disable Rewards Service.
 #if BUILDFLAG(ENABLE_EXTENSIONS)
   //AddObserver(extension_rewards_service_observer_.get());
   //private_observers_.AddObserver(private_observer_.get());

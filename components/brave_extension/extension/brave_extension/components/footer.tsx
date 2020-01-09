@@ -5,7 +5,7 @@
 import * as React from 'react'
 
 // Feature-specific components
-import { MainFooter, Link } from 'dissenter-ui/features/shields'
+import { MainFooter, Link } from 'thehive-ui/features/shields'
 
 // API
 import * as tabsAPI from '../background/api/tabsAPI'

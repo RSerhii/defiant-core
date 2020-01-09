@@ -10,7 +10,7 @@ import {
   SubTitle,
   Text,
   TorLockImage
-} from 'dissenter-ui/features/newTab/private'
+} from 'thehive-ui/features/newTab/private'
 // Helpers
 import { getLocale } from '../../../common/locale'
 

@@ -46,8 +46,8 @@ void BraveAppMenuModel::InsertBraveMenuItems() {
   */
   InsertItemWithStringIdAt(
       GetIndexOfCommandId(IDC_OPTIONS),
-      IDC_SHOW_DISSENTER_EXTENSION_SETTINGS,
-      IDS_SHOW_DISSENTER_EXTENSION_SETTINGS);
+      IDC_SHOW_THEHIVE_EXTENSION_SETTINGS,
+      IDS_SHOW_THEHIVE_EXTENSION_SETTINGS);
       /*
   InsertItemWithStringIdAt(
       GetIndexOfCommandId(IDC_OPTIONS),

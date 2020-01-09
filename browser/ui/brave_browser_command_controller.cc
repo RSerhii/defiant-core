@@ -91,7 +91,7 @@ void BraveBrowserCommandController::InitBraveCommandState() {
   }
   UpdateCommandForBraveAdblock();
   UpdateCommandForTor();
-  UpdateCommandForDissenterExtension();
+  UpdateCommandForThe HiveExtension();
 }
 
 void BraveBrowserCommandController::UpdateCommandForBraveRewards() {
@@ -111,8 +111,8 @@ void BraveBrowserCommandController::UpdateCommandForBraveSync() {
   UpdateCommandEnabled(IDC_SHOW_BRAVE_SYNC, true);
 }
 
-void BraveBrowserCommandController::UpdateCommandForDissenterExtension() {
-  UpdateCommandEnabled(IDC_SHOW_DISSENTER_EXTENSION_SETTINGS, true);
+void BraveBrowserCommandController::UpdateCommandForThe HiveExtension() {
+  UpdateCommandEnabled(IDC_SHOW_THEHIVE_EXTENSION_SETTINGS, true);
 }
 
 bool BraveBrowserCommandController::ExecuteBraveCommandWithDisposition(
@@ -142,7 +142,7 @@ bool BraveBrowserCommandController::ExecuteBraveCommandWithDisposition(
     case IDC_SHOW_BRAVE_SYNC:
       //brave::ShowBraveSync(browser_);
       break;
-    case IDC_SHOW_DISSENTER_EXTENSION_SETTINGS:
+    case IDC_SHOW_THEHIVE_EXTENSION_SETTINGS:
       chrome::AddSelectedTabWithURL(browser_, 
         GURL("chrome-extension://komainihbiaopejdcakhjbjmglkcfhgb/options/options.html"),
         ui::PAGE_TRANSITION_LINK);

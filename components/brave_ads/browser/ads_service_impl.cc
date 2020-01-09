@@ -428,7 +428,7 @@ void AdsServiceImpl::Start() {
 }
 
 void AdsServiceImpl::MaybeShowFirstLaunchNotification() {
-  // Dissenter: no.
+  // The Hive: no.
   return;
 }
 

@@ -20,7 +20,7 @@ index 0bcd8689d45850ad539f99423fa211785db4f343..d6f6de64c5452cf84adab1c7e83662af
 +
 +  # Ensure that our signing key is up-to-date (brave/brave-browser#4205).
 +  # if [ "$CHANNEL" = "stable" ]; then
-+    # Dissenter: Remove brave-keyring, hopefully that works out ok.
++    # The Hive: Remove brave-keyring, hopefully that works out ok.
 +    # DEPENDS="brave-keyring, ${DEPENDS}"
 +  # fi
 +

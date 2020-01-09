@@ -20,7 +20,7 @@ index e8bd45b7bb6be86360f1c484b880e9caf3a5ef0d..1a35fb4fe9189d3ffd8d16d28a3cf7e5
  
  // Copied from util_constants.cc.
 +#if defined(BRAVE_CHROMIUM_BUILD)
-+const wchar_t kChromeExe[] = L"dissenter.exe";
++const wchar_t kChromeExe[] = L"thehive.exe";
 +#else
  const wchar_t kChromeExe[] = L"chrome.exe";
 +#endif

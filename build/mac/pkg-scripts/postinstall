@@ -8,9 +8,9 @@ installationPath=$2
 
 # TODO: ugly to assume the name of the app, especially with multi-channel.
 # Luckily for now, release channel is the only channel with a pkg installer.
-installationAppPath="$installationPath/Dissenter.app"
+installationAppPath="$installationPath/The Hive.app"
 installerPathPromoCodeRegex='.+-(([a-zA-Z0-9]{3}[0-9]{3})|([a-zA-Z]{1,}-[a-zA-Z]{1,}))([[:blank:]]?\([0-9]+\))?\.pkg$'
-userDataDir="$HOME/Library/Application Support/GabAI/Dissenter-Browser"
+userDataDir="$HOME/Library/Application Support/GabAI/The Hive-Browser"
 promoCodePath="$userDataDir/promoCode"
 
 # pkg runs this script as root so we need to get current username

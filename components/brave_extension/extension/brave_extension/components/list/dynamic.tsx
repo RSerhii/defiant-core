@@ -20,7 +20,7 @@ import {
   BlockedListItemHeaderStats,
   BlockedListItemHeaderText,
   ShieldsButton
-} from 'dissenter-ui/features/shields'
+} from 'thehive-ui/features/shields'
 
 // Locale
 import { getLocale } from '../../background/api/localeAPI'

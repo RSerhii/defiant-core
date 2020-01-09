@@ -17,10 +17,10 @@ import {
 } from 'react-dnd'
 
 // Feature-specific components
-import { Tile, TileActionsContainer, TileAction, TileFavicon } from 'dissenter-ui/features/newTab/default'
+import { Tile, TileActionsContainer, TileAction, TileFavicon } from 'thehive-ui/features/newTab/default'
 
 // Icons
-import { PinIcon, PinOIcon, BookmarkOIcon, BookmarkIcon, CloseStrokeIcon } from 'dissenter-ui/components/icons'
+import { PinIcon, PinOIcon, BookmarkOIcon, BookmarkIcon, CloseStrokeIcon } from 'thehive-ui/components/icons'
 
 const Types = {
   BLOCK: 'block'

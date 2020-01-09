@@ -1,0 +1,51 @@
+import("//brave/components/common/typescript.gni")
+import("//build/config/features.gni")
+import("//extensions/buildflags/buildflags.gni")
+import("//tools/grit/grit_rule.gni")
+import("//tools/grit/repack.gni")
+
+pack_web_resources("generated_resources") {
+  resource_name = "thehive_extension"
+  output_dir = "$root_gen_dir/brave/components/thehive_extension"
+  # need wepack and GRD generation first
+  deps = [
+    "extension/thehive_extension"
+  ]
+}
+
+grit("static_resources") {
+  source = "extension/resources.grd"
+
+  grit_flags = [
+    "-E",
+    "root_gen_dir=" + rebase_path(root_gen_dir, root_build_dir),
+  ]
+
+  outputs = [
+    "grit/thehive_extension.h",
+    "grit/thehive_extension_resources_map.cc",
+    "grit/thehive_extension_resources_map.h",
+    "thehive_extension_static.pak",
+  ]
+
+  deps = [
+    "extension/thehive_extension",
+  ]
+
+  resource_ids = "//brave/browser/resources/resource_ids"
+  output_dir = "$root_gen_dir/brave/components/thehive_extension"
+}
+
+repack("resources") {
+  deps = [
+    ":static_resources",
+    ":generated_resources",
+  ]
+
+  sources = [
+    "$root_gen_dir/brave/components/thehive_extension/thehive_extension_static.pak",
+    "$root_gen_dir/brave/components/thehive_extension/thehive_extension_generated.pak",
+  ]
+
+  output = "$root_gen_dir/brave/components/thehive_extension/thehive_extension_resources.pak"
+}

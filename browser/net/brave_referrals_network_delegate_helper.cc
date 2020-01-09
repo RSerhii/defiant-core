@@ -19,7 +19,7 @@ int OnBeforeStartTransaction_ReferralsWork(
     net::HttpRequestHeaders* headers,
     const ResponseCallback& next_callback,
     std::shared_ptr<BraveRequestInfo> ctx) {
-  // Dissenter: lol no.    
+  // The Hive: lol no.    
   return net::OK;
   /*
   const base::DictionaryValue* request_headers_dict = nullptr;

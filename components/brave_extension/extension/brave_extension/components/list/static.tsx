@@ -17,7 +17,7 @@ import {
   BlockedInfoRowStats,
   BlockedListSummaryText,
   ShieldsButton
-} from 'dissenter-ui/features/shields'
+} from 'thehive-ui/features/shields'
 
 // Helpers
 import { blockedResourcesSize } from '../../helpers/shieldsUtils'

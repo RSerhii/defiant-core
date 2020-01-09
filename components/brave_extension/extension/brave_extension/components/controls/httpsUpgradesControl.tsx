@@ -12,7 +12,7 @@ import {
   BlockedInfoRowStats,
   BlockedInfoRowText,
   Toggle
-} from 'dissenter-ui/features/shields'
+} from 'thehive-ui/features/shields'
 
 // Group Components
 import StaticList from '../list/static'

@@ -15,7 +15,7 @@ import {
   TorImage,
   Separator,
   FakeButton
-} from 'dissenter-ui/features/newTab/private'
+} from 'thehive-ui/features/newTab/private'
 import TorContent from './torContent'
 // Helpers
 import { getLocale } from '../../../common/locale'

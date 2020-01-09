@@ -77,7 +77,7 @@ index 306b59c138b7cb5df21ad6e9d502bb7a46a104c6..f03c710aa7cf986168c7895fae5b09b7
  
 +# Ensure that our signing key is up-to-date (brave/brave-browser#4205).
 +# if [ "$CHANNEL" = "stable" ]; then
-+  # Dissenter: Remove brave-keyring
++  # The Hive: Remove brave-keyring
 +  # COMMON_DEPS="${COMMON_DEPS}, brave-keyring"
 +# fi
  

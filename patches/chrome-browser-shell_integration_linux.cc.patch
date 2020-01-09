@@ -10,11 +10,11 @@ index 60b10bd7da439c5fccb9a3588a78cf51b5cd8cfa..a47b452130fc0b7fc8f03ce7c5c5562b
 +  version_info::Channel product_channel(chrome::GetChannel());
 +  switch (product_channel) {
 +    case version_info::Channel::DEV:
-+      return "dissenter-browser-dev.desktop";
++      return "thehive-browser-dev.desktop";
 +    case version_info::Channel::BETA:
-+      return "dissenter-browser-beta.desktop";
++      return "thehive-browser-beta.desktop";
 +    default:
-+      return "dissenter-browser.desktop";
++      return "thehive-browser.desktop";
 +  }
 +#endif  // defined(OFFICIAL_BUILD)
    // Allow $CHROME_DESKTOP to override the built-in value, so that development
@@ -24,7 +24,7 @@ index 60b10bd7da439c5fccb9a3588a78cf51b5cd8cfa..a47b452130fc0b7fc8f03ce7c5c5562b
    if (env->GetVar("CHROME_DESKTOP", &name) && !name.empty())
      return name;
 -  return "chromium-browser.desktop";
-+  return "dissenter-browser.desktop";
++  return "thehive-browser.desktop";
  #endif
  }
  
@@ -33,7 +33,7 @@ index 60b10bd7da439c5fccb9a3588a78cf51b5cd8cfa..a47b452130fc0b7fc8f03ce7c5c5562b
    return "google-chrome";
  #else  // CHROMIUM_BUILD
 -  return "chromium-browser";
-+  return "dissenter-browser";
++  return "thehive-browser";
  #endif
  }
  

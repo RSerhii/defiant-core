@@ -12,11 +12,11 @@ import {
   FooterRightColumn,
   SkipButton,
   Bullet
-} from 'dissenter-ui/features/welcome'
+} from 'thehive-ui/features/welcome'
 
 // Shared components
-import { ArrowRightIcon } from 'dissenter-ui/components/icons'
-import { Button } from 'dissenter-ui'
+import { ArrowRightIcon } from 'thehive-ui/components/icons'
+import { Button } from 'thehive-ui'
 
 // Utils
 import { getLocale } from '../../../common/locale'

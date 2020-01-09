@@ -57,7 +57,7 @@ index 58b80612445aa0616462805f464bcae0b3ee1c3e..f8e365a986536d0c4bf1dbf86a657ff9
        fi
        local expected_perms=777
 -    elif [ "${base_name}" = "chrome-sandbox" ]; then
-+    elif [ "${base_name}" = "dissenter-sandbox" ]; then
++    elif [ "${base_name}" = "thehive-sandbox" ]; then
        local expected_perms=4755
      elif [[ "${base_name}" = "nacl_irt_"*".nexe" ]]; then
        local expected_perms=644

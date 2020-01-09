@@ -120,20 +120,20 @@
   </translations>
   <release seq="1">
     <messages fallback_to_english="true">
-      <message name="IDS_SHOW_BRAVE_REWARDS" desc="The show Dissenter Rewards menu in the app menu">
-        Dissenter Rewards
+      <message name="IDS_SHOW_BRAVE_REWARDS" desc="The show The Hive Rewards menu in the app menu">
+        The Hive Rewards
       </message>
-      <message name="IDS_SHOW_BRAVE_ADBLOCK" desc="The show Dissenter Ad Block menu in the app menu">
+      <message name="IDS_SHOW_BRAVE_ADBLOCK" desc="The show The Hive Ad Block menu in the app menu">
         Extra Block Lists
       </message>
       <message name="IDS_SHOW_BRAVE_SYNC" desc="The show brave sync menu in the app menu">
         Sync
       </message>
-      <message name="IDS_SHOW_DISSENTER_EXTENSION_SETTINGS" desc="The show dissenter extensions menu in the app menu">
-        Dissenter Settings
+      <message name="IDS_SHOW_THEHIVE_EXTENSION_SETTINGS" desc="The show thehive extensions menu in the app menu">
+        The Hive Settings
       </message>
-      <message name="IDS_EXTENSION_CANT_INSTALL_ON_BRAVE" desc="Error message when user tries to install an extension that is not allowed in Dissenter.">
-        <ph name="EXTENSION_NAME">$1</ph> (extension ID "<ph name="EXTENSION_ID">$2<ex>abacabadabacabaeabacabadabacabaf</ex></ph>") is not allowed in Dissenter.
+      <message name="IDS_EXTENSION_CANT_INSTALL_ON_BRAVE" desc="Error message when user tries to install an extension that is not allowed in The Hive.">
+        <ph name="EXTENSION_NAME">$1</ph> (extension ID "<ph name="EXTENSION_ID">$2<ex>abacabadabacabaeabacabadabacabaf</ex></ph>") is not allowed in The Hive.
       </message>
       <!-- Importer Lock Dialog -->
       <message name="IDS_CHROME_IMPORTER_LOCK_TITLE" desc="Dialog title for Chrome importer lock dialog">
@@ -142,11 +142,11 @@
       <message name="IDS_CHROME_IMPORTER_LOCK_TEXT" desc="The message to be displayed in the Chrome importer lock dialog">
 	To finish importing, close all Chrome windows.
       </message>
-      <message name="IDS_BRAVE_IMPORTER_LOCK_TITLE" desc="Dialog title for Dissenter importer lock dialog">
-	Close Dissenter (old)
+      <message name="IDS_BRAVE_IMPORTER_LOCK_TITLE" desc="Dialog title for The Hive importer lock dialog">
+	Close The Hive (old)
       </message>
-      <message name="IDS_BRAVE_IMPORTER_LOCK_TEXT" desc="The message to be displayed in the Dissenter importer lock dialog">
-	To finish importing, close all Dissenter (old) windows.
+      <message name="IDS_BRAVE_IMPORTER_LOCK_TEXT" desc="The message to be displayed in the The Hive importer lock dialog">
+	To finish importing, close all The Hive (old) windows.
       </message>
       <message name="IDS_SETTINGS_IMPORT_COOKIES_CHECKBOX" desc="Checkbox for importing cookies">
         Cookies
@@ -155,7 +155,7 @@
         Stats
       </message>
       <message name="IDS_SETTINGS_IMPORT_LEDGER_CHECKBOX" desc="Checkbox for importing ledger">
-        Dissenter Payments
+        The Hive Payments
       </message>
       <message name="IDS_SETTINGS_IMPORT_WINDOWS_CHECKBOX" desc="Checkbox for importing open windows and tabs">
         Open windows and tabs
@@ -172,16 +172,16 @@
         </message>
       </if>
       <message name="IDS_WIDEVINE_INSTALL_MESSAGE" desc="Bubble info text when Widevine is not installed. 'Widevine' is the name of a plugin and should not be translated.">
-        Google Widevine is a piece of Digital Rights Management (DRM) code that we at Gab AI do not own and cannot inspect. The Google Widevine code is loaded from Google servers, not from our servers. It is loaded only when you enable this option. We discourage the use of DRM, but we respect user choice and acknowledge that some Dissenter users would like to use services that require it.
+        Google Widevine is a piece of Digital Rights Management (DRM) code that we at Gab AI do not own and cannot inspect. The Google Widevine code is loaded from Google servers, not from our servers. It is loaded only when you enable this option. We discourage the use of DRM, but we respect user choice and acknowledge that some The Hive users would like to use services that require it.
 
-By installing this extension, you are agreeing to the Google Widevine Terms of Use. You agree that Dissenter is not responsible for any damages or losses in connection with your use of Google Widevine.
+By installing this extension, you are agreeing to the Google Widevine Terms of Use. You agree that The Hive is not responsible for any damages or losses in connection with your use of Google Widevine.
       </message>
-      <!-- Dissenter Importer -->
-      <message name="IDS_IMPORT_FROM_BRAVE" desc="browser combo box: Dissenter">
-        Dissenter (old)
+      <!-- The Hive Importer -->
+      <message name="IDS_IMPORT_FROM_BRAVE" desc="browser combo box: The Hive">
+        The Hive (old)
       </message>
-      <message name="IDS_BOOKMARK_GROUP_FROM_BRAVE" desc="The group name of bookmarks from Dissenter">
-        Imported From Dissenter
+      <message name="IDS_BOOKMARK_GROUP_FROM_BRAVE" desc="The group name of bookmarks from The Hive">
+        Imported From The Hive
       </message>
       <!-- Autoplay -->
       <message name="IDS_AUTOPLAY_PERMISSION_FRAGMENT" desc="Permission request shown if the user is visiting a site that wants to autoplay media. Follows a prompt: 'This site would like to:'">
@@ -206,21 +206,21 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
         Continue blocking autoplay
       </message>
       <!-- Extensions -->
-      <message name="IDS_UNVETTED_EXTENSION_INSTALL_PROMPT_TITLE" desc="Titlebar of the extension or app installation prompt which was not vetted by Dissenter. Asks the user if they want to install a particular extension or app.">
-        Dissenter hasn't reviewed this extension yet - it might be malicious. Add "<ph name="EXTENSION_NAME">$1<ex>Gmail Checker</ex></ph>" anyway?
+      <message name="IDS_UNVETTED_EXTENSION_INSTALL_PROMPT_TITLE" desc="Titlebar of the extension or app installation prompt which was not vetted by The Hive. Asks the user if they want to install a particular extension or app.">
+        The Hive hasn't reviewed this extension yet - it might be malicious. Add "<ph name="EXTENSION_NAME">$1<ex>Gmail Checker</ex></ph>" anyway?
       </message>
       <!-- Appearance -->
       <message name="IDS_SETTINGS_APPEARANCE_SETTINGS_BRAVE_THEMES" desc="The label for brave theme change setting options">
-        Dissenter colors
+        The Hive colors
       </message>
       <message name="IDS_SETTINGS_APPEARANCE_SETTINGS_LOCATION_BAR_IS_WIDE" desc="The label for whether the location bar should display wide or not">
         Use wide location bar
       </message>
-      <message name="IDS_SETTINGS_HIDE_BRAVE_REWARDS_BUTTON_LABEL" desc="The label for settings switch controlling the visibility of Dissenter Rewards button">
-        Hide Dissenter Rewards button
+      <message name="IDS_SETTINGS_HIDE_BRAVE_REWARDS_BUTTON_LABEL" desc="The label for settings switch controlling the visibility of The Hive Rewards button">
+        Hide The Hive Rewards button
       </message>
-      <message name="IDS_SETTINGS_HIDE_BRAVE_REWARDS_BUTTON_DESC" desc="The description for settings switch controlling the visibility of Dissenter Rewards button">
-        Hides the Dissenter Rewards button in the location bar when Dissenter Rewards is not enabled
+      <message name="IDS_SETTINGS_HIDE_BRAVE_REWARDS_BUTTON_DESC" desc="The description for settings switch controlling the visibility of The Hive Rewards button">
+        Hides the The Hive Rewards button in the location bar when The Hive Rewards is not enabled
       </message>
       <!-- Tor -->
       <message name="IDS_NEW_TOR_IDENTITY" desc="The text label of a menu item for requesting new Tor identity">
@@ -243,7 +243,7 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
           Open Link in Private Window with Tor
         </message>
         <message name="IDS_CONTENT_CONTEXT_OPENLINKTOR_INAPP" desc="Title case: The name of the open a link in private window with Tor command">
-          Open Link in Dissenter Private Window with Tor
+          Open Link in The Hive Private Window with Tor
         </message>
       </if>
       <if expr="not use_titlecase">
@@ -254,7 +254,7 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
           Open link in private window with Tor
         </message>
         <message name="IDS_CONTENT_CONTEXT_OPENLINKTOR_INAPP" desc="The name of the open a link in private window with Tor command">
-          Open link in Dissenter private window with Tor
+          Open link in The Hive private window with Tor
         </message>
       </if>
       <message name="IDS_PROFILES_TOR_PROFILE_NAME" desc="Name of the Tor profile.">
@@ -275,32 +275,32 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
       <message name="IDS_SETTINGS_BRAVE_ADDITIONAL_SETTINGS" desc="The title for a group of settings which are more advanced">
         Additional settings
       </message>
-      <!-- Dissenter Shields  -->
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_TITLE" desc="The title for Dissenter shields section in settings">
+      <!-- The Hive Shields  -->
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_TITLE" desc="The title for The Hive shields section in settings">
         Shields
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_TITLE" desc="The title for Dissenter shields Defaults sub-section in settings">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_TITLE" desc="The title for The Hive shields Defaults sub-section in settings">
         Defaults
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_DESCRIPTION" desc="The description for Dissenter shields Defaults sub-section in settings">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_DESCRIPTION" desc="The description for The Hive shields Defaults sub-section in settings">
         Your current per-site settings will be retained.
       </message>
       <message name="IDS_SETTINGS_SOCIAL_BLOCKING_DEFAULTS_TITLE" desc="The title the settings section which has options for blocking third-party embeds, commonly from social media sites">
         Social media blocking
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_AD_CONTROL_LABEL" desc="Default Dissenter ad control setting label">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_AD_CONTROL_LABEL" desc="Default The Hive ad control setting label">
         Ad control
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_COOKIE_CONTROL_LABEL" desc="Default Dissenter cookie control setting label">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_COOKIE_CONTROL_LABEL" desc="Default The Hive cookie control setting label">
         Cookie control
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_FINGERPRINTING_CONTROL_LABEL" desc="Default Dissenter fingerprinting control setting label">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_FINGERPRINTING_CONTROL_LABEL" desc="Default The Hive fingerprinting control setting label">
         Fingerprinting protection
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_HTTPS_EVERYWHERE_CONTROL_LABEL" desc="Default Dissenter HTTPS Everywhere control setting label">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_HTTPS_EVERYWHERE_CONTROL_LABEL" desc="Default The Hive HTTPS Everywhere control setting label">
         HTTPS Everywhere
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_NO_SCRIPT_CONTROL_LABEL" desc="Default Dissenter script blocking control setting label">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_NO_SCRIPT_CONTROL_LABEL" desc="Default The Hive script blocking control setting label">
         Script blocking
       </message>
       <message name="IDS_SETTINGS_BRAVE_SHIELDS_GOOGLE_LOGIN_LABEL" desc="Label for a switch control which allows Google social buttons to be enabled/disabled">
@@ -358,14 +358,14 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
       <message name="IDS_SETTINGS_WEBRTC_POLICY_DISABLE_NON_PROXIED_UDP" desc="Select value">
         Disable non-proxied UDP
       </message>
-      <!-- Dissenter Sync Settings -->
-      <message name="IDS_SETTINGS_BRAVE_SYNC_TITLE" desc="The title for Dissenter Sync in settings">
+      <!-- The Hive Sync Settings -->
+      <message name="IDS_SETTINGS_BRAVE_SYNC_TITLE" desc="The title for The Hive Sync in settings">
         Sync
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SYNC_LINK_LABEL" desc="Dissenter Sync link label">
+      <message name="IDS_SETTINGS_BRAVE_SYNC_LINK_LABEL" desc="The Hive Sync link label">
         Access Sync via
       </message>
-      <!-- Dissenter Theme -->
+      <!-- The Hive Theme -->
       <message name="IDS_BRAVE_THEME_TYPE_LIGHT" desc="Text for light theme type">
         Light
       </message>
@@ -387,8 +387,8 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
           Same as macOS
         </message>
       </if>
-      <!-- Dissenter Default Extensions -->
-      <message name="IDS_SETTINGS_BRAVE_DEFAULT_EXTENSIONS_TITLE" desc="The title for Dissenter default extensions in settings">
+      <!-- The Hive Default Extensions -->
+      <message name="IDS_SETTINGS_BRAVE_DEFAULT_EXTENSIONS_TITLE" desc="The title for The Hive default extensions in settings">
         Extensions
       </message>
       <message name="IDS_SETTINGS_WEBTORRENT_ENABLED_DESC" desc="The description for WebTorrent switch in settings">
@@ -410,7 +410,7 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
       <message name="IDS_MD_EXTENSIONS_BRAVE_ITEM_CHROME_WEB_STORE" desc="Label for button to visit the Web Extensions Store.">
         View in Web Extensions Store
       </message>
-      <!-- Dissenter Clear Browsing Data On Exit Settings -->
+      <!-- The Hive Clear Browsing Data On Exit Settings -->
       <message name="IDS_SETTINGS_BRAVE_ON_EXIT" desc="Clear Browsing Data dialog On exit tab label">
         On exit
       </message>
@@ -420,20 +420,20 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
       </message>
       <!-- App shortcuts -->
       <if expr="not is_win">
-        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_NIGHTLY" desc="Name for the Dissenter Apps Start Menu folder name.">
-          Dissenter Browser Nightly Apps
+        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_NIGHTLY" desc="Name for the The Hive Apps Start Menu folder name.">
+          The Hive Browser Nightly Apps
         </message>
-        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_BETA" desc="Name for the Dissenter Apps Start Menu folder name.">
-          Dissenter Browser Beta Apps
+        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_BETA" desc="Name for the The Hive Apps Start Menu folder name.">
+          The Hive Browser Beta Apps
         </message>
-        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_DEV" desc="Name for the Dissenter Apps Start Menu folder name.">
-          Dissenter Browser Dev Apps
+        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_DEV" desc="Name for the The Hive Apps Start Menu folder name.">
+          The Hive Browser Dev Apps
         </message>
-        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_STABLE" desc="Name for the Dissenter Apps Start Menu folder name.">
-          Dissenter Browser Apps
+        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_STABLE" desc="Name for the The Hive Apps Start Menu folder name.">
+          The Hive Browser Apps
         </message>
-        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_DEVELOPMENT" desc="Name for the Dissenter Apps Start Menu folder name.">
-          Dissenter Browser Development Apps
+        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_DEVELOPMENT" desc="Name for the The Hive Apps Start Menu folder name.">
+          The Hive Browser Development Apps
         </message>
       </if>
     </messages>

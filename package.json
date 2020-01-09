@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gab-ai-inc/defiant-core.git"
+    "url": "git+https://github.com/RSerhii/thehive-core.git"
   },
   "author": {
     "name": "Gab AI, Inc <legal@gab.com>"
@@ -254,7 +254,7 @@
     ],
     "transformIgnorePatterns": [
       "<rootDir>/node_modules/(?!(brave-ui)/)",
-      "<rootDir>/node_modules/(?!(dissenter-ui)/)"
+      "<rootDir>/node_modules/(?!(thehive-ui)/)"
     ],
     "setupFilesAfterEnv": [
       "<rootDir>/components/test/testSetup.ts"
@@ -267,8 +267,8 @@
       "\\.(css|less)$": "identity-obj-proxy",
       "^brave-ui$": "<rootDir>/node_modules/brave-ui/src",
       "^brave-ui\\/(.*)": "<rootDir>/node_modules/brave-ui/src/$1",
-      "^dissenter-ui$": "<rootDir>/node_modules/dissenter-ui/src",
-      "^dissenter-ui\\/(.*)": "<rootDir>/node_modules/dissenter-ui/src/$1"
+      "^thehive-ui$": "<rootDir>/node_modules/thehive-ui/src",
+      "^thehive-ui\\/(.*)": "<rootDir>/node_modules/thehive-ui/src/$1"
     }
   },
   "devDependencies": {
@@ -288,7 +288,7 @@
     "css-loader": "^2.1.1",
     "csstype": "^2.5.5",
     "deep-freeze-node": "^1.1.3",
-    "dissenter-ui": "git+https://github.com/gab-ai-inc/defiant-ui.git#63a4afd8ffc025e694e5a493a280fcdde225486e",
+    "thehive-ui": "git+https://github.com/RSerhii/thehive-ui.git#63a4afd8ffc025e694e5a493a280fcdde225486e",
     "emptykit.css": "^1.0.1",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",

@@ -32,7 +32,7 @@ source_set("browser_process") {
     "brave_stats_updater_util.h",
     "brave_tab_helpers.cc",
     "brave_tab_helpers.h",
-    # Dissenter: Disable
+    # The Hive: Disable
     # "brave_rewards/donations_dialog.cc",
     # "brave_rewards/donations_dialog.h",
     "browser_context_keyed_service_factories.cc",

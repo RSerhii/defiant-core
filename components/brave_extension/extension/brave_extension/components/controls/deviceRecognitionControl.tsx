@@ -11,7 +11,7 @@ import {
   ArrowDownIcon,
   BlockedInfoRowStats,
   SelectBox
-} from 'dissenter-ui/features/shields'
+} from 'thehive-ui/features/shields'
 
 // Group Components
 import StaticList from '../list/static'

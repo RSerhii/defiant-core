@@ -21,7 +21,7 @@ import {
   Separator,
   FakeButton,
   Link
-} from 'dissenter-ui/features/newTab/private'
+} from 'thehive-ui/features/newTab/private'
 
 // Helpers
 import { getLocale } from '../../../common/locale'

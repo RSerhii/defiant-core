@@ -2,5 +2,5 @@ import("//build/config/features.gni")
 
 declare_args() {
   brave_ads_enabled = false 
-  # Dissenter: replace !is_android with false
+  # The Hive: replace !is_android with false
 }

@@ -16,9 +16,9 @@
 // I think below code will be fine.
 //
 //  #if defined(OFFICIAL_BUILD)
-//    return "com.gab.Dissenter";
+//    return "com.gab.The Hive";
 //  #else
-//    return "com.gab.Dissenter.development";
+//    return "com.gab.The Hive.development";
 //  #endif
 //
 // because |base_bundle_id| is set before calling BaseBundleID() in non test
@@ -37,19 +37,19 @@ const char* BaseBundleID() {
   }
 
 #if !defined(OFFICIAL_BUILD)
-  return "com.gab.Dissenter.development";
+  return "com.gab.The Hive.development";
 #else
   switch (chrome::GetChannel()) {
     case version_info::Channel::CANARY:
-      return "com.gab.Dissenter.nightly";
+      return "com.gab.The Hive.nightly";
     case version_info::Channel::DEV:
-      return "com.gab.Dissenter.dev";
+      return "com.gab.The Hive.dev";
     case version_info::Channel::BETA:
-      return "com.gab.Dissenter.beta";
+      return "com.gab.The Hive.beta";
     case version_info::Channel::STABLE:
     case version_info::Channel::UNKNOWN:
     default:
-      return "com.gab.Dissenter";
+      return "com.gab.The Hive";
   }
 #endif
 }

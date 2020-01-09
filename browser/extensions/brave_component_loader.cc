@@ -15,7 +15,7 @@
 #include "brave/common/extensions/extension_constants.h"
 #include "brave/common/pref_names.h"
 #include "brave/components/brave_extension/grit/brave_extension.h"
-#include "brave/components/dissenter_extension/grit/dissenter_extension.h"
+#include "brave/components/thehive_extension/grit/thehive_extension.h"
 #include "brave/components/brave_rewards/browser/buildflags/buildflags.h"
 #include "brave/components/brave_rewards/resources/extension/grit/brave_rewards_extension_resources.h"
 #include "brave/components/brave_webtorrent/grit/brave_webtorrent_resources.h"
@@ -102,10 +102,10 @@ void BraveComponentLoader::AddDefaultComponentExtensions(
     Add(IDR_BRAVE_EXTENSION, brave_extension_path);
   }
 
-  base::FilePath dissenter_extension_path(FILE_PATH_LITERAL(""));
-  dissenter_extension_path =
-      dissenter_extension_path.Append(FILE_PATH_LITERAL("dissenter_extension"));
-  Add(IDR_DISSENTER_EXTENSION, dissenter_extension_path);
+  base::FilePath thehive_extension_path(FILE_PATH_LITERAL(""));
+  thehive_extension_path =
+      thehive_extension_path.Append(FILE_PATH_LITERAL("thehive_extension"));
+  Add(IDR_THEHIVE_EXTENSION, thehive_extension_path);
 
   if (!profile_prefs_->GetBoolean(prefs::kPluginsAlwaysOpenPdfExternally) &&
       !command_line.HasSwitch(switches::kDisablePDFJSExtension)) {

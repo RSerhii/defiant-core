@@ -1,6 +1,6 @@
 import * as React from 'react'
-import { ThemeProvider } from 'dissenter-ui/theme'
-import IBraveTheme from 'dissenter-ui/theme/theme-interface'
+import { ThemeProvider } from 'thehive-ui/theme'
+import IBraveTheme from 'thehive-ui/theme/theme-interface'
 
 export type Props = {
   initialThemeType?: chrome.braveTheme.ThemeType

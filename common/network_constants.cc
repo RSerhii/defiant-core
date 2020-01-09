@@ -4,7 +4,7 @@
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
 
 #include "brave/common/network_constants.h"
-// Dissenter(TODO): No updates for now.
+// The Hive(TODO): No updates for now.
 // https://go-updater.brave.com/extensions/
 const char kBraveUpdatesExtensionsEndpoint[] =
     "https://0.0.0.0/extensions/";
@@ -57,7 +57,7 @@ const char kCookieHeader[] = "Cookie";
 // Intentional misspelling on referrer to match HTTP spec
 const char kRefererHeader[] = "Referer";
 const char kUserAgentHeader[] = "User-Agent";
-// Dissenter: We will not identify our users.
+// The Hive: We will not identify our users.
 // const char kBravePartnerHeader[] = "X-Brave-Partner";
 
 const char kBittorrentMimeType[] = "application/x-bittorrent";

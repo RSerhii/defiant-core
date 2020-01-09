@@ -14,7 +14,7 @@ int WINAPI wWinMain(HINSTANCE instance, HINSTANCE prev_instance,
                                           show_command);
   if (!return_code) {
     const base::CommandLine& cmd_line = *base::CommandLine::ForCurrentProcess();
-    // Dissenter: We don't do referral codes.
+    // The Hive: We don't do referral codes.
     // if (cmd_line.HasSwitch(kBraveReferralCode)) {
     if (false) {
       const std::string referral_code =

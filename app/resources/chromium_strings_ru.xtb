@@ -1,284 +1,284 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="ru">
-<translation id="5194812628624740897">Если вы отключите аккаунт <ph name="USERNAME"/>, все сохраненные на этом устройстве закладки, настройки, история и другие данные Dissenter будут удалены. Данные в вашем аккаунте Gab AI сохранятся, и вы сможете управлять ими в <ph name="GOOGLE_DASHBOARD_LINK"/>Личном кабинете Gab AI<ph name="END_GOOGLE_DASHBOARD_LINK"/>.</translation>
-<translation id="939305735877869636">Dissenter</translation>
-<translation id="6373767849825830651">Dissenter – браузер, который открывает веб-страницы и приложения за секунды. Он быстр, стабилен в работе и прост в использовании. Встроенная в Dissenter защита от мошенничества и вредоносного ПО обеспечивает максимально безопасную работу в Интернете.</translation>
-<translation id="680297041157509674">Dissenter OS</translation>
-<translation id="4847979153841887006">Логотип Dissenter</translation>
+<translation id="5194812628624740897">Если вы отключите аккаунт <ph name="USERNAME"/>, все сохраненные на этом устройстве закладки, настройки, история и другие данные The Hive будут удалены. Данные в вашем аккаунте Gab AI сохранятся, и вы сможете управлять ими в <ph name="GOOGLE_DASHBOARD_LINK"/>Личном кабинете Gab AI<ph name="END_GOOGLE_DASHBOARD_LINK"/>.</translation>
+<translation id="939305735877869636">The Hive</translation>
+<translation id="6373767849825830651">The Hive – браузер, который открывает веб-страницы и приложения за секунды. Он быстр, стабилен в работе и прост в использовании. Встроенная в The Hive защита от мошенничества и вредоносного ПО обеспечивает максимально безопасную работу в Интернете.</translation>
+<translation id="680297041157509674">The Hive OS</translation>
+<translation id="4847979153841887006">Логотип The Hive</translation>
 <translation id="7339898014177206373">Новое окно</translation>
-<translation id="5935964611177478118">войдите в Dissenter</translation>
-<translation id="5516268345616100622">Диспетчер задач – Dissenter</translation>
-<translation id="7918740962659365265">Помочь улучшить Dissenter, отправляя в Gab AI отчеты о сбоях и <ph name="UMA_LINK"/></translation>
-<translation id="5381622442243174305"><ph name="PAGE_TITLE"/> – Dissenter</translation>
-<translation id="7830723774663008396">Dissenter – <ph name="PAGE_TITLE"/></translation>
-<translation id="1403270718080126244"><ph name="PAGE_TITLE"/> – Dissenter (бета-версия)</translation>
-<translation id="3943696263619956191"><ph name="PAGE_TITLE"/> – Dissenter для разработчиков</translation>
-<translation id="6236814935154483927"><ph name="PAGE_TITLE"/> – Dissenter Canary</translation>
-<translation id="4685833011652060085">Помощь по использованию Dissenter</translation>
-<translation id="6474707902830053522">Помощь по использованию Dissenter OS</translation>
-<translation id="8992261409816268381">Авторы Dissenter</translation>
-<translation id="4651430425715739110">© The Dissenter Authors, <ph name="YEAR"/> . Все права защищены.</translation>
-<translation id="2310890394934209120">Dissenter OS обязана своим появлением дополнительному <ph name="BEGIN_LINK_CROS_OSS"/>программному обеспечению с открытым исходным кодом<ph name="END_LINK_CROS_OSS"/>.</translation>
-<translation id="8160794320557846790">Dissenter OS, как и <ph name="BEGIN_LINK_LINUX_OSS"/>Linux (бета-версия)<ph name="END_LINK_LINUX_OSS"/>, работает благодаря дополнительному <ph name="BEGIN_LINK_CROS_OSS"/>программному обеспечению с открытым исходным кодом<ph name="END_LINK_CROS_OSS"/>.</translation>
-<translation id="6913582816347128893">В работе Dissenter могут возникать сбои, так как браузер больше не поддерживает Mac OS X 10.9.</translation>
-<translation id="7977787072794666032">В работе Dissenter могут возникать сбои, так как браузер больше не поддерживает Windows XP и Windows Vista.</translation>
-<translation id="189297655255130768">Dissenter не отвечает. Перезапустить сейчас?</translation>
-<translation id="8703492925273919597">Закройте все окна Dissenter и повторите попытку снова.</translation>
-<translation id="335632367599648646">Вы действительно хотите удалить Dissenter?</translation>
-<translation id="5590013613412457132">Удаление Dissenter</translation>
-<translation id="5019879183386042809">Назначить Dissenter браузером по умолчанию</translation>
-<translation id="5063987220091207247">Dissenter OS не может открыть эту страницу</translation>
-<translation id="4065288863231444640">Разрешить Dissenter работать в фоновом режиме</translation>
-<translation id="6797402139308059782">Разрешить Dissenter работать в фоновом режиме</translation>
-<translation id="2585240446624043880">Dissenter не может выполнять операции чтения и записи в своем каталоге: <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">(Необязательно) Помогите сделать Dissenter лучше, автоматически отправляя статистику использования и отчеты об ошибках в Gab AI.</translation>
-<translation id="1489465648257900784">Ваш профиль не может использоваться, поскольку он от более новой версии Dissenter.
+<translation id="5935964611177478118">войдите в The Hive</translation>
+<translation id="5516268345616100622">Диспетчер задач – The Hive</translation>
+<translation id="7918740962659365265">Помочь улучшить The Hive, отправляя в Gab AI отчеты о сбоях и <ph name="UMA_LINK"/></translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE"/> – The Hive</translation>
+<translation id="7830723774663008396">The Hive – <ph name="PAGE_TITLE"/></translation>
+<translation id="1403270718080126244"><ph name="PAGE_TITLE"/> – The Hive (бета-версия)</translation>
+<translation id="3943696263619956191"><ph name="PAGE_TITLE"/> – The Hive для разработчиков</translation>
+<translation id="6236814935154483927"><ph name="PAGE_TITLE"/> – The Hive Canary</translation>
+<translation id="4685833011652060085">Помощь по использованию The Hive</translation>
+<translation id="6474707902830053522">Помощь по использованию The Hive OS</translation>
+<translation id="8992261409816268381">Авторы The Hive</translation>
+<translation id="4651430425715739110">© The The Hive Authors, <ph name="YEAR"/> . Все права защищены.</translation>
+<translation id="2310890394934209120">The Hive OS обязана своим появлением дополнительному <ph name="BEGIN_LINK_CROS_OSS"/>программному обеспечению с открытым исходным кодом<ph name="END_LINK_CROS_OSS"/>.</translation>
+<translation id="8160794320557846790">The Hive OS, как и <ph name="BEGIN_LINK_LINUX_OSS"/>Linux (бета-версия)<ph name="END_LINK_LINUX_OSS"/>, работает благодаря дополнительному <ph name="BEGIN_LINK_CROS_OSS"/>программному обеспечению с открытым исходным кодом<ph name="END_LINK_CROS_OSS"/>.</translation>
+<translation id="6913582816347128893">В работе The Hive могут возникать сбои, так как браузер больше не поддерживает Mac OS X 10.9.</translation>
+<translation id="7977787072794666032">В работе The Hive могут возникать сбои, так как браузер больше не поддерживает Windows XP и Windows Vista.</translation>
+<translation id="189297655255130768">The Hive не отвечает. Перезапустить сейчас?</translation>
+<translation id="8703492925273919597">Закройте все окна The Hive и повторите попытку снова.</translation>
+<translation id="335632367599648646">Вы действительно хотите удалить The Hive?</translation>
+<translation id="5590013613412457132">Удаление The Hive</translation>
+<translation id="5019879183386042809">Назначить The Hive браузером по умолчанию</translation>
+<translation id="5063987220091207247">The Hive OS не может открыть эту страницу</translation>
+<translation id="4065288863231444640">Разрешить The Hive работать в фоновом режиме</translation>
+<translation id="6797402139308059782">Разрешить The Hive работать в фоновом режиме</translation>
+<translation id="2585240446624043880">The Hive не может выполнять операции чтения и записи в своем каталоге: <ph name="USER_DATA_DIRECTORY"/></translation>
+<translation id="8417700129970341035">(Необязательно) Помогите сделать The Hive лучше, автоматически отправляя статистику использования и отчеты об ошибках в Gab AI.</translation>
+<translation id="1489465648257900784">Ваш профиль не может использоваться, поскольку он от более новой версии The Hive.
 
-Некоторые возможности могут быть недоступны. Укажите другой каталог профиля либо используйте более новую версию Dissenter.</translation>
+Некоторые возможности могут быть недоступны. Укажите другой каталог профиля либо используйте более новую версию The Hive.</translation>
 <translation id="1065672644894730302">Не удается получить настройки. Некоторые функции могут быть недоступны, а изменения настроек не будут сохраняться.</translation>
-<translation id="3403365884036456766">Файл настроек поврежден или недействителен. Dissenter не может восстановить ваши параметры.</translation>
-<translation id="1477146545787277177">Произошел сбой Dissenter. Перезапустить?</translation>
+<translation id="3403365884036456766">Файл настроек поврежден или недействителен. The Hive не может восстановить ваши параметры.</translation>
+<translation id="1477146545787277177">Произошел сбой The Hive. Перезапустить?</translation>
 <translation id="5785919770853225148">Этот пароль будет сохранен в аккаунте Gab AI. Вам не нужно его запоминать.</translation>
-<translation id="113959764510199339">Вводимые пароли будут отображаться в Dissenter.</translation>
-<translation id="7503098128120083822">Вы собираетесь экспортировать пароли из Dissenter.</translation>
+<translation id="113959764510199339">Вводимые пароли будут отображаться в The Hive.</translation>
+<translation id="7503098128120083822">Вы собираетесь экспортировать пароли из The Hive.</translation>
 <translation id="8285294305439559616">Чтобы просмотреть пароли, введите пароль своего аккаунта Windows.</translation>
-<translation id="5918095577778020936">Чтобы экспортировать пароли из Dissenter, введите пароль своего аккаунта Windows.</translation>
-<translation id="8320964054148936490">На этом компьютере установлена актуальная версия Dissenter. Если программа не работает, удалите Dissenter и повторите попытку.</translation>
-<translation id="7691786510374174420">Установка не удалась из-за неизвестной ошибки. Если Dissenter продолжает работать, закройте его и повторите попытку.</translation>
-<translation id="2619516027171717873">Невозможно установить ту же версию Dissenter, которая уже присутствует в системе. Закройте Dissenter и повторите попытку.</translation>
-<translation id="6283840329609797763">В процессе установки произошла неизвестная ошибка. Скачайте Dissenter ещё раз.</translation>
-<translation id="95624393026532554">Для работы Dissenter необходима ОС Windows 7 или более поздней версии.</translation>
-<translation id="7387051847644272380">В процессе установки произошла ошибка в операционной системе. Скачайте Dissenter ещё раз.</translation>
-<translation id="1819119299840995223">Dissenter выполняет другую операцию. Повторите попытку позже.</translation>
+<translation id="5918095577778020936">Чтобы экспортировать пароли из The Hive, введите пароль своего аккаунта Windows.</translation>
+<translation id="8320964054148936490">На этом компьютере установлена актуальная версия The Hive. Если программа не работает, удалите The Hive и повторите попытку.</translation>
+<translation id="7691786510374174420">Установка не удалась из-за неизвестной ошибки. Если The Hive продолжает работать, закройте его и повторите попытку.</translation>
+<translation id="2619516027171717873">Невозможно установить ту же версию The Hive, которая уже присутствует в системе. Закройте The Hive и повторите попытку.</translation>
+<translation id="6283840329609797763">В процессе установки произошла неизвестная ошибка. Скачайте The Hive ещё раз.</translation>
+<translation id="95624393026532554">Для работы The Hive необходима ОС Windows 7 или более поздней версии.</translation>
+<translation id="7387051847644272380">В процессе установки произошла ошибка в операционной системе. Скачайте The Hive ещё раз.</translation>
+<translation id="1819119299840995223">The Hive выполняет другую операцию. Повторите попытку позже.</translation>
 <translation id="7747138024166251722">Программе установки не удалось создать временный каталог. Возможно, у вас нет прав на установку приложений или недостаточно места на диске.</translation>
-<translation id="7365690458036015383">Установка прервана на этапе распаковки архива. Скачайте Dissenter ещё раз.</translation>
-<translation id="6914496861676471566">Установочный архив поврежден. Скачайте Dissenter ещё раз.</translation>
+<translation id="7365690458036015383">Установка прервана на этапе распаковки архива. Скачайте The Hive ещё раз.</translation>
+<translation id="6914496861676471566">Установочный архив поврежден. Скачайте The Hive ещё раз.</translation>
 <translation id="8862326446509486874">У вас нет прав, необходимых для установки на системном уровне. Запустите программу установки еще раз в качестве администратора.</translation>
-<translation id="6666624454809779082">Dissenter уже установлен для всех пользователей вашего компьютера</translation>
+<translation id="6666624454809779082">The Hive уже установлен для всех пользователей вашего компьютера</translation>
 <translation id="6676384891291319759">Доступ в Интернет</translation>
 <translation id="911206726377975832">Также удалить данные о работе в браузере?</translation>
 <translation id="2770231113462710648">Назначить браузером по умолчанию:</translation>
 <translation id="2485422356828889247">Удалить</translation>
-<translation id="3343095737966473035">Dissenter не является браузером по умолчанию.</translation>
-<translation id="6715663530666325392">Настройте синхронизацию, чтобы сохранить в облаке персонализированные функции браузера и получить к ним доступ из Dissenter с любого компьютера.</translation>
-<translation id="5536657158619734169">Доступна новая версия Dissenter.</translation>
-<translation id="505042220086416644">Доступна новая версия Dissenter, которая стала еще быстрее.</translation>
-<translation id="5616153642055197778">Доступна новая, еще более быстрая версия Dissenter.</translation>
-<translation id="2301993384336631869">Dissenter был обновлен, однако вы не использовали его в течение последних 30 дней.</translation>
-<translation id="2106568569080763501">В Dissenter вы можете нажать на любой номер телефона и позвонить на него через Skype.</translation>
-<translation id="5874882355102994015">Если отсутствует встроенная программа для работы с PDF-файлами, предварительный просмотр в Dissenter невозможен.</translation>
-<translation id="8880183781256147665">Добавление в Dissenter...</translation>
-<translation id="3561569806301739367">Dissenter заблокировал файл <ph name="FILE_NAME"/> как потенциально опасный.</translation>
-<translation id="6205431412329939367">Dissenter заблокировал файл <ph name="FILE_NAME"/> как потенциально опасный. Вы пользуетесь Дополнительной защитой.</translation>
-<translation id="9067428552314418522">Dissenter заблокировал этот файл как опасный.</translation>
-<translation id="2938460345748897177">Dissenter заблокировал этот файл как опасный. Вы пользуетесь Дополнительной защитой.</translation>
-<translation id="4168372721886011198">Dissenter заблокировал файл <ph name="FILE_NAME"/> как опасный.</translation>
-<translation id="8858456697111532356">Dissenter заблокировал файл <ph name="FILE_NAME"/> как опасный. Вы пользуетесь Дополнительной защитой.</translation>
-<translation id="89367911614620585">Dissenter заблокировал этот файл как потенциально опасный.</translation>
-<translation id="8943391224520748272">Dissenter заблокировал этот файл как потенциально опасный. Вы пользуетесь Дополнительной защитой.</translation>
-<translation id="9183662282810237335">Закрыть Dissenter?</translation>
-<translation id="3834935463915107022">Завершить работу Dissenter?</translation>
-<translation id="8797356639448065696">Dissenter работает в фоновом режиме</translation>
-<translation id="2339258256897053758">Отсутствуют ключи API Gab AI. Некоторые функции Dissenter могут не работать.</translation>
-<translation id="2182657378556811785">Чтобы завершить обновление, перезапустите Dissenter.</translation>
+<translation id="3343095737966473035">The Hive не является браузером по умолчанию.</translation>
+<translation id="6715663530666325392">Настройте синхронизацию, чтобы сохранить в облаке персонализированные функции браузера и получить к ним доступ из The Hive с любого компьютера.</translation>
+<translation id="5536657158619734169">Доступна новая версия The Hive.</translation>
+<translation id="505042220086416644">Доступна новая версия The Hive, которая стала еще быстрее.</translation>
+<translation id="5616153642055197778">Доступна новая, еще более быстрая версия The Hive.</translation>
+<translation id="2301993384336631869">The Hive был обновлен, однако вы не использовали его в течение последних 30 дней.</translation>
+<translation id="2106568569080763501">В The Hive вы можете нажать на любой номер телефона и позвонить на него через Skype.</translation>
+<translation id="5874882355102994015">Если отсутствует встроенная программа для работы с PDF-файлами, предварительный просмотр в The Hive невозможен.</translation>
+<translation id="8880183781256147665">Добавление в The Hive...</translation>
+<translation id="3561569806301739367">The Hive заблокировал файл <ph name="FILE_NAME"/> как потенциально опасный.</translation>
+<translation id="6205431412329939367">The Hive заблокировал файл <ph name="FILE_NAME"/> как потенциально опасный. Вы пользуетесь Дополнительной защитой.</translation>
+<translation id="9067428552314418522">The Hive заблокировал этот файл как опасный.</translation>
+<translation id="2938460345748897177">The Hive заблокировал этот файл как опасный. Вы пользуетесь Дополнительной защитой.</translation>
+<translation id="4168372721886011198">The Hive заблокировал файл <ph name="FILE_NAME"/> как опасный.</translation>
+<translation id="8858456697111532356">The Hive заблокировал файл <ph name="FILE_NAME"/> как опасный. Вы пользуетесь Дополнительной защитой.</translation>
+<translation id="89367911614620585">The Hive заблокировал этот файл как потенциально опасный.</translation>
+<translation id="8943391224520748272">The Hive заблокировал этот файл как потенциально опасный. Вы пользуетесь Дополнительной защитой.</translation>
+<translation id="9183662282810237335">Закрыть The Hive?</translation>
+<translation id="3834935463915107022">Завершить работу The Hive?</translation>
+<translation id="8797356639448065696">The Hive работает в фоновом режиме</translation>
+<translation id="2339258256897053758">Отсутствуют ключи API Gab AI. Некоторые функции The Hive могут не работать.</translation>
+<translation id="2182657378556811785">Чтобы завершить обновление, перезапустите The Hive.</translation>
 <translation id="5906655207909574370">Чтобы завершить обновление, перезапустите устройство.</translation>
 <translation id="5877064549588274448">Канал изменен. Чтобы изменения вступили в силу, перезапустите устройство.</translation>
-<translation id="5131485705787281074">Вы используете актуальную версию Dissenter.</translation>
-<translation id="8667808506758191620">На устройстве <ph name="DEVICE_TYPE"/> используется последняя версия Dissenter OS.</translation>
-<translation id="5047208012586153436">Выполняется обновление Dissenter...</translation>
+<translation id="5131485705787281074">Вы используете актуальную версию The Hive.</translation>
+<translation id="8667808506758191620">На устройстве <ph name="DEVICE_TYPE"/> используется последняя версия The Hive OS.</translation>
+<translation id="5047208012586153436">Выполняется обновление The Hive...</translation>
 <translation id="6970811910055250180">Обновление операционной системы…</translation>
 <translation id="8030318113982266900">Переключение устройства на канал <ph name="CHANNEL_NAME"/>...</translation>
-<translation id="7861579472672677409">Расширение "<ph name="EXTENSION_NAME"/>" добавлено в Dissenter</translation>
-<translation id="8516116288943000095">Также удалить данные из Dissenter (<ph name="URL"/>)</translation>
-<translation id="4054452651944170004">Не показывать в меню Dissenter</translation>
-<translation id="5660079256336839395">Не показывать в Меню Dissenter</translation>
-<translation id="7456658570432774853">Отправьте отчет о текущих настройках Dissenter и помогите усовершенствовать работу браузера</translation>
-<translation id="6134859571175647580">Внимание! Dissenter не может запретить расширениям записывать историю просмотров. Чтобы отключить данное расширение в режиме инкогнито, снимите этот флажок.</translation>
-<translation id="777113543093865885">Удалить из Dissenter</translation>
-<translation id="6078442581074612226">В Dissenter</translation>
-<translation id="1448049584457347995">Чтобы обеспечить безопасность ваших данных, некоторые расширения Dissenter были отключены, так как <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> не содержит сведений о них, то есть эти компоненты могли быть установлены без вашего ведома.</translation>
+<translation id="7861579472672677409">Расширение "<ph name="EXTENSION_NAME"/>" добавлено в The Hive</translation>
+<translation id="8516116288943000095">Также удалить данные из The Hive (<ph name="URL"/>)</translation>
+<translation id="4054452651944170004">Не показывать в меню The Hive</translation>
+<translation id="5660079256336839395">Не показывать в Меню The Hive</translation>
+<translation id="7456658570432774853">Отправьте отчет о текущих настройках The Hive и помогите усовершенствовать работу браузера</translation>
+<translation id="6134859571175647580">Внимание! The Hive не может запретить расширениям записывать историю просмотров. Чтобы отключить данное расширение в режиме инкогнито, снимите этот флажок.</translation>
+<translation id="777113543093865885">Удалить из The Hive</translation>
+<translation id="6078442581074612226">В The Hive</translation>
+<translation id="1448049584457347995">Чтобы обеспечить безопасность ваших данных, некоторые расширения The Hive были отключены, так как <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> не содержит сведений о них, то есть эти компоненты могли быть установлены без вашего ведома.</translation>
 <translation id="8848045066928358658">Чтобы обеспечить безопасность ваших данных, некоторые расширения были отключены, так как <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> не содержит сведений о них (то есть они могли быть установлены без вашего ведома).</translation>
-<translation id="8148611988012584308">Настройка и управление Dissenter</translation>
-<translation id="5849446944780602366">Новая версия Dissenter уже вышла!</translation>
-<translation id="6315734375101223238">Настройка и управление Dissenter Требуется ваше внимание. Нажмите, чтобы получить подробную информацию.</translation>
-<translation id="9071554113102421877">&amp;Открыть в Dissenter</translation>
-<translation id="2176825726964012531">О &amp;Dissenter</translation>
-<translation id="5450493308072741203">Обновить &amp;Dissenter</translation>
-<translation id="1421502046520299169">О &amp;Dissenter OS</translation>
-<translation id="2534623228451928732">Обновить &amp;Dissenter OS</translation>
-<translation id="8447483940522230788">Помощник по Dissenter</translation>
-<translation id="3360368475735266712">Войдите, чтобы синхронизировать данные Dissenter на всех устройствах</translation>
-<translation id="5477319665405831211">Синхронизируйте данные Dissenter на всех устройствах</translation>
-<translation id="4934157190377700991">Вы вошли в Dissenter</translation>
-<translation id="4100716194836114130">Ваш персональный Dissenter</translation>
-<translation id="8296145982386097283">Пользуетесь компьютером вместе с коллегой или другом? Теперь каждый из вас сможет настроить Dissenter по своему вкусу.</translation>
-<translation id="1672124279374861424">После удаления вашего аккаунта из Dissenter может понадобиться перезагрузить открытые вкладки, чтобы изменения вступили в силу.</translation>
-<translation id="9197493712748167998">Для синхронизации данных Dissenter используется аккаунт <ph name="PROFILE_EMAIL"/>. Изменить параметры синхронизации или отключить аккаунт можно в <ph name="SETTINGS_LINK"/>.</translation>
-<translation id="8132634101975074716">Добро пожаловать в Dissenter!</translation>
+<translation id="8148611988012584308">Настройка и управление The Hive</translation>
+<translation id="5849446944780602366">Новая версия The Hive уже вышла!</translation>
+<translation id="6315734375101223238">Настройка и управление The Hive Требуется ваше внимание. Нажмите, чтобы получить подробную информацию.</translation>
+<translation id="9071554113102421877">&amp;Открыть в The Hive</translation>
+<translation id="2176825726964012531">О &amp;The Hive</translation>
+<translation id="5450493308072741203">Обновить &amp;The Hive</translation>
+<translation id="1421502046520299169">О &amp;The Hive OS</translation>
+<translation id="2534623228451928732">Обновить &amp;The Hive OS</translation>
+<translation id="8447483940522230788">Помощник по The Hive</translation>
+<translation id="3360368475735266712">Войдите, чтобы синхронизировать данные The Hive на всех устройствах</translation>
+<translation id="5477319665405831211">Синхронизируйте данные The Hive на всех устройствах</translation>
+<translation id="4934157190377700991">Вы вошли в The Hive</translation>
+<translation id="4100716194836114130">Ваш персональный The Hive</translation>
+<translation id="8296145982386097283">Пользуетесь компьютером вместе с коллегой или другом? Теперь каждый из вас сможет настроить The Hive по своему вкусу.</translation>
+<translation id="1672124279374861424">После удаления вашего аккаунта из The Hive может понадобиться перезагрузить открытые вкладки, чтобы изменения вступили в силу.</translation>
+<translation id="9197493712748167998">Для синхронизации данных The Hive используется аккаунт <ph name="PROFILE_EMAIL"/>. Изменить параметры синхронизации или отключить аккаунт можно в <ph name="SETTINGS_LINK"/>.</translation>
+<translation id="8132634101975074716">Добро пожаловать в The Hive!</translation>
 <translation id="4567424176335768812">Вы вошли с помощью аккаунта <ph name="USER_EMAIL_ADDRESS"/>. Ваши закладки, история и другие настройки теперь доступны на всех устройствах, где вы используете этот аккаунт.</translation>
-<translation id="6888049487162027489">Добро пожаловать в Dissenter! Синхронизация отключена администратором.</translation>
-<translation id="2925193881330501265">Ранее вы входили в Dissenter как <ph name="USER_EMAIL_ADDRESS"/>. Войдите снова, используя тот же аккаунт.</translation>
-<translation id="386092803020435298">Ранее вход в Dissenter на этом компьютере выполнялся с помощью аккаунта <ph name="ACCOUNT_EMAIL_LAST"/>. Если это не ваш аккаунт и вы хотите закрыть доступ к ранее сохраненным в Dissenter данным, создайте новый профиль Dissenter. 
+<translation id="6888049487162027489">Добро пожаловать в The Hive! Синхронизация отключена администратором.</translation>
+<translation id="2925193881330501265">Ранее вы входили в The Hive как <ph name="USER_EMAIL_ADDRESS"/>. Войдите снова, используя тот же аккаунт.</translation>
+<translation id="386092803020435298">Ранее вход в The Hive на этом компьютере выполнялся с помощью аккаунта <ph name="ACCOUNT_EMAIL_LAST"/>. Если это не ваш аккаунт и вы хотите закрыть доступ к ранее сохраненным в The Hive данным, создайте новый профиль The Hive. 
 
-Если войти в систему сейчас, закладки, история и прочие данные Dissenter будут синхронизированы с новым аккаунтом: <ph name="ACCOUNT_EMAIL_NEW"/>.</translation>
-<translation id="847561904663814268">Ранее вход в Dissenter на этом компьютере выполнялся из аккаунта <ph name="ACCOUNT_EMAIL_LAST"/>. Чтобы ваши данные хранились отдельно, создайте новый профиль Dissenter.</translation>
-<translation id="1853997773668795891">Связать данные Dissenter с этим аккаунтом?</translation>
-<translation id="1326766910007115955">Выполнив вход в управляемый аккаунт, вы предоставляете администратору право контролировать настройки вашего профиля Dissenter. Ваши данные Dissenter (приложения, закладки, история, пароли и другие настройки) будут временно связаны с аккаунтом <ph name="USER_NAME"/>. Эти данные можно удалить в Личном кабинете Gab AI, но их нельзя связать с другим аккаунтом. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Выполнив вход в управляемый аккаунт, вы предоставляете администратору право контролировать настройки вашего профиля Dissenter. Ваши данные Dissenter (приложения, закладки, история, пароли и другие настройки) будут временно связаны с аккаунтом <ph name="USER_NAME"/>. Эти данные можно удалить в Личном кабинете Gab AI, но их нельзя связать с другим аккаунтом. Чтобы сохранить данные Dissenter отдельно, создайте новый профиль. <ph name="LEARN_MORE"/></translation>
-<translation id="2444257125841652328">Ваш системный администратор задал настройки, согласно которым Dissenter должен запускать альтернативный браузер для доступа к сайту<ph name="TARGET_URL_HOSTNAME"/>.</translation>
-<translation id="5380963249588143069">Ваш системный администратор задал настройки, согласно которым Dissenter должен запускать <ph name="ALTERNATIVE_BROWSER_NAME"/> для доступа к сайту <ph name="TARGET_URL_HOSTNAME"/>.</translation>
-<translation id="2591326305549412656">Адрес <ph name="USER_EMAIL_ADDRESS"/> уже использовался в Dissenter</translation>
-<translation id="1384923383737428730">На компьютере обнаружено вредоносное ПО. Dissenter может удалить его, восстановить настройки и отключить расширения. Это вернет браузер в обычное состояние.</translation>
-<translation id="8919921662052966648">Dissenter не удалось синхронизировать данные. Обновите кодовую фразу в Sync.</translation>
-<translation id="2262856633481902138">Dissenter не удалось синхронизировать данные, поскольку ваши учетные сведения устарели.</translation>
-<translation id="5419189641394808652">Dissenter не удалось синхронизировать данные, поскольку служба Sync недоступна для вашего домена.</translation>
-<translation id="2577755334620061182">Dissenter не удалось синхронизировать данные из-за ошибки входа в систему.</translation>
-<translation id="8583885258305961947">Dissenter OS</translation>
+Если войти в систему сейчас, закладки, история и прочие данные The Hive будут синхронизированы с новым аккаунтом: <ph name="ACCOUNT_EMAIL_NEW"/>.</translation>
+<translation id="847561904663814268">Ранее вход в The Hive на этом компьютере выполнялся из аккаунта <ph name="ACCOUNT_EMAIL_LAST"/>. Чтобы ваши данные хранились отдельно, создайте новый профиль The Hive.</translation>
+<translation id="1853997773668795891">Связать данные The Hive с этим аккаунтом?</translation>
+<translation id="1326766910007115955">Выполнив вход в управляемый аккаунт, вы предоставляете администратору право контролировать настройки вашего профиля The Hive. Ваши данные The Hive (приложения, закладки, история, пароли и другие настройки) будут временно связаны с аккаунтом <ph name="USER_NAME"/>. Эти данные можно удалить в Личном кабинете Gab AI, но их нельзя связать с другим аккаунтом. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Выполнив вход в управляемый аккаунт, вы предоставляете администратору право контролировать настройки вашего профиля The Hive. Ваши данные The Hive (приложения, закладки, история, пароли и другие настройки) будут временно связаны с аккаунтом <ph name="USER_NAME"/>. Эти данные можно удалить в Личном кабинете Gab AI, но их нельзя связать с другим аккаунтом. Чтобы сохранить данные The Hive отдельно, создайте новый профиль. <ph name="LEARN_MORE"/></translation>
+<translation id="2444257125841652328">Ваш системный администратор задал настройки, согласно которым The Hive должен запускать альтернативный браузер для доступа к сайту<ph name="TARGET_URL_HOSTNAME"/>.</translation>
+<translation id="5380963249588143069">Ваш системный администратор задал настройки, согласно которым The Hive должен запускать <ph name="ALTERNATIVE_BROWSER_NAME"/> для доступа к сайту <ph name="TARGET_URL_HOSTNAME"/>.</translation>
+<translation id="2591326305549412656">Адрес <ph name="USER_EMAIL_ADDRESS"/> уже использовался в The Hive</translation>
+<translation id="1384923383737428730">На компьютере обнаружено вредоносное ПО. The Hive может удалить его, восстановить настройки и отключить расширения. Это вернет браузер в обычное состояние.</translation>
+<translation id="8919921662052966648">The Hive не удалось синхронизировать данные. Обновите кодовую фразу в Sync.</translation>
+<translation id="2262856633481902138">The Hive не удалось синхронизировать данные, поскольку ваши учетные сведения устарели.</translation>
+<translation id="5419189641394808652">The Hive не удалось синхронизировать данные, поскольку служба Sync недоступна для вашего домена.</translation>
+<translation id="2577755334620061182">The Hive не удалось синхронизировать данные из-за ошибки входа в систему.</translation>
+<translation id="8583885258305961947">The Hive OS</translation>
 <translation id="3968006371075376562">Не удалось синхронизировать данные. Обновите кодовую фразу в Sync.</translation>
 <translation id="6746636977031158624">Не удалось выполнить синхронизацию, так как учетные данные устарели.</translation>
 <translation id="2999152167963026588">Не удалось синхронизировать данные, поскольку сервис Sync недоступен в вашем домене.</translation>
 <translation id="1459786048951724030">Не удалось синхронизировать данные из-за ошибки входа в аккаунт.</translation>
-<translation id="2887570477425111999">Сохранять данные в Dissenter</translation>
-<translation id="193559141530782783">Dissenter будет хранить ваши данные в защищенном виде, поэтому их не придется вводить повторно.</translation>
-<translation id="663059986967017181">Скопировано в Dissenter</translation>
-<translation id="1457432835062259213">Панель запуска Dissenter</translation>
-<translation id="82609232232243542">Войдите в Dissenter</translation>
-<translation id="2924628237198507508">Для работы с приложениями необходимо выполнить вход в Dissenter. Это обеспечит синхронизацию приложений, закладок, истории, паролей и настроек, сохраненных на всех ваших устройствах.</translation>
-<translation id="380197516434040304">Удалить из Dissenter</translation>
-<translation id="300669147395456190">Приложения Dissenter</translation>
-<translation id="3421950102518690868">Прежде чем приступать к работе, ознакомьтесь с Условиями использования на сайте <ph name="DOMAIN"/> и примите их. Эти условия не дополняют, не заменяют и не ограничивают Условий использования Dissenter OS.</translation>
-<translation id="3293668930608086049">Dissenter использует камеру и микрофон.</translation>
-<translation id="8919461291440820124">Dissenter использует микрофон.</translation>
-<translation id="3205074487970075628">Dissenter использует камеру.</translation>
-<translation id="8142245354207161805">Скорее всего, профиль используется другим процессом Dissenter (<ph name="PROCESS_ID"/>) на другом компьютере (<ph name="HOST_NAME"/>). Во избежание сбоев профиль был заблокирован. Если вы уверены, что профиль не используется другими процессами, разблокируйте его и перезапустите Dissenter.</translation>
-<translation id="239760341987199724">Сделать Dissenter браузером по умолчанию</translation>
+<translation id="2887570477425111999">Сохранять данные в The Hive</translation>
+<translation id="193559141530782783">The Hive будет хранить ваши данные в защищенном виде, поэтому их не придется вводить повторно.</translation>
+<translation id="663059986967017181">Скопировано в The Hive</translation>
+<translation id="1457432835062259213">Панель запуска The Hive</translation>
+<translation id="82609232232243542">Войдите в The Hive</translation>
+<translation id="2924628237198507508">Для работы с приложениями необходимо выполнить вход в The Hive. Это обеспечит синхронизацию приложений, закладок, истории, паролей и настроек, сохраненных на всех ваших устройствах.</translation>
+<translation id="380197516434040304">Удалить из The Hive</translation>
+<translation id="300669147395456190">Приложения The Hive</translation>
+<translation id="3421950102518690868">Прежде чем приступать к работе, ознакомьтесь с Условиями использования на сайте <ph name="DOMAIN"/> и примите их. Эти условия не дополняют, не заменяют и не ограничивают Условий использования The Hive OS.</translation>
+<translation id="3293668930608086049">The Hive использует камеру и микрофон.</translation>
+<translation id="8919461291440820124">The Hive использует микрофон.</translation>
+<translation id="3205074487970075628">The Hive использует камеру.</translation>
+<translation id="8142245354207161805">Скорее всего, профиль используется другим процессом The Hive (<ph name="PROCESS_ID"/>) на другом компьютере (<ph name="HOST_NAME"/>). Во избежание сбоев профиль был заблокирован. Если вы уверены, что профиль не используется другими процессами, разблокируйте его и перезапустите The Hive.</translation>
+<translation id="239760341987199724">Сделать The Hive браузером по умолчанию</translation>
 <translation id="5344925500065984750">Чтобы ограничить пользователю <ph name="NEW_PROFILE_NAME"/> доступ к каким-либо страницам, перейдите по этой ссылке: <ph name="BEGIN_LINK_1"/><ph name="DISPLAY_LINK"/><ph name="END_LINK_1"/>. Если вы оставите настройки по умолчанию, <ph name="NEW_PROFILE_NAME"/> сможет открывать все сайты.
 
-Чтобы пользователь <ph name="NEW_PROFILE_NAME"/> не получил доступ к вашему аккаунту, при выходе из Dissenter нажмите на свое имя профиля в правом верхнем углу экрана и выберите "Выйти и заблокировать".
+Чтобы пользователь <ph name="NEW_PROFILE_NAME"/> не получил доступ к вашему аккаунту, при выходе из The Hive нажмите на свое имя профиля в правом верхнем углу экрана и выберите "Выйти и заблокировать".
 <ph name="BEGIN_LINK_2"/>Подробнее…<ph name="END_LINK_2"/>
 
 Дальнейшие инструкции отправлены на адрес <ph name="ACCOUNT_EMAIL"/>.</translation>
-<translation id="1820843143331379651">Начиная с версии Dissenter 70 контролируемые профили станут недоступны.</translation>
-<translation id="3066805437003400520">Данные о работе этого пользователя в браузере будут удалены с устройства. Чтобы восстановить их, войдите в Dissenter как <ph name="USER_EMAIL"/>.</translation>
-<translation id="2827121003398607864">Dissenter становится все лучше</translation>
-<translation id="7192666605334070839">Теперь с Dissenter ещё удобнее работать в аккаунте Gab AI, в том числе на общих компьютерах.</translation>
-<translation id="3511996232906761537">Все веб-страницы, закладки и другие данные Dissenter можно найти здесь.</translation>
-<translation id="7406627712452599344">Используйте Dissenter в гостевом режиме, если не хотите сохранять данные о посещенных сайтах.</translation>
-<translation id="5659384504794665581">Если, кроме вас, компьютером пользуется кто-то ещё, например родные или друзья, они тоже смогут настроить Dissenter на свой вкус.</translation>
-<translation id="7130675370997202556">Нажмите на свое имя, чтобы войти в Dissenter.</translation>
-<translation id="5952898964075639679">Добавить пользователя Dissenter</translation>
-<translation id="3813272600615358652">Расширение изменило стартовую страницу Dissenter.</translation>
-<translation id="2576129394594491151">Расширение "<ph name="EXTENSION_NAME"/>" изменило стартовую страницу Dissenter.</translation>
-<translation id="2675662665675552980">Кроме того, расширение изменило стартовую страницу Dissenter.</translation>
-<translation id="3215652305414474626">Кроме того, расширение изменило стартовую страницу Dissenter и страницу, отображаемую при нажатии кнопки "Главная страница".</translation>
-<translation id="2433912322225810055">Кроме того, расширение изменило стартовую страницу Dissenter и поисковую систему, используемую по умолчанию при вводе запроса в омнибокс.</translation>
-<translation id="2871190378186459992">Широкий выбор приложений, игр, расширений и тем для Dissenter.</translation>
-<translation id="3350544518197210895">Dissenter (mDNS-In)</translation>
-<translation id="1912973375560256099">Разрешить в Dissenter передачу входящего трафика по протоколу mDNS</translation>
-<translation id="8207657266087451193">Если у изображения нет понятного описания, Dissenter попытается его найти. Для создания описаний изображения отправляются в Gab AI. Эту функцию можно отключить в настройках в любое время.</translation>
-<translation id="5499063270485366718">Если у изображения нет понятного описания, Dissenter попытается его найти. Для создания описаний изображения отправляются в Gab AI.</translation>
+<translation id="1820843143331379651">Начиная с версии The Hive 70 контролируемые профили станут недоступны.</translation>
+<translation id="3066805437003400520">Данные о работе этого пользователя в браузере будут удалены с устройства. Чтобы восстановить их, войдите в The Hive как <ph name="USER_EMAIL"/>.</translation>
+<translation id="2827121003398607864">The Hive становится все лучше</translation>
+<translation id="7192666605334070839">Теперь с The Hive ещё удобнее работать в аккаунте Gab AI, в том числе на общих компьютерах.</translation>
+<translation id="3511996232906761537">Все веб-страницы, закладки и другие данные The Hive можно найти здесь.</translation>
+<translation id="7406627712452599344">Используйте The Hive в гостевом режиме, если не хотите сохранять данные о посещенных сайтах.</translation>
+<translation id="5659384504794665581">Если, кроме вас, компьютером пользуется кто-то ещё, например родные или друзья, они тоже смогут настроить The Hive на свой вкус.</translation>
+<translation id="7130675370997202556">Нажмите на свое имя, чтобы войти в The Hive.</translation>
+<translation id="5952898964075639679">Добавить пользователя The Hive</translation>
+<translation id="3813272600615358652">Расширение изменило стартовую страницу The Hive.</translation>
+<translation id="2576129394594491151">Расширение "<ph name="EXTENSION_NAME"/>" изменило стартовую страницу The Hive.</translation>
+<translation id="2675662665675552980">Кроме того, расширение изменило стартовую страницу The Hive.</translation>
+<translation id="3215652305414474626">Кроме того, расширение изменило стартовую страницу The Hive и страницу, отображаемую при нажатии кнопки "Главная страница".</translation>
+<translation id="2433912322225810055">Кроме того, расширение изменило стартовую страницу The Hive и поисковую систему, используемую по умолчанию при вводе запроса в омнибокс.</translation>
+<translation id="2871190378186459992">Широкий выбор приложений, игр, расширений и тем для The Hive.</translation>
+<translation id="3350544518197210895">The Hive (mDNS-In)</translation>
+<translation id="1912973375560256099">Разрешить в The Hive передачу входящего трафика по протоколу mDNS</translation>
+<translation id="8207657266087451193">Если у изображения нет понятного описания, The Hive попытается его найти. Для создания описаний изображения отправляются в Gab AI. Эту функцию можно отключить в настройках в любое время.</translation>
+<translation id="5499063270485366718">Если у изображения нет понятного описания, The Hive попытается его найти. Для создания описаний изображения отправляются в Gab AI.</translation>
 <translation id="3870835867536344658">Используется та же технология проверки правописания, что и в Gab AI Поиске. Текст, введенный в браузере, отправляется на серверы Gab AI. Этот параметр можно изменить в разделе настроек.</translation>
-<translation id="1807774211756215222">Открыть ссылку в новой вкладке браузера Dissenter</translation>
-<translation id="4624945300945265642">Открыть ссылку в режиме инкогнито браузера Dissenter</translation>
-<translation id="7863882214613921971">Открыть ссылку в новой вкладке браузера Dissenter</translation>
-<translation id="6554952862405000915">Открыть ссылку в режиме инкогнито браузера Dissenter</translation>
-<translation id="4805806622840861220">Перезапустить Dissenter</translation>
-<translation id="2560046583427795596">Для Dissenter доступно обновление. Оно будет установлено при перезапуске браузера.</translation>
+<translation id="1807774211756215222">Открыть ссылку в новой вкладке браузера The Hive</translation>
+<translation id="4624945300945265642">Открыть ссылку в режиме инкогнито браузера The Hive</translation>
+<translation id="7863882214613921971">Открыть ссылку в новой вкладке браузера The Hive</translation>
+<translation id="6554952862405000915">Открыть ссылку в режиме инкогнито браузера The Hive</translation>
+<translation id="4805806622840861220">Перезапустить The Hive</translation>
+<translation id="2560046583427795596">Для The Hive доступно обновление. Оно будет установлено при перезапуске браузера.</translation>
 <translation id="2799223571221894425">Перезапустить</translation>
-<translation id="2522086024276534909">Перезапуск Dissenter OS</translation>
-<translation id="8183252473547465084">Перезагрузите Dissenter OS, чтобы установить обновление.</translation>
+<translation id="2522086024276534909">Перезапуск The Hive OS</translation>
+<translation id="8183252473547465084">Перезагрузите The Hive OS, чтобы установить обновление.</translation>
 <translation id="5895138241574237353">Перезапустить</translation>
-<translation id="8887390605192156061">Закройте все экземпляры Dissenter</translation>
-<translation id="1801551749768408825">Запущены другие экземпляры Dissenter. Чтобы выполнить обновление, закройте их.</translation>
-<translation id="2632141563911437138">Чтобы выполнить обновление, необходимо остановить работу Dissenter. В результате могут быть потеряны несохраненные изменения, внесенные другими пользователями на этом компьютере.</translation>
-<translation id="5875673934455379806">Переустановить Dissenter</translation>
-<translation id="2097604701283463988">Версия Dissenter устарела</translation>
-<translation id="5173820533850252773">Версия Dissenter устарела</translation>
-<translation id="6389268239133412586">Не удалось обновить Dissenter</translation>
-<translation id="7963515534397191222">Не удалось установить последнюю версию Dissenter, в которой добавлены новые функции и обновления системы безопасности.</translation>
-<translation id="1705567146636171298">Обновить Dissenter</translation>
-<translation id="3598551856834560515">Чтобы начать синхронизацию, обновите Dissenter</translation>
+<translation id="8887390605192156061">Закройте все экземпляры The Hive</translation>
+<translation id="1801551749768408825">Запущены другие экземпляры The Hive. Чтобы выполнить обновление, закройте их.</translation>
+<translation id="2632141563911437138">Чтобы выполнить обновление, необходимо остановить работу The Hive. В результате могут быть потеряны несохраненные изменения, внесенные другими пользователями на этом компьютере.</translation>
+<translation id="5875673934455379806">Переустановить The Hive</translation>
+<translation id="2097604701283463988">Версия The Hive устарела</translation>
+<translation id="5173820533850252773">Версия The Hive устарела</translation>
+<translation id="6389268239133412586">Не удалось обновить The Hive</translation>
+<translation id="7963515534397191222">Не удалось установить последнюю версию The Hive, в которой добавлены новые функции и обновления системы безопасности.</translation>
+<translation id="1705567146636171298">Обновить The Hive</translation>
+<translation id="3598551856834560515">Чтобы начать синхронизацию, обновите The Hive</translation>
 <translation id="4050175100176540509">В последней версии улучшена защита и добавлены новые функции.</translation>
-<translation id="2513524988380267210">{SECONDS,plural, =1{Dissenter перезапустится через 1 секунду}one{Dissenter перезапустится через # секунду}few{Dissenter перезапустится через # секунды}many{Dissenter перезапустится через # секунд}other{Dissenter перезапустится через # секунды}}</translation>
-<translation id="5509303873219371662">Перезапустите Dissenter</translation>
-<translation id="8668413672647811944">Установлено специальное обновление системы безопасности. Перезапустите Dissenter (все вкладки будут восстановлены).</translation>
-<translation id="763369711159699222">Сделайте Dissenter лучше</translation>
-<translation id="1156940037717341650">Вы можете сделать защиту Dissenter ещё надежнее. Просто разрешите автоматически отправлять в Gab AI информацию о возможных проблемах безопасности</translation>
-<translation id="6791166902140255175">Вкладка Dissenter</translation>
-<translation id="2555639463117073782">Перезапустите Dissenter, чтобы включить плагин "<ph name="PLUGIN_NAME"/>"</translation>
-<translation id="8899693649891674038">Установите Dissenter на телефон. Мы отправим вам SMS.</translation>
-<translation id="1570795130102031380">Установите Dissenter на телефон. Мы отправим вам SMS на номер <ph name="PHONE_NUMBER"/>.</translation>
-<translation id="1609678321160597289">Установите Dissenter на телефон. Мы отправим SMS на номер, указанный в вашем аккаунте.</translation>
-<translation id="2965084188004448871">Установите Dissenter на телефон. Мы отправим SMS на номер, указанный в вашем аккаунте: <ph name="PHONE_NUMBER"/>.</translation>
-<translation id="8358191771897395012">скачайте Dissenter для iOS</translation>
-<translation id="2034072705932785495">Для этого сайта Dissenter запрашивает доступ к камере.</translation>
-<translation id="3335606533094650083">Для этого сайта Dissenter запрашивает доступ к микрофону.</translation>
-<translation id="4831743161813926460">Для этого сайта Dissenter запрашивает доступ к камере и микрофону.</translation>
-<translation id="696826782632239602">Для этого сайта Dissenter запрашивает доступ к данным о вашем местоположении.</translation>
-<translation id="7798069806040634998">Для скачивания файлов браузеру Dissenter требуется доступ к хранилищу.</translation>
-<translation id="7685904775439037072">Когда вы предоставите доступ Dissenter, веб-сайты также смогут запрашивать у вас доступ.</translation>
+<translation id="2513524988380267210">{SECONDS,plural, =1{The Hive перезапустится через 1 секунду}one{The Hive перезапустится через # секунду}few{The Hive перезапустится через # секунды}many{The Hive перезапустится через # секунд}other{The Hive перезапустится через # секунды}}</translation>
+<translation id="5509303873219371662">Перезапустите The Hive</translation>
+<translation id="8668413672647811944">Установлено специальное обновление системы безопасности. Перезапустите The Hive (все вкладки будут восстановлены).</translation>
+<translation id="763369711159699222">Сделайте The Hive лучше</translation>
+<translation id="1156940037717341650">Вы можете сделать защиту The Hive ещё надежнее. Просто разрешите автоматически отправлять в Gab AI информацию о возможных проблемах безопасности</translation>
+<translation id="6791166902140255175">Вкладка The Hive</translation>
+<translation id="2555639463117073782">Перезапустите The Hive, чтобы включить плагин "<ph name="PLUGIN_NAME"/>"</translation>
+<translation id="8899693649891674038">Установите The Hive на телефон. Мы отправим вам SMS.</translation>
+<translation id="1570795130102031380">Установите The Hive на телефон. Мы отправим вам SMS на номер <ph name="PHONE_NUMBER"/>.</translation>
+<translation id="1609678321160597289">Установите The Hive на телефон. Мы отправим SMS на номер, указанный в вашем аккаунте.</translation>
+<translation id="2965084188004448871">Установите The Hive на телефон. Мы отправим SMS на номер, указанный в вашем аккаунте: <ph name="PHONE_NUMBER"/>.</translation>
+<translation id="8358191771897395012">скачайте The Hive для iOS</translation>
+<translation id="2034072705932785495">Для этого сайта The Hive запрашивает доступ к камере.</translation>
+<translation id="3335606533094650083">Для этого сайта The Hive запрашивает доступ к микрофону.</translation>
+<translation id="4831743161813926460">Для этого сайта The Hive запрашивает доступ к камере и микрофону.</translation>
+<translation id="696826782632239602">Для этого сайта The Hive запрашивает доступ к данным о вашем местоположении.</translation>
+<translation id="7798069806040634998">Для скачивания файлов браузеру The Hive требуется доступ к хранилищу.</translation>
+<translation id="7685904775439037072">Когда вы предоставите доступ The Hive, веб-сайты также смогут запрашивать у вас доступ.</translation>
 <translation id="5805364706385912897">Эта страница расходовала слишком много памяти, поэтому работа ее скриптов была приостановлена.</translation>
 <translation id="5138664332909611586">Эта страница расходовала слишком много памяти, поэтому часть контента была удалена.</translation>
-<translation id="1744365871163268756">Подождите, пока Dissenter устанавливает последние обновления системы</translation>
-<translation id="5693614905241031118">Dissenter обновляется автоматически, поэтому у вас всегда будет установлена последняя версия.</translation>
-<translation id="6141293433381251973">Dissenter обновляется автоматически, поэтому у вас всегда будет установлена последняя версия. После завершения скачивания и перезагрузки вы сможете продолжить работу.</translation>
-<translation id="7808415789955822133">Условия использования Dissenter OS</translation>
-<translation id="7207456302801184289">Добро пожаловать в Dissenter</translation>
-<translation id="5688839044908745927">Dissenter почти готов к работе</translation>
-<translation id="7758342895140862711">Dissenter всегда под рукой</translation>
+<translation id="1744365871163268756">Подождите, пока The Hive устанавливает последние обновления системы</translation>
+<translation id="5693614905241031118">The Hive обновляется автоматически, поэтому у вас всегда будет установлена последняя версия.</translation>
+<translation id="6141293433381251973">The Hive обновляется автоматически, поэтому у вас всегда будет установлена последняя версия. После завершения скачивания и перезагрузки вы сможете продолжить работу.</translation>
+<translation id="7808415789955822133">Условия использования The Hive OS</translation>
+<translation id="7207456302801184289">Добро пожаловать в The Hive</translation>
+<translation id="5688839044908745927">The Hive почти готов к работе</translation>
+<translation id="7758342895140862711">The Hive всегда под рукой</translation>
 <translation id="3610173904388112975">Технологии Gab AI для простого и быстрого поиска в Интернете.</translation>
 <translation id="3479552764303398839">Не сейчас</translation>
-<translation id="8013374903356993822">Открывайте Dissenter ещё быстрее</translation>
-<translation id="7625138338483121345">Как сделать Dissenter браузером по умолчанию</translation>
-<translation id="5927044791090834489">Как прикрепить Dissenter на панель задач</translation>
-<translation id="8933981935877469796">Выберите <ph name="SMALL_PRODUCT_LOGO"/> <ph name="BEGIN_BOLD"/>Dissenter<ph name="END_BOLD"/></translation>
+<translation id="8013374903356993822">Открывайте The Hive ещё быстрее</translation>
+<translation id="7625138338483121345">Как сделать The Hive браузером по умолчанию</translation>
+<translation id="5927044791090834489">Как прикрепить The Hive на панель задач</translation>
+<translation id="8933981935877469796">Выберите <ph name="SMALL_PRODUCT_LOGO"/> <ph name="BEGIN_BOLD"/>The Hive<ph name="END_BOLD"/></translation>
 <translation id="1585657529869845941">Если появится кнопка <ph name="BEGIN_BOLD"/>Изменить<ph name="END_BOLD"/>, нажмите ее.</translation>
-<translation id="3507835409099344374">Открыть настройки уведомлений Dissenter</translation>
-<translation id="9118654140804842635">{0,plural, =0{Доступно обновление Dissenter}=1{Доступно обновление Dissenter}one{Обновление Dissenter доступно # день}few{Обновление Dissenter доступно # дня}many{Обновление Dissenter доступно # дней}other{Обновление Dissenter доступно # дня}}</translation>
-<translation id="720532315408041257">Администратор просит перезапустить Dissenter для установки обновления</translation>
-<translation id="6639482638305253477">{0,plural, =1{Перезапустите Dissenter в течение дня}one{Перезапустите Dissenter в течение # дня}few{Перезапустите Dissenter в течение # дней}many{Перезапустите Dissenter в течение # дней}other{Перезапустите Dissenter в течение # дня}}</translation>
-<translation id="656910845148850955">{0,plural, =1{Dissenter перезапустится через 1 час}one{Dissenter перезапустится через # час}few{Dissenter перезапустится через # часа}many{Dissenter перезапустится через # часов}other{Dissenter перезапустится через # часа}}</translation>
-<translation id="2927768292099217319">{0,plural, =1{Dissenter перезапустится через 1 минуту}one{Dissenter перезапустится через # минуту}few{Dissenter перезапустится через # минуты}many{Dissenter перезапустится через # минут}other{Dissenter перезапустится через # минуты}}</translation>
-<translation id="2124855793980950516">{0,plural, =0{Dissenter перезапускается}=1{Dissenter перезапустится через 1 секунду}one{Dissenter перезапустится через # секунду}few{Dissenter перезапустится через # секунды}many{Dissenter перезапустится через # секунд}other{Dissenter перезапустится через # секунды}}</translation>
-<translation id="7595187113648413294">Администратор требует перезапустить Dissenter для установки обновления</translation>
-<translation id="56801943271475640">{0,plural, =0{Доступно обновление Dissenter OS}=1{Доступно обновление Dissenter OS}one{Обновление Dissenter OS доступно # день}few{Обновление Dissenter OS доступно # дня}many{Обновление Dissenter OS доступно # дней}other{Обновление Dissenter OS доступно # дня}}</translation>
-<translation id="5715362474140341294">Администратор просит перезапустить Dissenter OS для установки обновления.</translation>
-<translation id="8094834892392729950">{0,plural, =1{Перезапустите Dissenter OS в течение 1 дня}one{Перезапустите Dissenter OS в течение # дня}few{Перезапустите Dissenter OS в течение # дней}many{Перезапустите Dissenter OS в течение # дней}other{Перезапустите Dissenter OS в течение # дня}}</translation>
-<translation id="1265795866000813420">{0,plural, =1{Dissenter OS перезапустится через 1 час}one{Dissenter OS перезапустится через # час}few{Dissenter OS перезапустится через # часа}many{Dissenter OS перезапустится через # часов}other{Dissenter OS перезапустится через # часа}}</translation>
-<translation id="2031312345409605311">{0,plural, =1{Dissenter OS перезапустится через 1 минуту}one{Dissenter OS перезапустится через # минуту}few{Dissenter OS перезапустится через # минуты}many{Dissenter OS перезапустится через # минут}other{Dissenter OS перезапустится через # минуты}}</translation>
-<translation id="8624602604153953835">{0,plural, =0{Dissenter OS перезапускается}=1{Dissenter OS перезапустится через 1 секунду}one{Dissenter OS перезапустится через # секунду}few{Dissenter OS перезапустится через # секунды}many{Dissenter OS перезапустится через # секунд}other{Dissenter OS перезапустится через # секунды}}</translation>
-<translation id="8559452515617838628">Администратор требует перезапустить Dissenter OS для установки обновления.</translation>
-<translation id="3052349005266761501">Запуск Dissenter...</translation>
-<translation id="1197672524850678392">Не удалось запустить Dissenter. Повторите попытку.</translation>
+<translation id="3507835409099344374">Открыть настройки уведомлений The Hive</translation>
+<translation id="9118654140804842635">{0,plural, =0{Доступно обновление The Hive}=1{Доступно обновление The Hive}one{Обновление The Hive доступно # день}few{Обновление The Hive доступно # дня}many{Обновление The Hive доступно # дней}other{Обновление The Hive доступно # дня}}</translation>
+<translation id="720532315408041257">Администратор просит перезапустить The Hive для установки обновления</translation>
+<translation id="6639482638305253477">{0,plural, =1{Перезапустите The Hive в течение дня}one{Перезапустите The Hive в течение # дня}few{Перезапустите The Hive в течение # дней}many{Перезапустите The Hive в течение # дней}other{Перезапустите The Hive в течение # дня}}</translation>
+<translation id="656910845148850955">{0,plural, =1{The Hive перезапустится через 1 час}one{The Hive перезапустится через # час}few{The Hive перезапустится через # часа}many{The Hive перезапустится через # часов}other{The Hive перезапустится через # часа}}</translation>
+<translation id="2927768292099217319">{0,plural, =1{The Hive перезапустится через 1 минуту}one{The Hive перезапустится через # минуту}few{The Hive перезапустится через # минуты}many{The Hive перезапустится через # минут}other{The Hive перезапустится через # минуты}}</translation>
+<translation id="2124855793980950516">{0,plural, =0{The Hive перезапускается}=1{The Hive перезапустится через 1 секунду}one{The Hive перезапустится через # секунду}few{The Hive перезапустится через # секунды}many{The Hive перезапустится через # секунд}other{The Hive перезапустится через # секунды}}</translation>
+<translation id="7595187113648413294">Администратор требует перезапустить The Hive для установки обновления</translation>
+<translation id="56801943271475640">{0,plural, =0{Доступно обновление The Hive OS}=1{Доступно обновление The Hive OS}one{Обновление The Hive OS доступно # день}few{Обновление The Hive OS доступно # дня}many{Обновление The Hive OS доступно # дней}other{Обновление The Hive OS доступно # дня}}</translation>
+<translation id="5715362474140341294">Администратор просит перезапустить The Hive OS для установки обновления.</translation>
+<translation id="8094834892392729950">{0,plural, =1{Перезапустите The Hive OS в течение 1 дня}one{Перезапустите The Hive OS в течение # дня}few{Перезапустите The Hive OS в течение # дней}many{Перезапустите The Hive OS в течение # дней}other{Перезапустите The Hive OS в течение # дня}}</translation>
+<translation id="1265795866000813420">{0,plural, =1{The Hive OS перезапустится через 1 час}one{The Hive OS перезапустится через # час}few{The Hive OS перезапустится через # часа}many{The Hive OS перезапустится через # часов}other{The Hive OS перезапустится через # часа}}</translation>
+<translation id="2031312345409605311">{0,plural, =1{The Hive OS перезапустится через 1 минуту}one{The Hive OS перезапустится через # минуту}few{The Hive OS перезапустится через # минуты}many{The Hive OS перезапустится через # минут}other{The Hive OS перезапустится через # минуты}}</translation>
+<translation id="8624602604153953835">{0,plural, =0{The Hive OS перезапускается}=1{The Hive OS перезапустится через 1 секунду}one{The Hive OS перезапустится через # секунду}few{The Hive OS перезапустится через # секунды}many{The Hive OS перезапустится через # секунд}other{The Hive OS перезапустится через # секунды}}</translation>
+<translation id="8559452515617838628">Администратор требует перезапустить The Hive OS для установки обновления.</translation>
+<translation id="3052349005266761501">Запуск The Hive...</translation>
+<translation id="1197672524850678392">Не удалось запустить The Hive. Повторите попытку.</translation>
 <translation id="6040143037577758943">Закрыть</translation>
-<translation id="8541922081612557424">О Dissenter</translation>
-<translation id="3262506503470845422">Справка Dissenter</translation>
-<translation id="1864557848095568223">Обновление Dissenter…</translation>
-<translation id="1786715389543715322">Обновление Dissenter (<ph name="PROGRESS_PERCENT"/>)…</translation>
-<translation id="8208853227947884571">Вы используете последнюю версию Dissenter</translation>
-<translation id="6686872257969654608">О Dissenter OS</translation>
-<translation id="2280363356796735201">Справка Dissenter OS</translation>
-<translation id="5253815230176279256">Gab AI Pay (скопирована в Dissenter)</translation>
-<translation id="5468853758063275923">Dissenter используется как браузер по умолчанию</translation>
-<translation id="1775322105159056176">Dissenter не удалось определить или задать браузер по умолчанию</translation>
-<translation id="6915252145142862992">Это дополнительная установка Dissenter. Его нельзя сделать браузером по умолчанию.</translation>
-<translation id="7977435741986383568">Для более качественной работы Dissenter может использовать веб-сервисы. При необходимости отключите их. <ph name="BEGIN_LINK"/>Подробнее…<ph name="END_LINK"/></translation>
-<translation id="2312399718665761438">Для проверки правописания Dissenter отправляет введенный вами текст в Gab AI.</translation>
-<translation id="8586264863973514035">Чтобы изменения вступили в силу, перезапустите Dissenter.</translation>
-<translation id="7021823858304886493">Разрешить вход в Dissenter</translation>
-<translation id="1649714546770135458">Отключив эту функцию, вы сможете входить в систему на сайтах Gab AI (например, Gmail) без необходимости выполнять вход в Dissenter.</translation>
-<translation id="9220324636239049437">С устройства будет удален 1 объект. Чтобы восстановить данные позже, войдите в Dissenter как <ph name="USER_EMAIL"/>.</translation>
-<translation id="5853262807109651878">С устройства будут удалены объекты (<ph name="ITEMS_COUNT"/>). Чтобы восстановить данные позже, войдите в Dissenter как <ph name="USER_EMAIL"/>.</translation>
-<translation id="4784414698887946907">Данные о работе в браузере будут удалены с устройства. Чтобы восстановить их позже, войдите в Dissenter как <ph name="USER_EMAIL"/>.</translation>
-<translation id="4518479204315969707">Имя и изображение профиля Dissenter</translation>
-<translation id="8372880274820509128">В целях повышения безопасности Dissenter шифрует ваши данные.</translation>
-<translation id="7445061995866044926">Выйти из Dissenter?</translation>
-<translation id="7453070689008684791">Dissenter получит доступ к вашему Gab AI Диску, чтобы вы могли просматривать рекомендации в адресной строке.</translation>
-<translation id="9221712274065451529">На этом языке отображается интерфейс Dissenter OS</translation>
-<translation id="3518788198614984730">Отображать Dissenter OS на этом языке</translation>
-<translation id="5757460455745382269">На этом языке отображается интерфейс Dissenter</translation>
-<translation id="2335583906071111058">Отображать Dissenter на этом языке</translation>
-<translation id="8926637909431618259">Продолжить выполнение фоновых приложений после закрытия Dissenter</translation>
-<translation id="6056473803837713617">Отправьте отчет о <ph name="BEGIN_LINK"/>текущих настройках Dissenter<ph name="END_LINK"/>, чтобы помочь нам улучшить браузер</translation>
+<translation id="8541922081612557424">О The Hive</translation>
+<translation id="3262506503470845422">Справка The Hive</translation>
+<translation id="1864557848095568223">Обновление The Hive…</translation>
+<translation id="1786715389543715322">Обновление The Hive (<ph name="PROGRESS_PERCENT"/>)…</translation>
+<translation id="8208853227947884571">Вы используете последнюю версию The Hive</translation>
+<translation id="6686872257969654608">О The Hive OS</translation>
+<translation id="2280363356796735201">Справка The Hive OS</translation>
+<translation id="5253815230176279256">Gab AI Pay (скопирована в The Hive)</translation>
+<translation id="5468853758063275923">The Hive используется как браузер по умолчанию</translation>
+<translation id="1775322105159056176">The Hive не удалось определить или задать браузер по умолчанию</translation>
+<translation id="6915252145142862992">Это дополнительная установка The Hive. Его нельзя сделать браузером по умолчанию.</translation>
+<translation id="7977435741986383568">Для более качественной работы The Hive может использовать веб-сервисы. При необходимости отключите их. <ph name="BEGIN_LINK"/>Подробнее…<ph name="END_LINK"/></translation>
+<translation id="2312399718665761438">Для проверки правописания The Hive отправляет введенный вами текст в Gab AI.</translation>
+<translation id="8586264863973514035">Чтобы изменения вступили в силу, перезапустите The Hive.</translation>
+<translation id="7021823858304886493">Разрешить вход в The Hive</translation>
+<translation id="1649714546770135458">Отключив эту функцию, вы сможете входить в систему на сайтах Gab AI (например, Gmail) без необходимости выполнять вход в The Hive.</translation>
+<translation id="9220324636239049437">С устройства будет удален 1 объект. Чтобы восстановить данные позже, войдите в The Hive как <ph name="USER_EMAIL"/>.</translation>
+<translation id="5853262807109651878">С устройства будут удалены объекты (<ph name="ITEMS_COUNT"/>). Чтобы восстановить данные позже, войдите в The Hive как <ph name="USER_EMAIL"/>.</translation>
+<translation id="4784414698887946907">Данные о работе в браузере будут удалены с устройства. Чтобы восстановить их позже, войдите в The Hive как <ph name="USER_EMAIL"/>.</translation>
+<translation id="4518479204315969707">Имя и изображение профиля The Hive</translation>
+<translation id="8372880274820509128">В целях повышения безопасности The Hive шифрует ваши данные.</translation>
+<translation id="7445061995866044926">Выйти из The Hive?</translation>
+<translation id="7453070689008684791">The Hive получит доступ к вашему Gab AI Диску, чтобы вы могли просматривать рекомендации в адресной строке.</translation>
+<translation id="9221712274065451529">На этом языке отображается интерфейс The Hive OS</translation>
+<translation id="3518788198614984730">Отображать The Hive OS на этом языке</translation>
+<translation id="5757460455745382269">На этом языке отображается интерфейс The Hive</translation>
+<translation id="2335583906071111058">Отображать The Hive на этом языке</translation>
+<translation id="8926637909431618259">Продолжить выполнение фоновых приложений после закрытия The Hive</translation>
+<translation id="6056473803837713617">Отправьте отчет о <ph name="BEGIN_LINK"/>текущих настройках The Hive<ph name="END_LINK"/>, чтобы помочь нам улучшить браузер</translation>
 </translationbundle>

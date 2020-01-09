@@ -20,10 +20,10 @@ import {
   Separator,
   FakeButton,
   Link
-} from 'dissenter-ui/features/newTab/private'
+} from 'thehive-ui/features/newTab/private'
 
 // Components
-import { Toggle } from 'dissenter-ui/features/shields'
+import { Toggle } from 'thehive-ui/features/shields'
 import TorContent from './torContent'
 
 // Helpers

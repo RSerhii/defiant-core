@@ -8,8 +8,8 @@ index 9e6f0f27535fdf52a23b5a734c108196ae0b728c..a8206eebd57c40f0e63ae65a1ec96919
  #else
 -const char KeyStorageLinux::kFolderName[] = "Chromium Keys";
 -const char KeyStorageLinux::kKey[] = "Chromium Safe Storage";
-+const char KeyStorageLinux::kFolderName[] = "Dissenter Keys";
-+const char KeyStorageLinux::kKey[] = "Dissenter Safe Storage";
++const char KeyStorageLinux::kFolderName[] = "The Hive Keys";
++const char KeyStorageLinux::kKey[] = "The Hive Safe Storage";
  #endif
  
  // static

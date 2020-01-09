@@ -2,6 +2,6 @@ import("//build/config/features.gni")
 
 declare_args() {
   brave_rewards_enabled = false
-  # Dissenter: disable
+  # The Hive: disable
   # is_mac || is_linux || is_win || is_android
 }

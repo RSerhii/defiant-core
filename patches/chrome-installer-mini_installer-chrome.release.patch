@@ -7,7 +7,7 @@ index bdf0219561c2e52fbe2e16407ac0fa9ae2e3ef30..40757f41a0a08662fd5b5308f6f6edca
  # Chrome Application dir entries, sorted alphabetically.
  #
 -chrome.exe: %(ChromeDir)s\
-+dissenter.exe: %(ChromeDir)s\
++thehive.exe: %(ChromeDir)s\
  chrome_proxy.exe: %(ChromeDir)s\
  #
  # Chrome version dir assembly manifest.

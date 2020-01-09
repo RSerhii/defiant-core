@@ -6,16 +6,16 @@
 # chromium-browser packages for various platforms.
 
 # Base name of the package.
-PACKAGE="dissenter-browser"
+PACKAGE="thehive-browser"
 
 # Filename of the main executable (for generating launcher scripts, etc.)
-PROGNAME=dissenter
+PROGNAME=thehive
 
 # Base directory for package installation.
-INSTALLDIR=/opt/gab/dissenter
+INSTALLDIR=/opt/gab/thehive
 
 # Display string for desktop menu/icon.
-MENUNAME="Dissenter Browser"
+MENUNAME="The Hive Browser"
 
 # Brief package description.
 SHORTDESC="The free speech web browser"
@@ -26,6 +26,6 @@ FULLDESC="Join the comments section on any page on the internet. Browse faster b
 # Package maintainer information.
 MAINTNAME="Gab AI"
 MAINTMAIL="legal@gab.com"
-PRODUCTURL="https://dissenter.com/"
+PRODUCTURL="https://thehive.com/"
 VERSION=$(cat $BUILDDIR/version | tr -d 'v,')
 VERSIONFULL=$VERSION

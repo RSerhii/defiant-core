@@ -6,8 +6,8 @@ import * as React from 'react'
 import { render } from 'react-dom'
 import { Provider } from 'react-redux'
 
-import Theme from 'dissenter-ui/theme/brave-default'
-import { ThemeProvider } from 'dissenter-ui/theme'
+import Theme from 'thehive-ui/theme/brave-default'
+import { ThemeProvider } from 'thehive-ui/theme'
 
 // Components
 import App from './components/app'

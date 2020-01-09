@@ -7,7 +7,7 @@ index bb6102ef0cfa19f95ccf94e680ab8806ea473635..21cdcc5efb2c2a3bb1aa204878a1f87b
    if (env->GetVar("CHROME_DESKTOP", &name) && !name.empty())
      return name;
 -  return "chromium-browser.desktop";
-+  return "dissenter-browser.desktop";
++  return "thehive-browser.desktop";
  #endif
  }
  

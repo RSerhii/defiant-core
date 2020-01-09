@@ -5,13 +5,13 @@
 import * as React from 'react'
 
 // Feature-specific components
-import { Content, Title, Paragraph } from 'dissenter-ui/features/welcome'
+import { Content, Title, Paragraph } from 'thehive-ui/features/welcome'
 
 // Utils
 import { getLocale } from '../../../common/locale'
 
 // Images
-import { WelcomeShieldsImage } from 'dissenter-ui/features/welcome/images'
+import { WelcomeShieldsImage } from 'thehive-ui/features/welcome/images'
 
 interface Props {
   index: number

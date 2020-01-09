@@ -7,8 +7,8 @@
 
 #include "brave/components/brave_extension/grit/brave_extension_generated_map.h"
 #include "brave/components/brave_extension/grit/brave_extension_resources_map.h"
-#include "brave/components/dissenter_extension/grit/dissenter_extension_generated_map.h"
-#include "brave/components/dissenter_extension/grit/dissenter_extension_resources_map.h"
+#include "brave/components/thehive_extension/grit/thehive_extension_generated_map.h"
+#include "brave/components/thehive_extension/grit/thehive_extension_resources_map.h"
 // #include "brave/components/brave_rewards/resources/extension/grit/brave_rewards_extension_resources_map.h"
 // #include "brave/components/brave_rewards/resources/extension/grit/brave_rewards_panel_generated_map.h"
 #include "brave/components/brave_sync/grit/brave_sync_generated_map.h"
@@ -21,12 +21,12 @@ namespace extensions {
 BraveComponentExtensionResourceManager::
 BraveComponentExtensionResourceManager() {
   AddComponentResourceEntries(
-      kDissenterExtension,
-      kDissenterExtensionSize);
+      kThe HiveExtension,
+      kThe HiveExtensionSize);
 
   AddComponentResourceEntries(
-      kDissenterExtensionGenerated,
-      kDissenterExtensionGeneratedSize);
+      kThe HiveExtensionGenerated,
+      kThe HiveExtensionGeneratedSize);
 
   AddComponentResourceEntries(
       kBraveExtension,

@@ -1,8 +1,8 @@
-Download Dissenter from [https://dissenter.com](https://dissenter.com)
+Download The Hive from [https://thehive.com](https://thehive.com)
 
-# Defiant Core
+# The Hive Core
 
-Defiant Core is a fork of the excellent [Brave Browser Core](https://github.com/brave/brave-browser) project, used to make the Dissenter Browser.
+The Hive Core is a fork [Defiant Core](https://github.com/gab-ai-inc/defiant-core) that a fork of the excellent [Brave Browser Core](https://github.com/brave/brave-browser) project, used to make the The Hive Browser.
 
 Follow [@getongab](https://twitter.com/getongab) on Twitter for important
 announcements.
@@ -37,7 +37,7 @@ announcements.
 ## v65.118 (June 9th 2019)
 
 * Rebased on to the Brave release channel, 0.65.x (much better!)
-* Added a menu option to visit dissenter extension settings
+* Added a menu option to visit thehive extension settings
 * Renamed menu options and re-ordered a few, for clarity
 * Major changes to the new tab experience
   * topSites changed to pinned sites, with add/remove functionality
@@ -50,7 +50,7 @@ announcements.
 
 * "Autoplay was blocked" bubble notification in the Omnibox has been removed
 * The nag window about changes to the new tab page are disabled
-* Dissenter extension new tab default changes (solid color, topSites enabled)
+* The Hive extension new tab default changes (solid color, topSites enabled)
 * About page updated with auto-update comments (no auto-update yet) and dedication
 * Better(-ish) icon for Windows
 
@@ -58,4 +58,4 @@ announcements.
 
 * Default browser issue fixed on Windows
 * Linux icon fixed
-* Dissenter extension updated to 0.1.9
+* The Hive extension updated to 0.1.9

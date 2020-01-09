@@ -42,14 +42,14 @@ void BraveExtensionService::AddComponentExtension(const Extension* extension) {
   // the extension when BraveActionViewController is queried about the
   // visibility of the action.
   if ((extension->id() == brave_rewards_extension_id)) {
-    // Dissenter: Disable brave rewards always.
+    // The Hive: Disable brave rewards always.
     // (profile_->IsGuestSession() || profile_->IsTorProfile())) {
     extensions::ExtensionActionManager* extension_action_manager =
         ExtensionActionManager::Get(profile_);
     ExtensionAction* action =
         extension_action_manager->GetExtensionAction(*extension);
     action->SetIsVisible(ExtensionAction::kDefaultTabId, false);
-    return; // Dissenter (skip ever even processing it further.)
+    return; // The Hive (skip ever even processing it further.)
   }
 
   // ContentSettingsStore::RegisterExtension is only called for default

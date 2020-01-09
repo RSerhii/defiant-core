@@ -7,7 +7,7 @@ index 62f031cfdff3ae9a7b25b76f88b3ba40ab477e75..289e3d0346e1649a723aa7baa8811809
  Comment[zh_HK]=連線到網際網路
  Comment[zh_TW]=連線到網際網路
 -Exec=/usr/bin/@@USR_BIN_SYMLINK_NAME@@ %U
-+Exec=/usr/bin/@@USR_BIN_SYMLINK_NAME@@ %U --class=dissenter-browser
++Exec=/usr/bin/@@USR_BIN_SYMLINK_NAME@@ %U --class=thehive-browser
  StartupNotify=true
  Terminal=false
  Icon=@@PACKAGE@@
@@ -16,7 +16,7 @@ index 62f031cfdff3ae9a7b25b76f88b3ba40ab477e75..289e3d0346e1649a723aa7baa8811809
  Name[zh_CN]=新建窗口
  Name[zh_TW]=開新視窗
 -Exec=/usr/bin/@@USR_BIN_SYMLINK_NAME@@
-+Exec=/usr/bin/@@USR_BIN_SYMLINK_NAME@@ --class=dissenter-browser
++Exec=/usr/bin/@@USR_BIN_SYMLINK_NAME@@ --class=thehive-browser
  
  [Desktop Action new-private-window]
  Name=New Incognito Window
@@ -25,4 +25,4 @@ index 62f031cfdff3ae9a7b25b76f88b3ba40ab477e75..289e3d0346e1649a723aa7baa8811809
  Name[zh_CN]=新建隐身窗口
  Name[zh_TW]=新增無痕式視窗
 -Exec=/usr/bin/@@USR_BIN_SYMLINK_NAME@@ --incognito
-+Exec=/usr/bin/@@USR_BIN_SYMLINK_NAME@@ --incognito  --class=dissenter-browser
++Exec=/usr/bin/@@USR_BIN_SYMLINK_NAME@@ --incognito  --class=thehive-browser

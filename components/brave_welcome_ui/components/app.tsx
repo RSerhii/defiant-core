@@ -7,7 +7,7 @@ import { bindActionCreators, Dispatch } from 'redux'
 import { connect } from 'react-redux'
 
 // Feature-specific components
-import { Page, Panel, SlideContent } from 'dissenter-ui/features/welcome'
+import { Page, Panel, SlideContent } from 'thehive-ui/features/welcome'
 
 // Component groups
 import WelcomeBox from './screens/welcomeBox'
@@ -15,7 +15,7 @@ import ImportBox from './screens/importBox'
 import FooterBox from './screens/footerBox'
 
 // Images
-import { Background, BackgroundContainer } from 'dissenter-ui/features/welcome/images'
+import { Background, BackgroundContainer } from 'thehive-ui/features/welcome/images'
 
 // Utils
 import * as welcomeActions from '../actions/welcome_actions'

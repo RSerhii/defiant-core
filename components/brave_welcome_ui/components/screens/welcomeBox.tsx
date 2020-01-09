@@ -5,14 +5,14 @@
 import * as React from 'react'
 
 // Feature-specific components
-import { Content, Title, Paragraph } from 'dissenter-ui/features/welcome'
+import { Content, Title, Paragraph } from 'thehive-ui/features/welcome'
 
 // Shared components
-import { Button } from 'dissenter-ui'
-import { ArrowRightIcon } from 'dissenter-ui/components/icons'
+import { Button } from 'thehive-ui'
+import { ArrowRightIcon } from 'thehive-ui/components/icons'
 
 // Images
-import { WelcomeDissenterImage } from 'dissenter-ui/features/welcome/images'
+import { WelcomeThe HiveImage } from 'thehive-ui/features/welcome/images'
 
 // Utils
 import { getLocale } from '../../../common/locale'
@@ -33,9 +33,9 @@ export default class ThemingBox extends React.PureComponent<Props, {}> {
         screenPosition={'1' + (index + 1) + '0%'}
         isPrevious={index <= currentScreen}
       >
-        <WelcomeDissenterImage />
+        <WelcomeThe HiveImage />
         <Title>Welcome To The Free Speech Internet</Title>
-        <Paragraph>Dissenter creates a comment section on every URL across the web. It also blocks ads and prevents Silicon Valley tech giants from tracking you. Ready to speak freely?</Paragraph>
+        <Paragraph>The Hive creates a comment section on every URL across the web. It also blocks ads and prevents Silicon Valley tech giants from tracking you. Ready to speak freely?</Paragraph>
         <Button
           level='primary'
           type='accent'

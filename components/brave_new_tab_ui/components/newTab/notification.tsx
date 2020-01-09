@@ -9,10 +9,10 @@ import {
   SiteRemovalNotification,
   SiteRemovalAction,
   SiteRemovalText
-} from 'dissenter-ui/features/newTab/default'
+} from 'thehive-ui/features/newTab/default'
 
 // Icons
-import { CloseStrokeIcon } from 'dissenter-ui/components/icons'
+import { CloseStrokeIcon } from 'thehive-ui/components/icons'
 
 // Utils
 import { getLocale } from '../../../common/locale'

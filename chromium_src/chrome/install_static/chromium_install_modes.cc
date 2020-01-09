@@ -16,9 +16,9 @@ namespace install_static {
 const wchar_t kCompanyPathName[] = L"GabAI";
 
 #if defined(OFFICIAL_BUILD)
-const wchar_t kProductPathName[] = L"Dissenter";
+const wchar_t kProductPathName[] = L"The Hive";
 #else
-const wchar_t kProductPathName[] = L"Dissenter-Development";
+const wchar_t kProductPathName[] = L"The Hive-Development";
 #endif
 
 const size_t kProductPathNameLength = _countof(kProductPathName) - 1;
@@ -33,7 +33,7 @@ const wchar_t kBinariesAppGuid[] = L"";
 // Brave integrates with Brave Update, so the app GUID above is used.
 const wchar_t kBinariesPathName[] = L"";
 #else
-const wchar_t kBinariesPathName[] = L"Dissenter Binaries";
+const wchar_t kBinariesPathName[] = L"The Hive Binaries";
 #endif
 
 const char kSafeBrowsingName[] = "chromium";
@@ -50,10 +50,10 @@ const InstallConstants kInstallModes[] = {
         L"",           // Empty install_suffix for the primary install mode.
         L"",           // No logo suffix for the primary install mode.
         L"{0C12B489-0B55-4F8B-8EB7-640256ADBE54}",
-        L"Dissenter",                           // A distinct base_app_name.
-        L"Dissenter",                           // A distinct base_app_id.
-        L"DefiantHTML",                              // ProgID prefix.
-        L"Dissenter HTML Document",                    // ProgID description.
+        L"The Hive",                           // A distinct base_app_name.
+        L"The Hive",                           // A distinct base_app_id.
+        L"TheHiveHTML",                              // ProgID prefix.
+        L"The Hive HTML Document",                    // ProgID description.
         L"{0C12B489-0B55-4F8B-8EB7-640256ADBE54}",  // Active Setup GUID.
         L"{C92FB778-A27E-4FD7-947F-21DA23323F88}",  // CommandExecuteImpl CLSID.
         { 0x6c9646d,
@@ -87,10 +87,10 @@ const InstallConstants kInstallModes[] = {
         L"-Beta",       // Install suffix.
         L"Beta",        // Logo suffix.
         L"",  // A distinct app GUID.
-        L"Dissenter Beta",                      // A distinct base_app_name.
-        L"DissenterBeta",                              // A distinct base_app_id.
-        L"DefiantBTML",                             // ProgID prefix.
-        L"Dissenter Beta HTML Document",               // ProgID description.
+        L"The Hive Beta",                      // A distinct base_app_name.
+        L"The HiveBeta",                              // A distinct base_app_id.
+        L"TheHiveBTML",                             // ProgID prefix.
+        L"The Hive Beta HTML Document",               // ProgID description.
         L"{911586F3-317E-4498-868B-26BFCBD4F5FB}",  // Active Setup GUID.
         L"",                                        // CommandExecuteImpl CLSID.
         { 0x9560028d,
@@ -125,10 +125,10 @@ const InstallConstants kInstallModes[] = {
         L"-Dev",       // Install suffix.
         L"Dev",        // Logo suffix.
         L"",  // A distinct app GUID.
-        L"Dissenter Dev",                       // A distinct base_app_name.
-        L"DissenterDev",                               // A distinct base_app_id.
-        L"DefiantDTML",                             // ProgID prefix.
-        L"Dissenter Dev HTML Document",                // ProgID description.
+        L"The Hive Dev",                       // A distinct base_app_name.
+        L"The HiveDev",                               // A distinct base_app_id.
+        L"TheHivetDTML",                             // ProgID prefix.
+        L"The Hive Dev HTML Document",                // ProgID description.
         L"{2F0CC5B2-B924-40EA-A441-175E25CD51AA}",  // Active Setup GUID.
         L"",                                        // CommandExecuteImpl CLSID.
         { 0x20b22981,
@@ -163,10 +163,10 @@ const InstallConstants kInstallModes[] = {
         L"-Nightly",    // Install suffix.
         L"Canary",      // Logo suffix.
         L"",  // A distinct app GUID.
-        L"Dissenter Nightly",                    // A distinct base_app_name.
-        L"DissenterNightly",                            // A distinct base_app_id.
-        L"DefiantSTML",                             // ProgID prefix.
-        L"Dissenter Nightly HTML Document",             // ProgID description.
+        L"The Hive Nightly",                    // A distinct base_app_name.
+        L"The HiveNightly",                            // A distinct base_app_id.
+        L"TheHiveSTML",                             // ProgID prefix.
+        L"The Hive Nightly HTML Document",             // ProgID description.
         L"{7D06B97B-CBC7-49E6-8440-4A6750F016A6}",  // Active Setup GUID.
         L"{9C42E68C-3620-43B8-A5A7-0C8442B1F36F}",  // CommandExecuteImpl CLSID.
         { 0xf2edbc59,
@@ -204,10 +204,10 @@ const InstallConstants kInstallModes[] = {
         L"",              // Empty install_suffix for the primary install mode.
         L"",              // No logo suffix for the primary install mode.
         L"",            // Empty app_guid since no integraion with Brave Update.
-        L"Dissenter Development",  // A distinct base_app_name.
-        L"DissenterDevelopment",   // A distinct base_app_id.
-        L"DefiantDTML",                             // ProgID prefix.
-        L"Dissenter Development HTML Document",           // ProgID description.
+        L"The Hive Development",  // A distinct base_app_name.
+        L"The HiveDevelopment",   // A distinct base_app_id.
+        L"TheHiveDTML",                             // ProgID prefix.
+        L"The Hive Development HTML Document",           // ProgID description.
         L"{F7C9648D-ECE3-4BED-B393-BEC1DAB689C5}",  // Active Setup GUID.
         L"{CE2CDB7D-9C25-4223-ABDD-055A08BA4898}",  // CommandExecuteImpl CLSID.
         { 0xeb41c6e8,

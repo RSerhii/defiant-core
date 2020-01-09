@@ -67,7 +67,7 @@ const wchar_t kClientStateKeyBase[] =
     L"Software\\GabAI\\Update\\ClientState\\";
 // The path to the key in which kCleanupRegistryValue is found.
 const wchar_t kCleanupRegistryKey[] =
-    L"Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Dissenter";
+    L"Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\The Hive";
 #else
 // The path to the key containing each app's Clients registry key.
 // No trailing slash on this one because the app's GUID is not appended.

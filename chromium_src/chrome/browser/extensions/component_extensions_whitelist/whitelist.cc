@@ -10,7 +10,7 @@
 #include "base/stl_util.h"
 #include "brave/common/extensions/extension_constants.h"
 #include "brave/components/brave_extension/grit/brave_extension.h"
-#include "brave/components/dissenter_extension/grit/dissenter_extension.h"
+#include "brave/components/thehive_extension/grit/thehive_extension.h"
 #include "components/grit/brave_components_resources.h"
 #include "brave/components/brave_rewards/resources/extension/grit/brave_rewards_extension_resources.h"
 #include "brave/components/brave_sync/grit/brave_sync_resources.h"
@@ -20,7 +20,7 @@ namespace extensions {
 
   bool IsComponentExtensionWhitelisted(const std::string& extension_id) {
     const char* const kAllowed[] = {
-      dissenter_extension_id,
+      thehive_extension_id,
       brave_extension_id,
       pdfjs_extension_id,
       brave_rewards_extension_id,
@@ -39,7 +39,7 @@ namespace extensions {
   bool IsComponentExtensionWhitelisted(int manifest_resource_id) {
     switch (manifest_resource_id) {
       // Please keep the list in alphabetical order.
-      case IDR_DISSENTER_EXTENSION:
+      case IDR_THEHIVE_EXTENSION:
       case IDR_BRAVE_EXTENSION:
       case IDR_BRAVE_REWARDS:
       case IDR_BRAVE_SYNC_EXTENSION:

@@ -8,7 +8,7 @@ import * as React from 'react'
 import 'emptykit.css'
 
 // Feature-specific components
-import { ShieldsPanel } from 'dissenter-ui/features/shields'
+import { ShieldsPanel } from 'thehive-ui/features/shields'
 
 // Components group
 import Header from './header'

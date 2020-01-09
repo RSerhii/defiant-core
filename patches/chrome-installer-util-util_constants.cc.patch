@@ -21,7 +21,7 @@ index e3f9cc439f83e49291721cbf045119e1de5e1156..3f8b53abe45a66d2ae48934b35a9ab1f
  const wchar_t kChromeDll[] = L"chrome.dll";
  const wchar_t kChromeChildDll[] = L"chrome_child.dll";
 +#if defined(BRAVE_CHROMIUM_BUILD)
-+const wchar_t kChromeExe[] = L"dissenter.exe";
++const wchar_t kChromeExe[] = L"thehive.exe";
 +#else
  const wchar_t kChromeExe[] = L"chrome.exe";
 +#endif

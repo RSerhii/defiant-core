@@ -39,7 +39,7 @@
 #include "services/network/public/cpp/simple_url_loader.h"
 
 // Fetch headers from the referral server once a day.
-// Dissenter: This is now unused.
+// The Hive: This is now unused.
 // const int kFetchReferralHeadersFrequency = 60 * 60 * 24;
 
 // Maximum size of the referral server response in bytes.
@@ -101,11 +101,11 @@ void BraveReferralsService::Start() {
                                     base::Unretained(this)));
 
   // Fetch the referral headers on startup.
-  // Dissenter: Don't.
+  // The Hive: Don't.
   // FetchReferralHeaders();
 
   // Also, periodically fetch the referral headers.
-  // Dissenter: Also, don't.
+  // The Hive: Also, don't.
   /*
   DCHECK(!fetch_referral_headers_timer_);
   fetch_referral_headers_timer_ = std::make_unique<base::RepeatingTimer>();
@@ -144,12 +144,12 @@ bool BraveReferralsService::GetMatchingReferralHeaders(
     const GURL& url) {
   // If the domain for this request matches one of our target domains,
   // set the associated custom headers.
-  // Dissenter: Don't.
+  // The Hive: Don't.
   return false;
 }
 
 void BraveReferralsService::OnFetchReferralHeadersTimerFired() {
-  // Dissenter: Don't.
+  // The Hive: Don't.
   // FetchReferralHeaders();
 }
 
@@ -428,7 +428,7 @@ std::string BraveReferralsService::BuildReferralFinalizationCheckPayload()
 }
 
 void BraveReferralsService::FetchReferralHeaders() {
-  // Dissenter: No.
+  // The Hive: No.
   return;
   net::NetworkTrafficAnnotationTag traffic_annotation =
       net::DefineNetworkTrafficAnnotation(
@@ -471,7 +471,7 @@ void BraveReferralsService::FetchReferralHeaders() {
 }
 
 void BraveReferralsService::InitReferral() {
-  // Dissenter: Don't.
+  // The Hive: Don't.
   return;
   net::NetworkTrafficAnnotationTag traffic_annotation =
       net::DefineNetworkTrafficAnnotation("brave_referral_initializer", R"(
@@ -564,7 +564,7 @@ std::string BraveReferralsService::FormatExtraHeaders(
     const base::Value* referral_headers,
     const GURL& url) {
   // if (!referral_headers)
-  if (true) // Dissenter: Pass.
+  if (true) // The Hive: Pass.
     return std::string();
 
   const base::ListValue* referral_headers_list = nullptr;

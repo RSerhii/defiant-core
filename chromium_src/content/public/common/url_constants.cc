@@ -5,6 +5,6 @@
 #include "../../../../../content/public/common/url_constants.cc"
 
 namespace content {
-const char kBraveUIScheme[] = "dissenter";
+const char kBraveUIScheme[] = "thehive";
 }
 

@@ -1,143 +1,143 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- Settings-specific Dissenter strings (included from chromium_strings.grd). -->
+<!-- Settings-specific The Hive strings (included from chromium_strings.grd). -->
 <!--This file is created by l10nUtil.js. Do not edit manually.-->
 <grit-part>
   <!-- About Page -->
   <if expr="not chromeos">
-    <message name="IDS_SETTINGS_ABOUT_PROGRAM" desc="Menu title for the About Dissenter page.">
-      About Dissenter
+    <message name="IDS_SETTINGS_ABOUT_PROGRAM" desc="Menu title for the About The Hive page.">
+      About The Hive
     </message>
-    <message name="IDS_SETTINGS_GET_HELP_USING_CHROME" desc="Text of the button which takes the user to the Dissenter help page.">
-      Get help with Dissenter
+    <message name="IDS_SETTINGS_GET_HELP_USING_CHROME" desc="Text of the button which takes the user to the The Hive help page.">
+      Get help with The Hive
     </message>
-    <message name="IDS_SETTINGS_UPGRADE_UPDATING" desc="Status label: Updating Dissenter">
-      Updating Dissenter
+    <message name="IDS_SETTINGS_UPGRADE_UPDATING" desc="Status label: Updating The Hive">
+      Updating The Hive
     </message>
-    <message name="IDS_SETTINGS_UPGRADE_UPDATING_PERCENT" desc="Status label: Updating Dissenter (90%)">
-      Updating Dissenter (<ph name="PROGRESS_PERCENT">$1<ex>90%</ex></ph>)
+    <message name="IDS_SETTINGS_UPGRADE_UPDATING_PERCENT" desc="Status label: Updating The Hive (90%)">
+      Updating The Hive (<ph name="PROGRESS_PERCENT">$1<ex>90%</ex></ph>)
     </message>
-    <message name="IDS_SETTINGS_UPGRADE_SUCCESSFUL_RELAUNCH" desc="Status label: Successfully updated Dissenter">
-      Nearly up to date! Relaunch Dissenter to finish updating.
+    <message name="IDS_SETTINGS_UPGRADE_SUCCESSFUL_RELAUNCH" desc="Status label: Successfully updated The Hive">
+      Nearly up to date! Relaunch The Hive to finish updating.
     </message>
-    <message name="IDS_SETTINGS_UPGRADE_UP_TO_DATE" desc="Status label: Already up to date (Dissenter)">
-      Dissenter is up to date
+    <message name="IDS_SETTINGS_UPGRADE_UP_TO_DATE" desc="Status label: Already up to date (The Hive)">
+      The Hive is up to date
     </message>
   </if>
   <if expr="chromeos">
-    <message name="IDS_SETTINGS_ABOUT_PROGRAM" desc="Menu title for the About Dissenter page.">
-      About Dissenter OS
+    <message name="IDS_SETTINGS_ABOUT_PROGRAM" desc="Menu title for the About The Hive page.">
+      About The Hive OS
     </message>
-    <message name="IDS_SETTINGS_GET_HELP_USING_CHROME" desc="Text of the button which takes the user to the Dissenter help page.">
-      Get help with Dissenter OS
+    <message name="IDS_SETTINGS_GET_HELP_USING_CHROME" desc="Text of the button which takes the user to the The Hive help page.">
+      Get help with The Hive OS
     </message>
   </if>
 
   <!-- Autofill Page -->
-  <message name="IDS_SETTINGS_GOOGLE_PAYMENTS_CACHED" desc="Label that will be used to show that a credit card comes from Dissenter Pay and is saved locally. This should follow the casing of the 'Dissenter Pay' and 'Dissenter' brands. 'Copied to Dissenter' is short for 'The credit card is copied to Dissenter'. 'Dissenter Pay' should not be translated as it is the product name.">
-    Dissenter Pay (copied to Dissenter)
+  <message name="IDS_SETTINGS_GOOGLE_PAYMENTS_CACHED" desc="Label that will be used to show that a credit card comes from The Hive Pay and is saved locally. This should follow the casing of the 'The Hive Pay' and 'The Hive' brands. 'Copied to The Hive' is short for 'The credit card is copied to The Hive'. 'The Hive Pay' should not be translated as it is the product name.">
+    The Hive Pay (copied to The Hive)
   </message>
 
   <!-- Default Browser Page -->
   <if expr="not chromeos">
-    <message name="IDS_SETTINGS_DEFAULT_BROWSER_DEFAULT" desc="The text displayed when Dissenter is the default browser">
-      Dissenter is your default browser
+    <message name="IDS_SETTINGS_DEFAULT_BROWSER_DEFAULT" desc="The text displayed when The Hive is the default browser">
+      The Hive is your default browser
     </message>
     <message name="IDS_SETTINGS_DEFAULT_BROWSER_MAKE_DEFAULT" desc="Default browser checkbox label">
-      Make Dissenter the default browser
+      Make The Hive the default browser
     </message>
-    <message name="IDS_SETTINGS_DEFAULT_BROWSER_ERROR" desc="The text displayed when Dissenter cannot determine or set the default browser">
-      Dissenter cannot determine or set the default browser
+    <message name="IDS_SETTINGS_DEFAULT_BROWSER_ERROR" desc="The text displayed when The Hive cannot determine or set the default browser">
+      The Hive cannot determine or set the default browser
     </message>
-    <message name="IDS_SETTINGS_DEFAULT_BROWSER_SECONDARY" desc="The text displayed when Dissenter is installed in side-by-side mode, which does not support setting as the default browser.">
-      This is a secondary installation of Dissenter, and cannot be made your default browser.
+    <message name="IDS_SETTINGS_DEFAULT_BROWSER_SECONDARY" desc="The text displayed when The Hive is installed in side-by-side mode, which does not support setting as the default browser.">
+      This is a secondary installation of The Hive, and cannot be made your default browser.
     </message>
   </if>
 
   <!-- Privacy Page -->
   <message name="IDS_SETTINGS_IMPROVE_BROWSING_EXPERIENCE" desc="The text in the options panel that describes how we use web services to improve browsing experience.">
-    Dissenter may use web services to improve your browsing experience. You may optionally disable these services. <ph name="BEGIN_LINK">&lt;a target="_blank" href="$1"&gt;</ph>Learn more<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>
+    The Hive may use web services to improve your browsing experience. You may optionally disable these services. <ph name="BEGIN_LINK">&lt;a target="_blank" href="$1"&gt;</ph>Learn more<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>
   </message>
-  <message name="IDS_SETTINGS_SPELLING_DESCRIPTION_UNIFIED_CONSENT" desc="Description of using a web serviced to help resolve spelling errors. It is important to convey that what the user types will be sent to Dissenter.">
-    To fix spelling errors, Dissenter sends the text you type in text fields to Dissenter
+  <message name="IDS_SETTINGS_SPELLING_DESCRIPTION_UNIFIED_CONSENT" desc="Description of using a web serviced to help resolve spelling errors. It is important to convey that what the user types will be sent to The Hive.">
+    To fix spelling errors, The Hive sends the text you type in text fields to The Hive
   </message>
-  <message name="IDS_SETTINGS_RESTART_TO_APPLY_CHANGES" desc="Description in the snackbar to restart Dissenter and apply changes.">
-    To apply your changes, relaunch Dissenter
+  <message name="IDS_SETTINGS_RESTART_TO_APPLY_CHANGES" desc="Description in the snackbar to restart The Hive and apply changes.">
+    To apply your changes, relaunch The Hive
   </message>
-  <message name="IDS_SETTINGS_SIGNIN_ALLOWED" desc="The title of the preference to allow to sign-in to Dissenter">
-    Allow Dissenter sign-in
+  <message name="IDS_SETTINGS_SIGNIN_ALLOWED" desc="The title of the preference to allow to sign-in to The Hive">
+    Allow The Hive sign-in
   </message>
-  <message name="IDS_SETTINGS_SIGNIN_ALLOWED_DESC" desc="The description of the preference to allow to sign-in to Dissenter">
-    By turning this off, you can sign in to Dissenter sites like Gmail without signing in to Dissenter
+  <message name="IDS_SETTINGS_SIGNIN_ALLOWED_DESC" desc="The description of the preference to allow to sign-in to The Hive">
+    By turning this off, you can sign in to The Hive sites like Gmail without signing in to The Hive
   </message>
 
   <!-- People Page -->
-  <message name="IDS_SETTINGS_SYNC_DISCONNECT_DELETE_PROFILE_WARNING_WITH_COUNTS_SINGULAR" desc="Warning message displayed in the Sign out of Dissenter dialog that indicates profile browsing data will be removed from the device.">
-    This will delete 1 item from this device. To retrieve your data later, sign in to Dissenter as <ph name="USER_EMAIL">$1<ex>foo@example.com</ex></ph>.
+  <message name="IDS_SETTINGS_SYNC_DISCONNECT_DELETE_PROFILE_WARNING_WITH_COUNTS_SINGULAR" desc="Warning message displayed in the Sign out of The Hive dialog that indicates profile browsing data will be removed from the device.">
+    This will delete 1 item from this device. To retrieve your data later, sign in to The Hive as <ph name="USER_EMAIL">$1<ex>foo@example.com</ex></ph>.
   </message>
-  <message name="IDS_SETTINGS_SYNC_DISCONNECT_DELETE_PROFILE_WARNING_WITH_COUNTS_PLURAL" desc="Warning message displayed in the Sign out of Dissenter dialog that indicates profile browsing data will be removed from the device.">
-    This will delete <ph name="ITEMS_COUNT">$1<ex>66</ex></ph> items from this device. To retrieve your data later, sign in to Dissenter as <ph name="USER_EMAIL">$2<ex>foo@example.com</ex></ph>.
+  <message name="IDS_SETTINGS_SYNC_DISCONNECT_DELETE_PROFILE_WARNING_WITH_COUNTS_PLURAL" desc="Warning message displayed in the Sign out of The Hive dialog that indicates profile browsing data will be removed from the device.">
+    This will delete <ph name="ITEMS_COUNT">$1<ex>66</ex></ph> items from this device. To retrieve your data later, sign in to The Hive as <ph name="USER_EMAIL">$2<ex>foo@example.com</ex></ph>.
   </message>
-  <message name="IDS_SETTINGS_SYNC_DISCONNECT_DELETE_PROFILE_WARNING_WITHOUT_COUNTS" desc="Warning message displayed in the Sign out of Dissenter dialog that indicates profile browsing data will be removed from the device.">
-    This will delete your browsing data from this device. To retrieve your data later, sign in to Dissenter as <ph name="USER_EMAIL">$1<ex>foo@example.com</ex></ph>.
+  <message name="IDS_SETTINGS_SYNC_DISCONNECT_DELETE_PROFILE_WARNING_WITHOUT_COUNTS" desc="Warning message displayed in the Sign out of The Hive dialog that indicates profile browsing data will be removed from the device.">
+    This will delete your browsing data from this device. To retrieve your data later, sign in to The Hive as <ph name="USER_EMAIL">$1<ex>foo@example.com</ex></ph>.
   </message>
 <if expr="not chromeos">
   <message name="IDS_SETTINGS_PROFILE_NAME_AND_PICTURE" desc="Label of the link that takes you to the page to edit your name and picture for your chrome profile.">
-    Dissenter name and picture
+    The Hive name and picture
   </message>
-  <message name="IDS_SETTINGS_PEOPLE_SIGN_IN_PROMPT_SECONDARY_WITH_ACCOUNT" desc="The secondary text displayed to prompt users to enable sync for an account that is alredy present in Dissenter.">
-    Sync and personalize Dissenter across your devices
+  <message name="IDS_SETTINGS_PEOPLE_SIGN_IN_PROMPT_SECONDARY_WITH_ACCOUNT" desc="The secondary text displayed to prompt users to enable sync for an account that is alredy present in The Hive.">
+    Sync and personalize The Hive across your devices
   </message>
 </if>
 
   <!-- Sync Page -->
   <message name="IDS_SETTINGS_SYNC_SIGNIN" desc="The label that appears on the sync button in the options dialog when sync has not been set up by the user.">
-    Sign in to Dissenter
+    Sign in to The Hive
   </message>
   <message name="IDS_SETTINGS_SYNC_DATA_ENCRYPTED_TEXT" desc="Text alerting the user that synced data is encrypted.">
-    For added security, Dissenter will encrypt your data.
+    For added security, The Hive will encrypt your data.
   </message>
   <message name="IDS_SETTINGS_SYNC_DISCONNECT_TITLE" desc="The title of the dialog to stop syncing and sign out.">
-    Sign out of Dissenter?
+    Sign out of The Hive?
   </message>
   <message name="IDS_DRIVE_SUGGEST_PREF_DESC" desc="The documentation string of the 'Show Drive Results in Omnibox' - full description sentence">
-    Dissenter will access your Drive to make suggestions in the address bar
+    The Hive will access your Drive to make suggestions in the address bar
   </message>
 <if expr="not chromeos">
-    <message name="IDS_SETTINGS_SYNC_SIGN_IN_PROMPT_WITH_NO_ACCOUNT" desc="The text displayed to prompt users to sign in to Dissenter.">
-      Sign in to sync and personalize Dissenter across your devices
+    <message name="IDS_SETTINGS_SYNC_SIGN_IN_PROMPT_WITH_NO_ACCOUNT" desc="The text displayed to prompt users to sign in to The Hive.">
+      Sign in to sync and personalize The Hive across your devices
     </message>
-    <message name="IDS_SETTINGS_SYNC_SIGN_IN_PROMPT_WITH_ACCOUNT" desc="The text displayed to prompt users to enable sync for an account that is alredy present in Dissenter.">
-      Sync and personalize Dissenter across your devices
+    <message name="IDS_SETTINGS_SYNC_SIGN_IN_PROMPT_WITH_ACCOUNT" desc="The text displayed to prompt users to enable sync for an account that is alredy present in The Hive.">
+      Sync and personalize The Hive across your devices
     </message>
 </if>
 
   <!-- Languages Page -->
   <if expr="chromeos">
     <message name="IDS_SETTINGS_LANGUAGES_IS_DISPLAYED_IN_THIS_LANGUAGE" desc="The label for a language that is currently used as the UI display language.">
-      This language is used to display the Dissenter OS UI
+      This language is used to display the The Hive OS UI
     </message>
     <message name="IDS_SETTINGS_LANGUAGES_DISPLAY_IN_THIS_LANGUAGE" desc="The label used for a button that changes the UI language.">
-      Display Dissenter OS in this language
+      Display The Hive OS in this language
     </message>
   </if>
   <if expr="not chromeos">
     <message name="IDS_SETTINGS_LANGUAGES_IS_DISPLAYED_IN_THIS_LANGUAGE" desc="The label for a language that is currently used as the UI display language.">
-      This language is used to display the Dissenter UI
+      This language is used to display the The Hive UI
     </message>
     <message name="IDS_SETTINGS_LANGUAGES_DISPLAY_IN_THIS_LANGUAGE" desc="The label used for a button that changes the UI language.">
-      Display Dissenter in this language
+      Display The Hive in this language
     </message>
   </if>
 
   <!-- System Page -->
   <if expr="not chromeos">
-    <message name="IDS_SETTINGS_SYSTEM_BACKGROUND_APPS_LABEL" desc="Label for the checkbox to allow apps to run in the background, when Dissenter is closed.">
-      Continue running background apps when Dissenter is closed
+    <message name="IDS_SETTINGS_SYSTEM_BACKGROUND_APPS_LABEL" desc="Label for the checkbox to allow apps to run in the background, when The Hive is closed.">
+      Continue running background apps when The Hive is closed
     </message>
   </if>
 
   <!-- Reset Page -->
   <message name="IDS_SETTINGS_RESET_PROFILE_FEEDBACK" desc="Feedback label in the Reset Profile Settings dialog">
-    Help make Dissenter better by reporting the <ph name="BEGIN_LINK">&lt;a is="action-link" target="_blank"&gt;</ph>current settings<ph name="END_LINK">&lt;/a&gt;</ph>
+    Help make The Hive better by reporting the <ph name="BEGIN_LINK">&lt;a is="action-link" target="_blank"&gt;</ph>current settings<ph name="END_LINK">&lt;/a&gt;</ph>
   </message>
 </grit-part>
