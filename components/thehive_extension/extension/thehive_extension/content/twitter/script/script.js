@@ -194,7 +194,7 @@ function getQueryStringValue(key) {
     return decodeURIComponent(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
 };
 
-function getThe HiveDLogoAsSVG(height, width, fillColor, backgroundColor) {
+function getTheHiveDLogoAsSVG(height, width, fillColor, backgroundColor) {
     //Create "g" dissent icon
     var svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
     svg.style.setProperty("height", height, "important");
@@ -313,7 +313,7 @@ var GDTwitterV2 = function() {
         button.style.setProperty("bottom", '-8px', "important");
         button.style.setProperty("border-radius", '50%', "important");
 
-        var svg = getThe HiveDLogoAsSVG("18px", "18px", "#657786", "#fff")
+        var svg = getTheHiveDLogoAsSVG("18px", "18px", "#657786", "#fff")
         svg.style.setProperty("display", 'block', "important");
         svg.style.setProperty("margin", '9px', "important");
 
@@ -472,7 +472,7 @@ var GDTwitter = function() {
         button.style.setProperty("right", '12px', "important");
         button.style.setProperty("bottom", '8px', "important");
 
-        var svg = getThe HiveDLogoAsSVG("18px", "18px", "#637481", "#fff")
+        var svg = getTheHiveDLogoAsSVG("18px", "18px", "#637481", "#fff")
 
         button.onmouseover = function() {
             var p = this.querySelectorAll("path")[0];

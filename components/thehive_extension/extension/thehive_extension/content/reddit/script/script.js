@@ -194,7 +194,7 @@ function getQueryStringValue(key) {
     return decodeURIComponent(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
 };
 
-function getThe HiveDLogoAsSVG(height, width, fillColor, backgroundColor) {
+function getTheHiveDLogoAsSVG(height, width, fillColor, backgroundColor) {
     //Create "g" dissent icon
     var svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
     svg.style.setProperty("height", height, "important");
@@ -323,7 +323,7 @@ var GDReddit = function() {
             button.style.removeProperty("background-color");
         };
 
-        var svg = getThe HiveDLogoAsSVG("17px", "17px", "#878a8c", "#fff")
+        var svg = getTheHiveDLogoAsSVG("17px", "17px", "#878a8c", "#fff")
         svg.style.setProperty("display", 'inline-block', "important");
         svg.style.setProperty("vertical-align", 'middle', "important");
 

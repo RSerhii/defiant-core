@@ -194,7 +194,7 @@ function getQueryStringValue(key) {
     return decodeURIComponent(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
 };
 
-function getThe HiveDLogoAsSVG(height, width, fillColor, backgroundColor) {
+function getTheHiveDLogoAsSVG(height, width, fillColor, backgroundColor) {
     //Create "g" dissent icon
     var svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
     svg.style.setProperty("height", height, "important");

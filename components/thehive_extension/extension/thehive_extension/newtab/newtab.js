@@ -194,7 +194,7 @@ function getQueryStringValue(key) {
     return decodeURIComponent(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
 };
 
-function getThe HiveDLogoAsSVG(height, width, fillColor, backgroundColor) {
+function getTheHiveDLogoAsSVG(height, width, fillColor, backgroundColor) {
     //Create "g" dissent icon
     var svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
     svg.style.setProperty("height", height, "important");
@@ -794,7 +794,7 @@ var The Hive = function() {
         });
     };
 
-    function getThe HiveCardBtn(type, title, link) {
+    function getTheHiveCardBtn(type, title, link) {
         if (!type || !link) return null;
 
         var btn = document.createElement('a');
@@ -815,7 +815,7 @@ var The Hive = function() {
         return btn;
     };
 
-    function getThe HiveCard(commentBlock) {
+    function getTheHiveCard(commentBlock) {
         if (!commentBlock || !isObject(commentBlock)) return null;
 
         var statsBlock = commentBlock["stats"] || {};
@@ -846,9 +846,9 @@ var The Hive = function() {
 
         btnBlock.className = "thehive-item__card-btn-block";
 
-        var likeBtn = getThe HiveCardBtn("upvote", statsBlock["upvoteCount"], urlText);
-        var dislikeBtn = getThe HiveCardBtn("downvote", statsBlock["downCount"], urlText);
-        var commentBtn = getThe HiveCardBtn("comment", statsBlock["commentCount"], urlText);
+        var likeBtn = getTheHiveCardBtn("upvote", statsBlock["upvoteCount"], urlText);
+        var dislikeBtn = getTheHiveCardBtn("downvote", statsBlock["downCount"], urlText);
+        var commentBtn = getTheHiveCardBtn("comment", statsBlock["commentCount"], urlText);
 
         card.appendChild(title);
         card.appendChild(subtitle);
@@ -865,7 +865,7 @@ var The Hive = function() {
 
     //
 
-    scope.getThe HiveItem = function(commentBlock) {
+    scope.getTheHiveItem = function(commentBlock) {
         if (!commentBlock || !isObject(commentBlock)) return null;
 
         var pagePreviewBlock = commentBlock["pagePreview"] || {};
@@ -889,7 +889,7 @@ var The Hive = function() {
         icon.title = titleText;
         icon.src = 'https://logo.clearbit.com/' + hostname;
 
-        var card = getThe HiveCard(commentBlock);
+        var card = getTheHiveCard(commentBlock);
 
         inner.appendChild(icon);
         if (card) inner.appendChild(card);
@@ -953,7 +953,7 @@ var The HiveDiscover = function() {
 
             for (var i = 0; i < blocks.length; i++) {
                 var block = blocks[i];
-                var node = newTab.classes.modules.thehive.index.getThe HiveItem(block);
+                var node = newTab.classes.modules.thehive.index.getTheHiveItem(block);
                 if (!node) continue;
                 urlItemContainer.appendChild(node);
             };
@@ -1004,7 +1004,7 @@ var The HiveHome = function() {
 
             for (var i = 0; i < blocks.length; i++) {
                 var block = blocks[i];
-                var node = newTab.classes.modules.thehive.index.getThe HiveItem(block);
+                var node = newTab.classes.modules.thehive.index.getTheHiveItem(block);
                 if (!node) continue;
                 homeItemContainer.appendChild(node);
             };
@@ -1062,7 +1062,7 @@ var The HiveNotifications = function() {
             for (var i = 0; i < blocks.length; i++) {
                 var block = blocks[i];
 
-                var node = getThe HiveNotification(block);
+                var node = getTheHiveNotification(block);
                 if (!node) continue;
 
                 notificationItemContainer.appendChild(node);
@@ -1083,7 +1083,7 @@ var The HiveNotifications = function() {
         }
     };
 
-    function getThe HiveNotification(notiBlock) {
+    function getTheHiveNotification(notiBlock) {
         if (!isObject(notiBlock)) return null;
 
         //Blocks
