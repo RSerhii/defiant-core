@@ -752,7 +752,7 @@ var Settings = function() {
 
 };
 
-var The Hive = function() {
+var TheHive = function() {
 
     var scope = this;
 
@@ -899,7 +899,7 @@ var The Hive = function() {
         return item;
     };
 
-    scope.setThe HiveEnabled = function(event) {
+    scope.setTheHiveEnabled = function(event) {
         if (!isObject(event)) return false;
 
         var enabled = event.detail;
@@ -908,7 +908,7 @@ var The Hive = function() {
         if (enabled) updateActiveTab("home");
     };
 
-    scope.setThe HiveDefaultTab = function(event) {
+    scope.setTheHiveDefaultTab = function(event) {
         if (!isObject(event)) return false;
 
         var tab = event.detail;
@@ -918,11 +918,11 @@ var The Hive = function() {
 
     //
 
-    window.addEventListener("WELM_nt_thehive_enabled", scope.setThe HiveEnabled, false);
-    window.addEventListener("WELM_nt_thehive_default_tab", scope.setThe HiveDefaultTab, false);
+    window.addEventListener("WELM_nt_thehive_enabled", scope.setTheHiveEnabled, false);
+    window.addEventListener("WELM_nt_thehive_default_tab", scope.setTheHiveDefaultTab, false);
 };
 
-var The HiveDiscover = function() {
+var TheHiveDiscover = function() {
 
     var scope = this;
 
@@ -973,7 +973,7 @@ var The HiveDiscover = function() {
     };
 };
 
-var The HiveHome = function() {
+var TheHiveHome = function() {
 
     var scope = this;
 
@@ -1024,7 +1024,7 @@ var The HiveHome = function() {
     };
 };
 
-var The HiveNotifications = function() {
+var TheHiveNotifications = function() {
 
     var scope = this;
 
@@ -1506,10 +1506,10 @@ function _init(defaults) {
     newTab.classes = {
         modules: {
             thehive: {
-                index: new The Hive(),
-                home: new The HiveHome(),
-                discover: new The HiveDiscover(),
-                notifications: new The HiveNotifications(),
+                index: new TheHive(),
+                home: new TheHiveHome(),
+                discover: new TheHiveDiscover(),
+                notifications: new TheHiveNotifications(),
             },
             topsites: {
                 index: new TopSites(),

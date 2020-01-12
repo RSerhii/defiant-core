@@ -11,7 +11,7 @@ import { Content, Title, Paragraph } from 'thehive-ui/features/welcome'
 import { Button } from 'thehive-ui'
 
 // Images
-import { WelcomeThe HiveImage } from 'thehive-ui/features/welcome/images'
+import { WelcomeTheHiveImage } from 'thehive-ui/features/welcome/images'
 
 // Utils
 import { getLocale } from '../../../common/locale'
@@ -32,7 +32,7 @@ export default class ImportBox extends React.PureComponent<Props, {}> {
         screenPosition={'1' + (index + 1) + '0%'}
         isPrevious={index <= currentScreen}
       >
-        <WelcomeThe HiveImage />
+        <WelcomeTheHiveImage />
         <Title>{getLocale('importFromAnotherBrowser')}</Title>
         <Paragraph>{getLocale('setupImport')}</Paragraph>
           <Button

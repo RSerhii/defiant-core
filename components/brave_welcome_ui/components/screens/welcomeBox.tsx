@@ -12,7 +12,7 @@ import { Button } from 'thehive-ui'
 import { ArrowRightIcon } from 'thehive-ui/components/icons'
 
 // Images
-import { WelcomeThe HiveImage } from 'thehive-ui/features/welcome/images'
+import { WelcomeTheHiveImage } from 'thehive-ui/features/welcome/images'
 
 // Utils
 import { getLocale } from '../../../common/locale'
@@ -33,7 +33,7 @@ export default class ThemingBox extends React.PureComponent<Props, {}> {
         screenPosition={'1' + (index + 1) + '0%'}
         isPrevious={index <= currentScreen}
       >
-        <WelcomeThe HiveImage />
+        <WelcomeTheHiveImage />
         <Title>Welcome To The Free Speech Internet</Title>
         <Paragraph>The Hive creates a comment section on every URL across the web. It also blocks ads and prevents Silicon Valley tech giants from tracking you. Ready to speak freely?</Paragraph>
         <Button
