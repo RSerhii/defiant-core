@@ -91,7 +91,7 @@ void BraveBrowserCommandController::InitBraveCommandState() {
   }
   UpdateCommandForBraveAdblock();
   UpdateCommandForTor();
-  UpdateCommandForThe HiveExtension();
+  UpdateCommandForTheHiveExtension();
 }
 
 void BraveBrowserCommandController::UpdateCommandForBraveRewards() {
@@ -111,7 +111,7 @@ void BraveBrowserCommandController::UpdateCommandForBraveSync() {
   UpdateCommandEnabled(IDC_SHOW_BRAVE_SYNC, true);
 }
 
-void BraveBrowserCommandController::UpdateCommandForThe HiveExtension() {
+void BraveBrowserCommandController::UpdateCommandForTheHiveExtension() {
   UpdateCommandEnabled(IDC_SHOW_THEHIVE_EXTENSION_SETTINGS, true);
 }
 
