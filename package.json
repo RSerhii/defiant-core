@@ -288,7 +288,7 @@
     "css-loader": "^2.1.1",
     "csstype": "^2.5.5",
     "deep-freeze-node": "^1.1.3",
-    "thehive-ui": "git+https://github.com/RSerhii/thehive-ui.git#63a4afd8ffc025e694e5a493a280fcdde225486e",
+    "thehive-ui": "git+https://github.com/RSerhii/thehive-ui.git#27851e8be14d1857871f87cd4b105d20c0151e25",
     "emptykit.css": "^1.0.1",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
