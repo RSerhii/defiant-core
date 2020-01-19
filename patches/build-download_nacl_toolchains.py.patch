@@ -1,0 +1,12 @@
+diff --git a/build/download_nacl_toolchains.py b/build/download_nacl_toolchains.py
+index 286a92a27ee9..52d1ae78b532 100755
+--- a/build/download_nacl_toolchains.py
++++ b/build/download_nacl_toolchains.py
+@@ -13,6 +13,7 @@ import sys
+ 
+ 
+ def Main(args):
++  sys.exit(0)
+   script_dir = os.path.dirname(os.path.abspath(__file__))
+   src_dir = os.path.dirname(script_dir)
+   nacl_dir = os.path.join(src_dir, 'native_client')
