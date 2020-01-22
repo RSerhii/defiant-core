@@ -1,18 +1,14 @@
-diff --git a/content/public/browser/content_browser_client.h b/content/public/browser/content_browser_client.h
-index f2c957335747..9900ce70892b 100644
---- a/content/public/browser/content_browser_client.h
-+++ b/content/public/browser/content_browser_client.h
-@@ -1567,6 +1567,13 @@ class CONTENT_EXPORT ContentBrowserClient {
-   virtual ui::AXMode GetAXModeForBrowserContext(
-       BrowserContext* browser_context);
+diff --git a/content/public/browser/browser_context.h b/content/public/browser/browser_context.h
+index d2570b2329086933e5b0b74f3dbdbc5ac8854e29..36a05252e5e80cb1861b70b001240dc03251a000 100644
+--- a/content/public/browser/browser_context.h
++++ b/content/public/browser/browser_context.h
+@@ -251,6 +251,9 @@ class CONTENT_EXPORT BrowserContext : public base::SupportsUserData {
+   // also off the record.
+   virtual bool IsOffTheRecord() const = 0;
  
-+  // Brave-speicific: allows the embedder to modify the referrer string
-+  // according to user preferences.
-+  virtual void MaybeHideReferrer(BrowserContext* browser_context,
-+                                 const GURL& request_url,
-+                                 const GURL& document_url,
-+                                 Referrer* referrer) {}
++  // Return whether this context uses Tor. Default is false.
++  virtual bool IsTorProfile() const;
 +
- #if defined(OS_ANDROID)
-   // Defines the heuristics we can use to enable wide color gamut (WCG).
-   enum class WideColorGamutHeuristic {
+   // Returns the resource context.
+   virtual ResourceContext* GetResourceContext() = 0;
+ 
