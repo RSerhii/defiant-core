@@ -21,12 +21,12 @@ namespace extensions {
 BraveComponentExtensionResourceManager::
 BraveComponentExtensionResourceManager() {
   AddComponentResourceEntries(
-      kTheHiveExtension,
-      kTheHiveExtensionSize);
+      kThehiveExtension,
+      kThehiveExtensionSize);
 
   AddComponentResourceEntries(
-      kTheHiveExtensionGenerated,
-      kTheHiveExtensionGeneratedSize);
+      kThehiveExtensionGenerated,
+      kThehiveExtensionGeneratedSize);
 
   AddComponentResourceEntries(
       kBraveExtension,
