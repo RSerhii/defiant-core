@@ -1,0 +1,12 @@
+diff --git a/chrome/android/java_sources.gni b/chrome/android/java_sources.gni
+index a68c758d68230ee1f637345b284287a03bc40237..58da1bf9b307aa94a7364a11d915c75ddb62658d 100644
+--- a/chrome/android/java_sources.gni
++++ b/chrome/android/java_sources.gni
+@@ -16,6 +16,7 @@ import("//components/offline_pages/buildflags/features.gni")
+ import("//device/vr/buildflags/buildflags.gni")
+ 
+ chrome_java_sources += public_autofill_assistant_java_sources
++chrome_java_sources += brave_java_sources
+ 
+ if (enable_vr) {
+   chrome_java_sources += [ "java/src/org/chromium/chrome/browser/component_updater/VrAssetsComponentInstaller.java" ]

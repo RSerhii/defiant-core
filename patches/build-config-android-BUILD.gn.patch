@@ -1,0 +1,12 @@
+diff --git a/build/config/android/BUILD.gn b/build/config/android/BUILD.gn
+index 6d8bec8e71f0d80d6829fbe8a372abc01d691a81..9fcb132b0c37d4be5ce0430faafb815317e9812a 100644
+--- a/build/config/android/BUILD.gn
++++ b/build/config/android/BUILD.gn
+@@ -46,6 +46,7 @@ config("compiler") {
+     # http://crbug.com/448386
+     "-Wl,--exclude-libs=libvpx_assembly_arm.a",
+   ]
++  ldflags += ["-Wl,--allow-multiple-definition"] # Resolve conflict between libgcc++ and rustup symbols (e.g. __divdi3)
+ 
+   # $compile_api_level corresponds to the API level used for the sysroot path
+   # calculation in //build/config/android/config.gni
