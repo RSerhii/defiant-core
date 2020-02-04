@@ -24,6 +24,11 @@ declare_args() {
   chrome_version_major = ""
   build_omaha = false
   tag_ap =""
+  target_apk_base=""
+  brave_android_keystore_path = "."
+  brave_android_keystore_name = ""
+  brave_android_keystore_password = ""
+  brave_android_key_password = ""
 
   skip_signing = false
 }
