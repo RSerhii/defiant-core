@@ -1,0 +1,4 @@
+import("//brave/build/config.gni")
+
+group("symbol_dist_resources") {}
+group("dist_resources") {}

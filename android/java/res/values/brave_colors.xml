@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) 2019 The Brave Authors. All rights reserved.
+     This Source Code Form is subject to the terms of the Mozilla Public
+     License, v. 2.0. If a copy of the MPL was not distributed with this file,
+     You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Onborading colors -->
+    <color name="onboarding_orange">#fb542b</color>
+    <color name="onboarding_gray">#84889c</color>
+    <color name="onboarding_black">#1e2029</color>
+    <color name="onboarding_radio_button_active">#f0f1ff</color>
+
+    <color name="onboarding_timer_color">#4f30ab</color>
+
+    <color name="onboarding_text_color">@color/onboarding_black</color>
+    <color name="onboarding_bg_color">@android:color/white</color>
+
+    <color name="onboarding_progressbar_secondary_bg">#ced4da</color>
+    <color name="onboarding_progress_start_color">#FA7250</color>
+    <color name="onboarding_progress_mid_color">#FF1893</color>
+    <color name="onboarding_progress_end_color">#4F30AB</color>
+
+    <color name="brave_shield_bg_color">@color/default_primary_color</color>
+    <color name="brave_state_time_count_color">#222326</color>
+
+    <!-- Sync colors -->
+    <color name="brave_sync_bg_color">@color/modern_grey_50</color>
+    <color name="brave_sync_border_color">@color/modern_grey_50</color>
+    <color name="brave_sync_bg_secondary_color">@android:color/white</color>
+
+    <color name="brave_set_default_dialog_text_color">@color/modern_grey_700</color>
+
+    <!-- Theme colors -->
+    <color name="brave_theme_color">#fb542b</color>
+    <color name="brave_rewards_theme_color">#392DD1</color>
+</resources>

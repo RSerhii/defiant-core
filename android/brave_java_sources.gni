@@ -1,0 +1,95 @@
+# Copyright (c) 2019 The Brave Authors. All rights reserved.
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this file,
+# You can obtain one at http://mozilla.org/MPL/2.0/. */
+
+import("//brave/browser/brave_ads/android/java_sources.gni")
+import("//brave/components/brave_ads/browser/buildflags/buildflags.gni")
+import("//brave/components/brave_rewards/browser/android/java_sources.gni")
+import("//brave/components/brave_rewards/browser/buildflags/buildflags.gni")
+
+brave_java_sources = [
+  "../../brave/android/java/org/chromium/chrome/browser/BraveActivity.java",
+  "../../brave/android/java/org/chromium/chrome/browser/BraveBadge.java",
+  "../../brave/android/java/org/chromium/chrome/browser/BraveFeatureList.java",
+  "../../brave/android/java/org/chromium/chrome/browser/BraveRelaunchUtils.java",
+  "../../brave/android/java/org/chromium/chrome/browser/appmenu/BraveAppMenuPropertiesDelegateImpl.java",
+  "../../brave/android/java/org/chromium/chrome/browser/BraveRewardsNativeWorker.java",
+  "../../brave/android/java/org/chromium/chrome/browser/BraveRewardsObserver.java",
+  "../../brave/android/java/org/chromium/chrome/browser/BraveRewardsDonationSentActivity.java",
+  "../../brave/android/java/org/chromium/chrome/browser/BraveRewardsHelper.java",
+  "../../brave/android/java/org/chromium/chrome/browser/BraveRewardsPanelPopup.java",
+  "../../brave/android/java/org/chromium/chrome/browser/BraveRewardsSiteBannerActivity.java",
+  "../../brave/android/java/org/chromium/chrome/browser/appmenu/BraveShieldsMenuAdapter.java",
+  "../../brave/android/java/org/chromium/chrome/browser/appmenu/BraveShieldsMenuHandler.java",
+  "../../brave/android/java/org/chromium/chrome/browser/appmenu/BraveShieldsMenuObserver.java",
+  "../../brave/android/java/org/chromium/chrome/browser/document/BraveLauncherActivity.java",
+  "../../brave/android/java/org/chromium/chrome/browser/notifications/BraveNotificationPlatformBridge.java",
+  "../../brave/android/java/org/chromium/chrome/browser/notifications/BraveNotificationSettingsBridge.java",
+  "../../brave/android/java/org/chromium/chrome/browser/notifications/BraveOnboardingNotification.java",
+  "../../brave/android/java/org/chromium/chrome/browser/notifications/BraveSetDefaultBrowserNotificationService.java",
+  "../../brave/android/java/org/chromium/chrome/browser/notifications/channels/BraveChannelDefinitions.java",
+  "../../brave/android/java/org/chromium/chrome/browser/ntp/BraveDuckDuckGoOfferView.java",
+  "../../brave/android/java/org/chromium/chrome/browser/ntp/BraveNewTabPageLayout.java",
+  "../../brave/android/java/org/chromium/chrome/browser/ntp/BraveNewTabPageView.java",
+  "../../brave/android/java/org/chromium/chrome/browser/onboarding/BraveRewardsOnboardingFragment.java",
+  "../../brave/android/java/org/chromium/chrome/browser/onboarding/BraveRewardsService.java",
+  "../../brave/android/java/org/chromium/chrome/browser/onboarding/BraveRewardsServiceReceiver.java",
+  "../../brave/android/java/org/chromium/chrome/browser/onboarding/BraveShieldsOnboardingFragment.java",
+  "../../brave/android/java/org/chromium/chrome/browser/onboarding/NonSwipeableViewPager.java",
+  "../../brave/android/java/org/chromium/chrome/browser/onboarding/OnboardingActivity.java",
+  "../../brave/android/java/org/chromium/chrome/browser/onboarding/OnboardingPrefManager.java",
+  "../../brave/android/java/org/chromium/chrome/browser/onboarding/OnboardingViewPagerAdapter.java",
+  "../../brave/android/java/org/chromium/chrome/browser/onboarding/OnViewPagerAction.java",
+  "../../brave/android/java/org/chromium/chrome/browser/onboarding/SearchEngineEnum.java",
+  "../../brave/android/java/org/chromium/chrome/browser/onboarding/SearchEngineOnboardingFragment.java",
+  "../../brave/android/java/org/chromium/chrome/browser/onboarding/TroubleshootingOnboardingFragment.java",
+  "../../brave/android/java/org/chromium/chrome/browser/partnercustomizations/CloseBraveManager.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/AppearancePreferences.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/BackgroundVideoPlaybackPreference.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/BraveMainPreferencesBase.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/BravePreferenceFragment.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/BravePreferenceManager.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/BravePrefServiceBridge.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/BravePrivateSearchEnginePreference.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/BraveRewardsPreferences.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/BraveRewardsResetPreference.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/BraveRewardsResetPreferenceDialog.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/BraveSearchEngineAdapter.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/BraveSearchEnginePreference.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/BraveSearchEngineUtils.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/BraveStandardSearchEnginePreference.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/BraveSyncScreensPreference.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/ClosingAllTabsClosesBravePreference.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/SearchEngineTabModelSelectorObserver.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/privacy/BravePrivacyPreferences.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/themes/BraveRadioButtonGroupThemePreference.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/themes/BraveThemePreferences.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/website/BraveShieldsContentSettings.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/website/BraveShieldsContentSettingsObserver.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/website/BraveSiteSettingsPreferencesBase.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/website/DesktopModePreferences.java",
+  "../../brave/android/java/org/chromium/chrome/browser/preferences/website/PlayYTVideoInBrowserPreferences.java",
+  "../../brave/android/java/org/chromium/chrome/browser/qrreader/BarcodeTracker.java",
+  "../../brave/android/java/org/chromium/chrome/browser/qrreader/BarcodeTrackerFactory.java",
+  "../../brave/android/java/org/chromium/chrome/browser/qrreader/CameraSource.java",
+  "../../brave/android/java/org/chromium/chrome/browser/qrreader/CameraSourcePreview.java",
+  "../../brave/android/java/org/chromium/chrome/browser/signin/BraveSigninManager.java",
+  "../../brave/android/java/org/chromium/chrome/browser/invalidation/BraveBrowserSyncAdapterService.java",
+  "../../brave/android/java/org/chromium/chrome/browser/sync/BraveSyncService.java",
+  "../../brave/android/java/org/chromium/chrome/browser/sync/BraveSyncServiceObserver.java",
+  "../../brave/android/java/org/chromium/chrome/browser/toolbar/bottom/BookmarksButton.java",
+  "../../brave/android/java/org/chromium/chrome/browser/toolbar/bottom/BraveBottomToolbarCoordinator.java",
+  "../../brave/android/java/org/chromium/chrome/browser/toolbar/top/BraveToolbarLayout.java",
+  "../../brave/android/java/org/chromium/chrome/browser/upgrade/BravePackageReplacedBroadcastReceiver.java",
+  "../../brave/android/java/org/chromium/chrome/browser/upgrade/BraveUpgradeJobIntentService.java",
+  "../../brave/android/java/org/chromium/chrome/browser/util/PackageUtils.java",
+]
+
+if (brave_rewards_enabled) {
+  brave_java_sources += brave_rewards_java_sources
+}
+
+if (brave_ads_enabled) {
+  brave_java_sources += brave_ads_java_sources
+}
