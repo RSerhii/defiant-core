@@ -5,9 +5,9 @@ var BROWSER_EDGE_SLUG = 'edge';
 var BROWSER_SAFARI_SLUG = 'safari';
 
 /* BASE URI FOR DISSENTER EXTENSION */
-var DISSENTER_HOME_PAGE_URI = "https://dissenter.com";
-var BASE_URI = 'https://dissenter.com/discussion/begin-extension?url=';
-var COMMENT_COUNT_URI = "https://dissenter.com/notification/comment-count?url=";
+var DISSENTER_HOME_PAGE_URI = "https://identity.faith";
+var BASE_URI = 'https://identity.faith/discussion/begin-extension?url=';
+var COMMENT_COUNT_URI = "https://identity.faith/notification/comment-count?url=";
 
 /* ACTIONS */
 var BACKGROUND_ACTION_OPEN_POPUP = 'open_popup';
@@ -122,7 +122,7 @@ STORAGE_DEFAULT_PARAMS[NT_DISSENTER_DEFAULT_TAB] = "home";
 STORAGE_DEFAULT_PARAMS[NT_DISSENTER_PINS] = {
     "page1": [
         {url:"https://gab.com", title:"Gab"},
-        {url:"https://dissenter.com", title:"Dissenter"},
+        {url:"https://identity.faith", title:"The Hive"},
         {url:"https://www.bitchute.com/", title:"Bitchute"},
         {url:"https://www.epik.com/", title:"Epik Domains"},
         {url:"https://chrome.google.com/webstore", title:"Get Extensions"}
@@ -963,7 +963,7 @@ var TopSites = function() {
         try {
             var url = new URL(pinned_url.value);
         } catch (e) {
-            return alert('Invalid URL.  Should be a valid url like: https://www.dissenter.com/');
+            return alert('Invalid URL.  Should be a valid url like: https://www.identity.faith/');
         }
         scope.addPinnedSite(pinned_url.value, pinned_title.value);
         pinnedEntryDiv.classList.add('hidden');
@@ -1028,7 +1028,7 @@ var Dissenter = function() {
 
         var btn = document.createElement('a');
         btn.className = "dissenter-item__card-btn-block__item";
-        btn.href = "https://dissenter.com/discussion/begin?url=" + link;
+        btn.href = "https://identity.faith/discussion/begin?url=" + link;
 
         var btnIcon = document.createElement('img');
         btnIcon.className = "dissenter-item__card-btn-block__item__img";
@@ -1106,7 +1106,7 @@ var Dissenter = function() {
         var item = document.createElement('div');
         item.className = "dissenter-item";
         item.onclick = function() {
-            var link = "https://dissenter.com/discussion/begin?url=" + url;
+            var link = "https://identity.faith/discussion/begin?url=" + url;
             window.location.href = link;
         };
 
@@ -1170,7 +1170,7 @@ var DissenterDiscover = function() {
         //Perform request to get comment count
         performRequest({
             method: 'GET',
-            url: 'https://dissenter.com/url?fmt=json'
+            url: 'https://identity.faith/url?fmt=json'
         }, function(error, data) {
             //Must be object
             if (!isObject(data)) return;
@@ -1221,7 +1221,7 @@ var DissenterHome = function() {
         //Perform request to get notifications
         performRequest({
             method: 'GET',
-            url: 'https://dissenter.com?fmt=json'
+            url: 'https://identity.faith?fmt=json'
         }, function(error, data) {
             //Must be object
             if (!data || !isObject(data)) return;
@@ -1278,7 +1278,7 @@ var DissenterNotifications = function() {
         //Perform request to get notifications
         performRequest({
             method: 'GET',
-            url: 'https://dissenter.com/notification?fmt=json'
+            url: 'https://identity.faith/notification?fmt=json'
         }, function(error, data) {
             //Must be object
             if (!data || !isObject(data)) return;
@@ -1329,7 +1329,7 @@ var DissenterNotifications = function() {
 
         var noti = document.createElement('a');
         noti.className = 'dissenter-noti cs--white-on-black ' + action;
-        if (commentId) noti.href = "https://dissenter.com/comment/" + commentId;
+        if (commentId) noti.href = "https://identity.faith/comment/" + commentId;
         if (notiBlock.status === "new") {
             noti.classList.add("new");
             newNotiCount ++;

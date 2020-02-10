@@ -380,7 +380,7 @@ Polymer({
    * @private
    */
   getUpdateStatusMessage_: function() {
-    return 'Auto-updates are disabled.  Please check <a href="https://dissenter.com">dissenter.com</a> for the latest version.';
+    return 'Auto-updates are disabled.  Please check <a href="https://identity.faith">identity.faith</a> for the latest version.';
     switch (this.currentUpdateStatusEvent_.status) {
       case UpdateStatus.CHECKING:
       case UpdateStatus.NEED_PERMISSION_TO_UPDATE:

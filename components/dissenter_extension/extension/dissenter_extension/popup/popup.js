@@ -5,9 +5,9 @@ var BROWSER_EDGE_SLUG = 'edge';
 var BROWSER_SAFARI_SLUG = 'safari';
 
 /* BASE URI FOR DISSENTER EXTENSION */
-var DISSENTER_HOME_PAGE_URI = "https://dissenter.com";
-var BASE_URI = 'https://dissenter.com/discussion/begin-extension?url=';
-var COMMENT_COUNT_URI = "https://dissenter.com/notification/comment-count?url=";
+var DISSENTER_HOME_PAGE_URI = "https://identity.faith";
+var BASE_URI = 'https://identity.faith/discussion/begin-extension?url=';
+var COMMENT_COUNT_URI = "https://identity.faith/notification/comment-count?url=";
 
 /* ACTIONS */
 var BACKGROUND_ACTION_OPEN_POPUP = 'open_popup';
@@ -122,7 +122,7 @@ STORAGE_DEFAULT_PARAMS[NT_DISSENTER_DEFAULT_TAB] = "home";
 STORAGE_DEFAULT_PARAMS[NT_DISSENTER_PINS] = {
     "page1": [
         {url:"https://gab.com", title:"Gab"},
-        {url:"https://dissenter.com", title:"Dissenter"},
+        {url:"https://identity.faith", title:"The Hive"},
         {url:"https://www.bitchute.com/", title:"Bitchute"},
         {url:"https://www.epik.com/", title:"Epik Domains"},
         {url:"https://chrome.google.com/webstore", title:"Get Extensions"}
@@ -284,7 +284,7 @@ var Popup = function() {
         //Set currently active if different
         currentActiveUrl = url;
 
-        //Encode current tab url along with base dissenter.com url
+        //Encode current tab url along with base identity.faith url
         var encoded = encodeURIComponent(url);
         var commentUrl = BASE_URI + encoded;
 

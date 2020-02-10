@@ -34,7 +34,7 @@ export default class ThemingBox extends React.PureComponent<Props, {}> {
       >
         <WelcomeLionImage />
         <Title>Welcome to the Free Speech Internet</Title>
-        <Paragraph>Dissenter creates a comment section on every URL across the web.  It also blocks ads and prevents Silicon Valley tech giants from tracking you.  Ready to speak freely?</Paragraph>
+        <Paragraph>The Hive creates a comment section on every URL across the web.  It also blocks ads and prevents Silicon Valley tech giants from tracking you.  Ready to speak freely?</Paragraph>
         <PrimaryButton
           level='primary'
           type='accent'
