@@ -7,7 +7,7 @@ index a454dd3450ae06949ab38f2d854b7a9f811604ff..193d1a682aa2e07ac479ed819033ceba
  
    static const base::FilePath::CharType* const kUnversionedFiles[] = {
 +#if defined(BRAVE_CHROMIUM_BUILD)
-+      FILE_PATH_LITERAL("brave.exe")};
++      FILE_PATH_LITERAL("thehive.exe")};
 +#else
        FILE_PATH_LITERAL("chrome.exe")};
 +#endif

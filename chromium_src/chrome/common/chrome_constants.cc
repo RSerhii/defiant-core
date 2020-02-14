@@ -37,13 +37,13 @@ const char kChromeVersion[] = CHROME_VERSION_STRING;
 
 #if defined(OS_WIN)
 const base::FilePath::CharType kBrowserProcessExecutableNameChromium[] =
-    FPL("brave.exe");
+    FPL("thehive.exe");
 const base::FilePath::CharType kBrowserProcessExecutableName[] =
-    FPL("brave.exe");
+    FPL("thehive.exe");
 const base::FilePath::CharType kHelperProcessExecutableNameChromium[] =
-    FPL("brave.exe");
+    FPL("thehive.exe");
 const base::FilePath::CharType kHelperProcessExecutableName[] =
-    FPL("brave.exe");
+    FPL("thehive.exe");
 #elif defined(OS_MACOSX)
 const base::FilePath::CharType kBrowserProcessExecutableNameChromium[] =
     FPL(CHROMIUM_PRODUCT_STRING);
@@ -55,7 +55,7 @@ const base::FilePath::CharType kHelperProcessExecutableName[] =
     FPL(PRODUCT_STRING " Helper");
 #elif defined(OS_ANDROID)
 // NOTE: Keep it synced with the process names defined in AndroidManifest.xml.
-const base::FilePath::CharType kBrowserProcessExecutableName[] = FPL("brave");
+const base::FilePath::CharType kBrowserProcessExecutableName[] = FPL("thehive");
 const base::FilePath::CharType kBrowserProcessExecutableNameChromium[] =
     FPL("");
 const base::FilePath::CharType kHelperProcessExecutableName[] =
@@ -63,8 +63,8 @@ const base::FilePath::CharType kHelperProcessExecutableName[] =
 const base::FilePath::CharType kHelperProcessExecutableNameChromium[] = FPL("");
 #elif defined(OS_POSIX)
 const base::FilePath::CharType kBrowserProcessExecutableNameChromium[] =
-    FPL("brave");
-const base::FilePath::CharType kBrowserProcessExecutableName[] = FPL("brave");
+    FPL("thehive");
+const base::FilePath::CharType kBrowserProcessExecutableName[] = FPL("thehive");
 // Helper processes end up with a name of "exe" due to execing via
 // /proc/self/exe.  See bug 22703.
 const base::FilePath::CharType kHelperProcessExecutableNameChromium[] =
@@ -74,13 +74,13 @@ const base::FilePath::CharType kHelperProcessExecutableName[] = FPL("exe");
 
 #if defined(OS_WIN)
 const base::FilePath::CharType kBrowserProcessExecutablePathChromium[] =
-    FPL("brave.exe");
+    FPL("thehive.exe");
 const base::FilePath::CharType kBrowserProcessExecutablePath[] =
-    FPL("brave.exe");
+    FPL("thehive.exe");
 const base::FilePath::CharType kHelperProcessExecutablePathChromium[] =
-    FPL("brave.exe");
+    FPL("thehive.exe");
 const base::FilePath::CharType kHelperProcessExecutablePath[] =
-    FPL("brave.exe");
+    FPL("thehive.exe");
 #elif defined(OS_MACOSX)
 const base::FilePath::CharType kBrowserProcessExecutablePathChromium[] =
     FPL(CHROMIUM_PRODUCT_STRING ".app/Contents/MacOS/" CHROMIUM_PRODUCT_STRING);
@@ -92,19 +92,19 @@ const base::FilePath::CharType kHelperProcessExecutablePathChromium[] =
 const base::FilePath::CharType kHelperProcessExecutablePath[] =
     FPL(PRODUCT_STRING " Helper.app/Contents/MacOS/" PRODUCT_STRING " Helper");
 #elif defined(OS_ANDROID)
-const base::FilePath::CharType kBrowserProcessExecutablePath[] = FPL("brave");
-const base::FilePath::CharType kHelperProcessExecutablePath[] = FPL("brave");
+const base::FilePath::CharType kBrowserProcessExecutablePath[] = FPL("thehive");
+const base::FilePath::CharType kHelperProcessExecutablePath[] = FPL("thehive");
 const base::FilePath::CharType kBrowserProcessExecutablePathChromium[] =
-    FPL("brave");
+    FPL("thehive");
 const base::FilePath::CharType kHelperProcessExecutablePathChromium[] =
-    FPL("brave");
+    FPL("thehive");
 #elif defined(OS_POSIX)
 const base::FilePath::CharType kBrowserProcessExecutablePathChromium[] =
-    FPL("brave");
-const base::FilePath::CharType kBrowserProcessExecutablePath[] = FPL("brave");
+    FPL("thehive");
+const base::FilePath::CharType kBrowserProcessExecutablePath[] = FPL("thehive");
 const base::FilePath::CharType kHelperProcessExecutablePathChromium[] =
-    FPL("brave");
-const base::FilePath::CharType kHelperProcessExecutablePath[] = FPL("brave");
+    FPL("thehive");
+const base::FilePath::CharType kHelperProcessExecutablePath[] = FPL("thehive");
 #endif  // OS_*
 
 #if defined(OS_MACOSX)

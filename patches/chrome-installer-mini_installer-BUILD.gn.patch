@@ -23,7 +23,7 @@ index cc2bfe0642d14794741c1db43b4399304b529ba4..0eb5bd30f90f1fee3370e07e388bdb9a
 +        "$root_out_dir/chrome.exe",
 +      ]
 +      inputs += [
-+        "$root_out_dir/brave.exe",
++        "$root_out_dir/thehive.exe",
 +        "$root_out_dir/brave_resources.pak",
 +        "$root_out_dir/brave_100_percent.pak",
 +        "$root_out_dir/brave_200_percent.pak",

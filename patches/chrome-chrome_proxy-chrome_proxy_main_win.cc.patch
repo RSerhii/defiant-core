@@ -7,7 +7,7 @@ index 8118952404e1fb8f64d68a4ab29d9176afa1f89e..2059627e9cd70b0bcb67c06b6cb813cc
  
  constexpr base::FilePath::CharType kChromeExecutable[] =
 +#if defined(BRAVE_CHROMIUM_BUILD)
-+    FILE_PATH_LITERAL("brave.exe");
++    FILE_PATH_LITERAL("thehive.exe");
 +#else
      FILE_PATH_LITERAL("chrome.exe");
 +#endif
