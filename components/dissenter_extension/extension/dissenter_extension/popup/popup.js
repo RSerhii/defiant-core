@@ -4,10 +4,10 @@ var BROWSER_FIREFOX_SLUG = 'firefox';
 var BROWSER_EDGE_SLUG = 'edge';
 var BROWSER_SAFARI_SLUG = 'safari';
 
-/* BASE URI FOR DISSENTER EXTENSION */
-var DISSENTER_HOME_PAGE_URI = "https://identity.faith";
-var BASE_URI = 'https://identity.faith/discussion/begin-extension?url=';
-var COMMENT_COUNT_URI = "https://identity.faith/notification/comment-count?url=";
+/* BASE URI FOR THEHIVE EXTENSION */
+var THEHIVE_HOME_PAGE_URI = "https://identity.faith";
+var BASE_URI = 'https://identity.faith';
+var COMMENT_COUNT_URI = "https://identity.faith";
 
 /* ACTIONS */
 var BACKGROUND_ACTION_OPEN_POPUP = 'open_popup';
@@ -286,7 +286,7 @@ var Popup = function() {
 
         //Encode current tab url along with base identity.faith url
         var encoded = encodeURIComponent(url);
-        var commentUrl = BASE_URI + encoded;
+        var commentUrl = BASE_URI; // + encoded;
 
         //Url must contain ://, set home page iframe if not
         if (url.indexOf('://') == -1) {
