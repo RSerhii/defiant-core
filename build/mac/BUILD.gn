@@ -23,6 +23,7 @@ if (brave_channel != "") {
 }
 dmg_background_image = rebase_path("//brave/build/mac/dmg-background.png")
 ds_store = rebase_path("//brave/build/mac/$ds_store_file_name")
+dmg_icon = rebase_path("//brave/build/mac/$dmg_icon_file_name.icns")
 
 if (skip_signing) {
   action("unsigned_dmg") {
