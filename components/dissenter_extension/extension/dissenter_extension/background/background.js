@@ -486,11 +486,11 @@ chrome.runtime.onMessage.addListener(function(message, sender, sendResponse) {
         //Open new popup window with url using popup.html
         chrome.windows.create({
             url: popupURL,
-            width: 420,
-            height: windowHeight,
-            top: top,
-            left: screenWidth,
-            type: 'popup'
+            // width: 420,
+            // height: windowHeight,
+            // top: top,
+            // left: screenWidth,
+            // type: 'popup'
         });
     }
     else if (action === BACKGROUND_ACTION_GET_KEY) {
