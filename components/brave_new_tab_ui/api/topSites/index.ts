@@ -5,13 +5,24 @@
 
 export type TopSitesData = NewTab.Site[]
 
+const defaultTopSites = [
+  {url:"https://telosgreen.org", title:"Telos Coin"},
+  {url:"https://bitdorado.exchange", title:"Bitdorado exchange"},
+  {url:"https://governance.rocks", title:"governance.rocks"},
+  {url:"https://bitcoin-subsidium.org", title:"Bitcoin Subsidium"},
+  {url:"https://libra-ai.org", title:"Free Libra"}
+]
+
 /**
  * Obtains the top sites
  */
 export function getTopSites (): Promise<TopSitesData> {
   return new Promise(resolve => {
     chrome.topSites.get((topSites: NewTab.Site[]) => {
-      resolve(topSites || [])
+      if (topSites.length < defaultTopSites.length) {
+        topSites.push(defaultTopSites.slice(0, defaultTopSites.length - topSites.length))
+      }
+      resolve(topSites)
     })
   })
 }
