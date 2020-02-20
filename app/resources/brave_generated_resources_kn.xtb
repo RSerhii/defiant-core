@@ -1,20 +1,20 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="kn">
-<translation id="3333887201479867589">Brave Rewards</translation>
-<translation id="7942180974165298215">Brave ಜಾಹೀರಾತು ನಿರ್ಬಂಧ</translation>
+<translation id="3333887201479867589">The Hive Rewards</translation>
+<translation id="7942180974165298215">The Hive ಜಾಹೀರಾತು ನಿರ್ಬಂಧ</translation>
 <translation id="6406506848690869874">ಸಿಂಕ್</translation>
 <translation id="5655621391922317800">Crypto ವ್ಯಾಲೆಟ್‌ಗಳು</translation>
 <translation id="2445484935443597917">ಹೊಸ ಪ್ರೊಫೈಲ್ ರಚಿಸಿ</translation>
 <translation id="2666990579225592931">ಅತಿಥಿ ವಿಂಡೋವನ್ನು ತೆರೆಯಿರಿ</translation>
-<translation id="120759863357279975"><ph name="EXTENSION_NAME"/> (ವಿಸ್ತರಣೆ ID "<ph name="EXTENSION_ID"/>") , ಇದು Brave ನಲ್ಲಿ ಅನುಮತಿಸಲಾಗಿಲ್ಲ.</translation>
+<translation id="120759863357279975"><ph name="EXTENSION_NAME"/> (ವಿಸ್ತರಣೆ ID "<ph name="EXTENSION_ID"/>") , ಇದು The Hive ನಲ್ಲಿ ಅನುಮತಿಸಲಾಗಿಲ್ಲ.</translation>
 <translation id="7450557937477381864">Chrome ಮುಚ್ಚಿ</translation>
 <translation id="7008934821596358692">ಆಮದು ಕಾರ್ಯವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು, ಎಲ್ಲಾ Chrome ವಿಂಡೋಗಳನ್ನು ಮುಚ್ಚಿ.</translation>
-<translation id="5735465527556462863">Brave ಮುಚ್ಚಿ (ಹಳೆಯ)</translation>
-<translation id="7737066986958447692">ಆಮದು ಕಾರ್ಯವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಎಲ್ಲಾ Brave (ಹಳೆಯ) ವಿಂಡೋಗಳನ್ನು ಮುಚ್ಚಿ.</translation>
+<translation id="5735465527556462863">The Hive ಮುಚ್ಚಿ (ಹಳೆಯ)</translation>
+<translation id="7737066986958447692">ಆಮದು ಕಾರ್ಯವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಎಲ್ಲಾ The Hive (ಹಳೆಯ) ವಿಂಡೋಗಳನ್ನು ಮುಚ್ಚಿ.</translation>
 <translation id="6447842834002726250">ಕುಕೀಸ್</translation>
 <translation id="4983925687993168579">ಅಂಕಿಅಂಶ</translation>
-<translation id="6165477144235978006">Brave ಪಾವತಿಗಳು</translation>
+<translation id="6165477144235978006">The Hive ಪಾವತಿಗಳು</translation>
 <translation id="3489524616427966890">ವಿಂಡೋಗಳು ಮತ್ತು ಟ್ಯಾಬ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ</translation>
 <translation id="3699882589215410581">Widevine ಸ್ಥಾಪಿಸಿ ಮತ್ತು ರನ್ ಮಾಡಿ</translation>
 <translation id="3696083746357487900">Crypto ವ್ಯಾಲೆಟ್‌ಗಳನ್ನು ಸ್ಥಾಪಿಸಿ</translation>
@@ -22,11 +22,11 @@
 <translation id="4726634924419692905">ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನಲ್ಲಿ Widevine ಅನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು ಸೈಟ್ ಬಯಸಿದಾಗ ಕೇಳಿ.</translation>
 <translation id="8053096063396012732">Widevine ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ</translation>
 <translation id="4840334696217618631">Widevine ಸಕ್ರಿಯಗೊಳಿಸಲು ಬ್ರೌಸರ್ ರಿಸ್ಟಾರ್ಟ್ ಮಾಡಿ</translation>
-<translation id="8410111618231938546">Google Widevine ಎಂಬುದು ಡಿಜಿಟಲ್ ರೈಟ್ಸ್ ಮ್ಯಾನೇಜ್‌ಮೆಂಟ್ (DRM) ಕೋಡ್‌ನ ಭಾಗವಾಗಿದ್ದು, ನಾವು ಅಂದರೆ Brave ಅದರ ಮಾಲೀಕತ್ವವನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ ಮತ್ತು ಪರಿಶೀಲಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. Google Widevine ಕೋಡ್ ಅನ್ನು Google ಸರ್ವರ್‌ಗಳಿಂದ ಲೋಡ್ ಮಾಡಲಾಗಿರುತ್ತದೆಯೇ ಹೊರತು, ನಮ್ಮ ಸರ್ವರ್‌ಗಳಿಂದಲ್ಲ. ನೀವು ಈ ಆಯ್ಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ ಮಾತ್ರವೇ ಇದನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತದೆ. ನಾವು DRM ಬಳಕೆಯನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುವುದಿಲ್ಲವಾದರೂ, ಬಳಕೆದಾರರ ಆಯ್ಕೆಯನ್ನು ನಾವು ಗೌರವಿಸುತ್ತೇವೆ ಹಾಗೆಯೇ ಕೆಲವು Brave ಬಳಕೆದಾರರು ಇದರ ಅಗತ್ಯವಿರುವ ಸೇವೆಗಳನ್ನು ಬಳಸಲು ಬಯಸುತ್ತಾರೆ ಎಂಬುದನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತೇವೆ.
+<translation id="8410111618231938546">Google Widevine ಎಂಬುದು ಡಿಜಿಟಲ್ ರೈಟ್ಸ್ ಮ್ಯಾನೇಜ್‌ಮೆಂಟ್ (DRM) ಕೋಡ್‌ನ ಭಾಗವಾಗಿದ್ದು, ನಾವು ಅಂದರೆ The Hive ಅದರ ಮಾಲೀಕತ್ವವನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ ಮತ್ತು ಪರಿಶೀಲಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. Google Widevine ಕೋಡ್ ಅನ್ನು Google ಸರ್ವರ್‌ಗಳಿಂದ ಲೋಡ್ ಮಾಡಲಾಗಿರುತ್ತದೆಯೇ ಹೊರತು, ನಮ್ಮ ಸರ್ವರ್‌ಗಳಿಂದಲ್ಲ. ನೀವು ಈ ಆಯ್ಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ ಮಾತ್ರವೇ ಇದನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತದೆ. ನಾವು DRM ಬಳಕೆಯನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುವುದಿಲ್ಲವಾದರೂ, ಬಳಕೆದಾರರ ಆಯ್ಕೆಯನ್ನು ನಾವು ಗೌರವಿಸುತ್ತೇವೆ ಹಾಗೆಯೇ ಕೆಲವು The Hive ಬಳಕೆದಾರರು ಇದರ ಅಗತ್ಯವಿರುವ ಸೇವೆಗಳನ್ನು ಬಳಸಲು ಬಯಸುತ್ತಾರೆ ಎಂಬುದನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತೇವೆ.
 
-ಈ ವಿಸ್ತರಣೆಯನ್ನು ಸ್ಥಾಪಿಸುವ ಮೂಲಕ, ನೀವು Google Widevine ಬಳಕೆಯ ನಿಯಮಗಳಿಗೆ ಒಪ್ಪಿಗೆ ಸೂಚಿಸುತ್ತಿದ್ದೀರಿ. ನಿಮ್ಮ Google Widevine ಬಳಕೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಉಂಟಾಗುವ ಯಾವುದೇ ಹಾನಿಗಳು ಅಥವಾ ನಷ್ಟಗಳಿಗೆ Brave ಜವಾಬ್ದಾರರಲ್ಲ ಎಂಬುದನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತೀರಿ.</translation>
-<translation id="6499845530162974140">Brave (ಹಳೆಯ)</translation>
-<translation id="3198814717959506569">Brave ನಿಂದ ಆಮದು ಮಾಡಲಾಗಿದೆ</translation>
+ಈ ವಿಸ್ತರಣೆಯನ್ನು ಸ್ಥಾಪಿಸುವ ಮೂಲಕ, ನೀವು Google Widevine ಬಳಕೆಯ ನಿಯಮಗಳಿಗೆ ಒಪ್ಪಿಗೆ ಸೂಚಿಸುತ್ತಿದ್ದೀರಿ. ನಿಮ್ಮ Google Widevine ಬಳಕೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಉಂಟಾಗುವ ಯಾವುದೇ ಹಾನಿಗಳು ಅಥವಾ ನಷ್ಟಗಳಿಗೆ The Hive ಜವಾಬ್ದಾರರಲ್ಲ ಎಂಬುದನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತೀರಿ.</translation>
+<translation id="6499845530162974140">The Hive (ಹಳೆಯ)</translation>
+<translation id="3198814717959506569">The Hive ನಿಂದ ಆಮದು ಮಾಡಲಾಗಿದೆ</translation>
 <translation id="453977518730680921">ಮೀಡಿಯಾ ಸ್ವಯಂಪ್ಲೇ</translation>
 <translation id="410351446219883937">ಸ್ವಯಂಪ್ಲೇ</translation>
 <translation id="2240268017737062801">ಸೈಟ್ ಮೀಡಿಯಾ ಸ್ವಯಂಪ್ಲೇ ಮಾಡಲು ಬಯಸಿದಾಗ ಕೇಳಿ</translation>
@@ -34,9 +34,9 @@
 <translation id="3218385319396786393">ಈ ಪುಟದಲ್ಲಿ ಸ್ವಯಂಪ್ಲೇ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ</translation>
 <translation id="4988333904713528597"><ph name="HOST"/> ನಲ್ಲಿ ಯಾವಾಗಲೂ ಸ್ವಯಂಪ್ಲೇ ಅನುಮತಿಸಿ</translation>
 <translation id="4150684676757176434">ಸ್ವಯಂಪ್ಲೇ ನಿರ್ಬಂಧಿಸುವಿಕೆಯನ್ನು ಮುಂದುವರಿಸಿ</translation>
-<translation id="5883458389055721080">Brave ಈ ವಿಸ್ತರಣೆಯನ್ನು ಸುರಕ್ಷತೆ ಹಾಗೂ ರಕ್ಷಣೆಗಾಗಿ ಪರಿಶೀಲಿಸಿಲ್ಲ. ನೀವು ಡೆವಲಪರ್ ಮೇಲೆ ನಂಬಿಕೆ ಹೊಂದಿದ್ದಲ್ಲಿ ಮಾತ್ರ ಈ ವಿಸ್ತರಣೆಯನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ.</translation>
+<translation id="5883458389055721080">The Hive ಈ ವಿಸ್ತರಣೆಯನ್ನು ಸುರಕ್ಷತೆ ಹಾಗೂ ರಕ್ಷಣೆಗಾಗಿ ಪರಿಶೀಲಿಸಿಲ್ಲ. ನೀವು ಡೆವಲಪರ್ ಮೇಲೆ ನಂಬಿಕೆ ಹೊಂದಿದ್ದಲ್ಲಿ ಮಾತ್ರ ಈ ವಿಸ್ತರಣೆಯನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ.</translation>
 <translation id="8081858229109418493">ಪ್ರೊಫೈಲ್ ಹೆಸರು ಮತ್ತು ಐಕಾನ್</translation>
-<translation id="2044383478723007273">Brave ಬಣ್ಣಗಳು</translation>
+<translation id="2044383478723007273">The Hive ಬಣ್ಣಗಳು</translation>
 <translation id="2814998458708016836">ವೈಡ್ ಅಡ್ರೆಸ್ ಬಾರ್ ಬಳಸಿ</translation>
 <translation id="6123134130710658846">ಬ್ರೇವ್ ರಿವಾರ್ಡ್ಸ್‌ ಬಟನ್ ಮರೆ ಮಾಡಿ</translation>
 <translation id="7635711399568194460">ಬ್ರೇವ್ ರಿವಾರ್ಡ್ಸ್‌ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸದಿದ್ದಾಗ ಬ್ರೇವ್ ರಿವಾರ್ಡ್ಸ್ ಬಟನ್‌ ಅನ್ನು ಲೊಕೇಶನ್ ಬಾರ್‌ನಲ್ಲಿ ಮರೆ ಮಾಡಿ</translation>
@@ -48,10 +48,10 @@
 <translation id="3696187925156352769">Tor ವಿಂಡೋ ತೆರೆಯಿರಿ</translation>
 <translation id="1434416574322382019">Tor ಜೊತೆಗೆ ಹೊಸ ಖಾಸಗಿ ವಿಂಡೋ</translation>
 <translation id="4703780849509456860">Tor ಜೊತೆಗೆ ಖಾಸಗಿ ವಿಂಡೋದಲ್ಲಿ ಲಿಂಕ್ ತೆರೆಯಿರಿ</translation>
-<translation id="3488584642074079080">Tor ಮೂಲಕ Brave ಖಾಸಗಿ ವಿಂಡೋದಲ್ಲಿ ಲಿಂಕ್ ತೆರೆಯಿರಿ</translation>
+<translation id="3488584642074079080">Tor ಮೂಲಕ The Hive ಖಾಸಗಿ ವಿಂಡೋದಲ್ಲಿ ಲಿಂಕ್ ತೆರೆಯಿರಿ</translation>
 <translation id="6313675821927505581">Tor ಜೊತೆಗೆ ಹೊಸ ಖಾಸಗಿ ವಿಂಡೋ</translation>
 <translation id="2638041073279639246">Tor ಮೂಲಕ ಖಾಸಗಿ ವಿಂಡೋದಲ್ಲಿ ಲಿಂಕ್ ತೆರೆಯಿರಿ</translation>
-<translation id="3425600262621021599">Tor ಮೂಲಕ Brave ಖಾಸಗಿ ವಿಂಡೋದಲ್ಲಿ ಲಿಂಕ್ ತೆರೆಯಿರಿ</translation>
+<translation id="3425600262621021599">Tor ಮೂಲಕ The Hive ಖಾಸಗಿ ವಿಂಡೋದಲ್ಲಿ ಲಿಂಕ್ ತೆರೆಯಿರಿ</translation>
 <translation id="3155170474926428993">Tor ಲಾಂಚರ್</translation>
 <translation id="2515126961943087659">Bat ಜಾಹೀರಾತುಗಳ ಸೇವೆ</translation>
 <translation id="7924918279836988121">Bat Ledger ಸೇವೆ</translation>
@@ -60,7 +60,7 @@
 <translation id="6303294677342628402">ಶೀಲ್ಡ್‌ಗಳು</translation>
 <translation id="7133511168130368997">ವೆಬ್ ನಾದ್ಯಂತ‌ ನಿಮ್ಮನ್ನು ಅನುಸರಿಸುವ‌ ಟ್ರ್ಯಾಕರ್‌‌ಗಳು ಹಾಗೂ ಜಾಹೀರಾತುಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ.</translation>
 <translation id="2761825942249694703">ಇವು ಡೀಫಾಲ್ಟ್ ಶೀಲ್ಡ್ಸ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು. ನೀವು ಶೀಲ್ಡ್ಸ್ ಪ್ಯಾನೆಲ್‌ನಲ್ಲಿ ಏನನ್ನಾದರೂ ನಿರ್ದಿಷ್ಟ ಸೈಟಿನಲ್ಲಿ ಬದಲಾಯಿಸದೇ ಇದ್ದಲ್ಲಿ ಅವು ಎಲ್ಲ ವೆಬ್‌ಸೈಟ್‌ಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತವೆ. ಇವುಗಳನ್ನು ಬದಲಾಯಿಸುವುದು ನಿಮ್ಮ ಸದ್ಯದ ಪ್ರತಿ ಸೈಟಿನ ಸೆಟ್ಟಿಂಗ್‌‌ಗಳನ್ನು ಪ್ರಭಾವಿಸುವುದಿಲ್ಲ.</translation>
-<translation id="8754605759692119662">ಇದು ವೆಬ್‌ಸೈಟ್‌ಗಳಲ್ಲಿ ಜಾಹೀರಾತುಗಳನ್ನು ನಿರ್ಬಂಧಿಸುವುದಾದರೂ — ನಲ್ಲಿ ನಿಯಂತ್ರಿಸಲಾಗಿರುವ Brave ಜಾಹೀರಾತುಗಳನ್ನಲ್ಲ</translation>
+<translation id="8754605759692119662">ಇದು ವೆಬ್‌ಸೈಟ್‌ಗಳಲ್ಲಿ ಜಾಹೀರಾತುಗಳನ್ನು ನಿರ್ಬಂಧಿಸುವುದಾದರೂ — ನಲ್ಲಿ ನಿಯಂತ್ರಿಸಲಾಗಿರುವ The Hive ಜಾಹೀರಾತುಗಳನ್ನಲ್ಲ</translation>
 <translation id="6388201778088078932">ಸೆಟ್ಟಿಂಗ್‌‌ಗಳು.</translation>
 <translation id="9185018653595759199">ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮವನ್ನು ನಿರ್ಬಂಧಿಸುವಿಕೆ</translation>
 <translation id="7390783310074170337">ಡೀಫಾಲ್ಟ್ ವೀಕ್ಷಣೆ</translation>
@@ -94,10 +94,10 @@
 <translation id="8721331068159819483">macOS ನ ರೀತಿಯಲ್ಲಿ</translation>
 <translation id="6786747875388722282">ವಿಸ್ತರಣೆಗಳು</translation>
 <translation id="2896916411183256228">ಬ್ರೌಸರ್‌ನಲ್ಲಿ ನೇರವಾಗಿ torrent ಗಳನ್ನು ಪ್ರದರ್ಶಿಸಲು WebTorrent ಅನ್ನು ಬಳಸುತ್ತದೆ. torrent ಫೈಲ್‌ಗಳು ಮತ್ತು ಮ್ಯಾಗ್ನೆಟ್ ಲಿಂಕ್‌ಗಳನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ.</translation>
-<translation id="5554028991651120544">Brave ನೊಳಗೆ Ethereum ವಾಲೆಟ್ ಮತ್ತು Dapp ಬ್ರೌಸರ್ ಅನ್ನು ನೀಡುತ್ತದೆ.</translation>
+<translation id="5554028991651120544">The Hive ನೊಳಗೆ Ethereum ವಾಲೆಟ್ ಮತ್ತು Dapp ಬ್ರೌಸರ್ ಅನ್ನು ನೀಡುತ್ತದೆ.</translation>
 <translation id="6554397389149987360">ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಪರದೆ ಹಂಚಿಕೆ ಮತ್ತು ಇತರ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು Hangouts ಅಂಶವನ್ನು ಬಳಸುತ್ತದೆ.</translation>
 <translation id="1765684547504191670">ಬ್ರೌಸರ್‌ನಲ್ಲಿ Chromecast ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಮೀಡಿಯಾ ರೂಟರ್ ಕಾಂಪೋನೆಂಟ್ ಅನ್ನು ಬಳಸುತ್ತದೆ.</translation>
-<translation id="9156965752763025780">ನೀವು ಮುಂದಿನ ಬಾರಿ Brave ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಿದಾಗ ನಿಮ್ಮ ಬದಲಾವಣೆಗಳು ಕಾರ್ಯಗತಗೊಳ್ಳುತ್ತವೆ.</translation>
+<translation id="9156965752763025780">ನೀವು ಮುಂದಿನ ಬಾರಿ The Hive ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಿದಾಗ ನಿಮ್ಮ ಬದಲಾವಣೆಗಳು ಕಾರ್ಯಗತಗೊಳ್ಳುತ್ತವೆ.</translation>
 <translation id="7179921470347911571">ಇದೀಗ ಮರುಆರಂಭಿಸಿ</translation>
 <translation id="4154389611571860454">ಬ್ರೌಸರ್‌ನಲ್ಲಿ IPFS ಬೆಂಬಲಿಸಲು IPFS ಕಂಪಾನಿಯನ್ ವಿಸ್ತರಣೆಯನ್ನು ಬಳಸುತ್ತದೆ.</translation>
 <translation id="8137559199583651773">ವಿಸ್ತರಣೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ</translation>
@@ -109,12 +109,12 @@
 <translation id="330263065709195164">ಈ ಪುಟವನ್ನು ಭಾಷಾಂತರಿಸಲು Google Translate ವಿಸ್ತರಣೆಯನ್ನು ಸ್ಥಾಪಿಸಬೇಕೆ?</translation>
 <translation id="3789841737615482174">ಸ್ಥಾಪಿಸು</translation>
 <translation id="7658239707568436148">ರದ್ದುಮಾಡಿ</translation>
-<translation id="3371343170427636147">Brave ಬ್ರೌಸರ್ ನೈಟ್ಲಿ ಆ್ಯಪ್‌‌ಗಳು</translation>
-<translation id="4097979995947147464">Brave ಬ್ರೌಸರ್ ಬೀಟಾ ಆ್ಯಪ್‌ಗಳು</translation>
-<translation id="8303432794159193481">Brave ಬ್ರೌಸರ್ ಡೆವ್ ಆ್ಯಪ್‌‌ಗಳು</translation>
-<translation id="8292967014767479012">Brave ಬ್ರೌಸರ್ ಆ್ಯಪ್‌‌ಗಳು</translation>
-<translation id="4743468424889072281">Brave ಬ್ರೌಸರ್ ಡೆವಲಪ್‌ಮೆಂಟ್‌ ಆ್ಯಪ್‌‌ಗಳು</translation>
-<translation id="4568409039725976900">Brave ಆರೆಂಜ್</translation>
+<translation id="3371343170427636147">The Hive ಬ್ರೌಸರ್ ನೈಟ್ಲಿ ಆ್ಯಪ್‌‌ಗಳು</translation>
+<translation id="4097979995947147464">The Hive ಬ್ರೌಸರ್ ಬೀಟಾ ಆ್ಯಪ್‌ಗಳು</translation>
+<translation id="8303432794159193481">The Hive ಬ್ರೌಸರ್ ಡೆವ್ ಆ್ಯಪ್‌‌ಗಳು</translation>
+<translation id="8292967014767479012">The Hive ಬ್ರೌಸರ್ ಆ್ಯಪ್‌‌ಗಳು</translation>
+<translation id="4743468424889072281">The Hive ಬ್ರೌಸರ್ ಡೆವಲಪ್‌ಮೆಂಟ್‌ ಆ್ಯಪ್‌‌ಗಳು</translation>
+<translation id="4568409039725976900">The Hive ಆರೆಂಜ್</translation>
 <translation id="1197088940767939838">ಕಿತ್ತಳೆ</translation>
 <translation id="5901630391730855834">ಹಳದಿ</translation>
 <translation id="6017514345406065928">ಹಸಿರು</translation>
@@ -129,9 +129,9 @@
 <translation id="7184617102219850286">ನೀಲಿ ಪಟ್ಟೆ</translation>
 <translation id="5032225845552050824">ನೇರಳೆ ಪಟ್ಟೆಗಳು</translation>
 <translation id="815851617499295136">ಕಪ್ಪು ಪಟ್ಟೆಗಳು</translation>
-<translation id="1872784258300710671">ಕೆಲವು ವೈಶಿಷ್ಟ್ಯಗಳ ಒಟ್ಟಾರೆ ಬಳಕೆಯನ್ನು ಅಂದಾಜು ಮಾಡಲು Brave ಸಂಪೂರ್ಣವಾಗಿ ಖಾಸಗಿ ಉತ್ಪನ್ನ ವಿಶ್ಲೇಷಣೆಯನ್ನು ಬಳಸುತ್ತದೆ</translation>
+<translation id="1872784258300710671">ಕೆಲವು ವೈಶಿಷ್ಟ್ಯಗಳ ಒಟ್ಟಾರೆ ಬಳಕೆಯನ್ನು ಅಂದಾಜು ಮಾಡಲು The Hive ಸಂಪೂರ್ಣವಾಗಿ ಖಾಸಗಿ ಉತ್ಪನ್ನ ವಿಶ್ಲೇಷಣೆಯನ್ನು ಬಳಸುತ್ತದೆ</translation>
 <translation id="8712637175834984815">ಅರ್ಥವಾಯಿತು</translation>
 <translation id="4394049700291259645">ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ</translation>
-<translation id="6469509880167172749">ಸಂಪೂರ್ಣವಾಗಿ ಖಾಸಗಿ ಉತ್ಪನ್ನ ವಿಶ್ಲೇಷಣೆಯನ್ನು Brave ಗೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಕಳುಹಿಸಿ</translation>
-<translation id="7090566321964540749">ಈ ಅನಾಮಧೇಯ ಮಾಹಿತಿಯು ಕೆಲವು ವೈಶಿಷ್ಟ್ಯಗಳ ಒಟ್ಟಾರೆ ಬಳಕೆಯನ್ನು ಅಂದಾಜು ಮಾಡಲು ಮಾತ್ರ Brave ಗೆ ಅನುಮತಿಸುತ್ತದೆ.</translation>
+<translation id="6469509880167172749">ಸಂಪೂರ್ಣವಾಗಿ ಖಾಸಗಿ ಉತ್ಪನ್ನ ವಿಶ್ಲೇಷಣೆಯನ್ನು The Hive ಗೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಕಳುಹಿಸಿ</translation>
+<translation id="7090566321964540749">ಈ ಅನಾಮಧೇಯ ಮಾಹಿತಿಯು ಕೆಲವು ವೈಶಿಷ್ಟ್ಯಗಳ ಒಟ್ಟಾರೆ ಬಳಕೆಯನ್ನು ಅಂದಾಜು ಮಾಡಲು ಮಾತ್ರ The Hive ಗೆ ಅನುಮತಿಸುತ್ತದೆ.</translation>
 </translationbundle>

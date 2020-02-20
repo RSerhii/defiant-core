@@ -1,20 +1,20 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="fa">
-<translation id="3333887201479867589">پاداش‌های Brave</translation>
-<translation id="7942180974165298215">مسدود کردن آگهی با Brave</translation>
+<translation id="3333887201479867589">پاداش‌های The Hive</translation>
+<translation id="7942180974165298215">مسدود کردن آگهی با The Hive</translation>
 <translation id="6406506848690869874">همگام‌سازی</translation>
 <translation id="5655621391922317800">کیف پول‌های رمزنگاری</translation>
 <translation id="2445484935443597917">ایجاد نمایه جدید</translation>
 <translation id="2666990579225592931">باز کردن پنجره مهمان</translation>
-<translation id="120759863357279975"><ph name="EXTENSION_NAME"/> (شناسه افزونه "<ph name="EXTENSION_ID"/>") در Brave مجاز نیست.</translation>
+<translation id="120759863357279975"><ph name="EXTENSION_NAME"/> (شناسه افزونه "<ph name="EXTENSION_ID"/>") در The Hive مجاز نیست.</translation>
 <translation id="7450557937477381864">بستن Chrome</translation>
 <translation id="7008934821596358692">برای تکمیل وارد کردن، همه پنجره‌های Chrome را ببندید.</translation>
-<translation id="5735465527556462863">بستن Brave (قدیمی)</translation>
-<translation id="7737066986958447692">برای تکمیل وارد کردن، همه پنجره‌های Brave (قدیمی) را ببندید.</translation>
+<translation id="5735465527556462863">بستن The Hive (قدیمی)</translation>
+<translation id="7737066986958447692">برای تکمیل وارد کردن، همه پنجره‌های The Hive (قدیمی) را ببندید.</translation>
 <translation id="6447842834002726250">کوکی‌ها</translation>
 <translation id="4983925687993168579">آمار</translation>
-<translation id="6165477144235978006">پرداخت‌های Brave</translation>
+<translation id="6165477144235978006">پرداخت‌های The Hive</translation>
 <translation id="3489524616427966890">باز کردن پنجره‌ها و برگه‌ها</translation>
 <translation id="3699882589215410581">Widevine را نصب و اجرا کنید</translation>
 <translation id="3696083746357487900">نصب کیف پول‌های رمزنگاری</translation>
@@ -22,11 +22,11 @@
 <translation id="4726634924419692905">زمانی که یک سایت می‌خواهد Widevine را روی رایانه‌تان نصب کند، سؤال بپرسد.</translation>
 <translation id="8053096063396012732">نصب Widevine</translation>
 <translation id="4840334696217618631">برای فعال کردن Widevine، مرورگر را دوباره راه‌اندازی کنید</translation>
-<translation id="8410111618231938546">Google Widevine قطعه‌ای از کد «مدیریت حقوق دیجیتال» (DRM) است که ما (Brave Software) مالک آن نیستیم و نمی‌توانیم آن را بازبینی کنیم. کد Google Widevine از سرورهای Google - نه سرورهای ما - بارگیری می‌شود. این کد فقط در صورتی بارگیری می‌شود که این گزینه را فعال کنید. کاربران را به استفاده از DRM تشویق نمی‌کنیم، اما به انتخاب کاربران احترام می‌گذاریم و اذعان داریم بعضی از کاربران Brave تمایل دارند از سرویس‌هایی که به DRM نیاز دارند استفاده کنند.
+<translation id="8410111618231938546">Google Widevine قطعه‌ای از کد «مدیریت حقوق دیجیتال» (DRM) است که ما (The Hive Software) مالک آن نیستیم و نمی‌توانیم آن را بازبینی کنیم. کد Google Widevine از سرورهای Google - نه سرورهای ما - بارگیری می‌شود. این کد فقط در صورتی بارگیری می‌شود که این گزینه را فعال کنید. کاربران را به استفاده از DRM تشویق نمی‌کنیم، اما به انتخاب کاربران احترام می‌گذاریم و اذعان داریم بعضی از کاربران The Hive تمایل دارند از سرویس‌هایی که به DRM نیاز دارند استفاده کنند.
 
-با نصب این افزونه، «شرایط استفاده از Google Widevine» را می‌پذیرید و موافقت می‌کنید Brave مسئول هرگونه خسارت یا زیان مرتبط با استفاده شما از Google Widevine نیست.</translation>
-<translation id="6499845530162974140">Brave (قدیمی)</translation>
-<translation id="3198814717959506569">واردشده از Brave</translation>
+با نصب این افزونه، «شرایط استفاده از Google Widevine» را می‌پذیرید و موافقت می‌کنید The Hive مسئول هرگونه خسارت یا زیان مرتبط با استفاده شما از Google Widevine نیست.</translation>
+<translation id="6499845530162974140">The Hive (قدیمی)</translation>
+<translation id="3198814717959506569">واردشده از The Hive</translation>
 <translation id="453977518730680921">پخش خودکار رسانه</translation>
 <translation id="410351446219883937">پخش خودکار</translation>
 <translation id="2240268017737062801">‏وقتی سایتی می‌خواهد رسانه را پخش خودکار کند سؤال شود</translation>
@@ -34,12 +34,12 @@
 <translation id="3218385319396786393">پخش خودکار در این صفحه مسدود شد</translation>
 <translation id="4988333904713528597">همیشه در <ph name="HOST"/> به پخش خودکار اجازه داده شود</translation>
 <translation id="4150684676757176434">پخش خودکار همچنان مسدود شود</translation>
-<translation id="5883458389055721080">Brave ایمنی و امنیت این افزونه را بررسی نکرده است. فقط درصورتی که به برنامه‌نویس اعتماد دارید، این افزونه را نصب کنید.</translation>
+<translation id="5883458389055721080">The Hive ایمنی و امنیت این افزونه را بررسی نکرده است. فقط درصورتی که به برنامه‌نویس اعتماد دارید، این افزونه را نصب کنید.</translation>
 <translation id="8081858229109418493">نام و آیکون نمایه</translation>
-<translation id="2044383478723007273">رنگ‌های Brave</translation>
+<translation id="2044383478723007273">رنگ‌های The Hive</translation>
 <translation id="2814998458708016836">استفاده از نوار نشانی عریض</translation>
-<translation id="6123134130710658846">پنهان کردن دکمه «پاداش‌های Brave»</translation>
-<translation id="7635711399568194460">وقتی «پاداش‌های Brave» فعال نباشد، دکمه «پاداش‌های Brave» را در نوار مکان پنهان می‌کند</translation>
+<translation id="6123134130710658846">پنهان کردن دکمه «پاداش‌های The Hive»</translation>
+<translation id="7635711399568194460">وقتی «پاداش‌های The Hive» فعال نباشد، دکمه «پاداش‌های The Hive» را در نوار مکان پنهان می‌کند</translation>
 <translation id="4262166817826183486">همیشه نشانک‌ها در صفحه برگه جدید نشان داده شود</translation>
 <translation id="7965178729203412357">هویت تور جدید</translation>
 <translation id="8511502469534942133">اتصال Tor جدید برای این سایت</translation>
@@ -48,10 +48,10 @@
 <translation id="3696187925156352769">باز کردن پنجره تور</translation>
 <translation id="1434416574322382019">Window with Tor خصوصی جدید</translation>
 <translation id="4703780849509456860">باز کردن پیوند در Window with Tor خصوصی</translation>
-<translation id="3488584642074079080">باز کردن پیوند در Window with Tor خصوصی Brave</translation>
+<translation id="3488584642074079080">باز کردن پیوند در Window with Tor خصوصی The Hive</translation>
 <translation id="6313675821927505581">Window with Tor خصوصی جدید</translation>
 <translation id="2638041073279639246">باز کردن پیوند در Window with Tor خصوصی</translation>
-<translation id="3425600262621021599">باز کردن پیوند در Window with Tor خصوصی Brave</translation>
+<translation id="3425600262621021599">باز کردن پیوند در Window with Tor خصوصی The Hive</translation>
 <translation id="3155170474926428993">راه‌انداز تور</translation>
 <translation id="2515126961943087659">سرویس آگهی‌های Bat</translation>
 <translation id="7924918279836988121">سرویس بت لجر</translation>
@@ -60,7 +60,7 @@
 <translation id="6303294677342628402">سپر ایمنی</translation>
 <translation id="7133511168130368997">ردیاب‌ها و آگهی‌هایی که شما را در سراسر وب دنبال می‌کنند، مسدود کنید.</translation>
 <translation id="2761825942249694703">این‌ها تنظیمات پیش‌فرض «سپر ایمنی» هستند. برای همه وب‌سایت‌ها اعمال می‌شوند مگراینکه موردی را در پانل «سپرایمنی» در سایت خاصی تغییر دهید. تغییر این موارد، تأثیری بر تنظیمات موجود هر سایت نمی‌گذارد.</translation>
-<translation id="8754605759692119662">این کار اکثر آگهی‌ها را در وب‌سایت‌ها مسدود می‌کند، به‌جز آگهی‌های خصوصی Brave ‏— این موارد در اینجا کنترل می‌شوند:</translation>
+<translation id="8754605759692119662">این کار اکثر آگهی‌ها را در وب‌سایت‌ها مسدود می‌کند، به‌جز آگهی‌های خصوصی The Hive ‏— این موارد در اینجا کنترل می‌شوند:</translation>
 <translation id="6388201778088078932">تنظیمات.</translation>
 <translation id="9185018653595759199">مسدود کردن رسانه اجتماعی</translation>
 <translation id="7390783310074170337">نمای پیش‌فرض</translation>
@@ -94,10 +94,10 @@
 <translation id="8721331068159819483">مشابه macOS</translation>
 <translation id="6786747875388722282">افزونه‌ها</translation>
 <translation id="2896916411183256228">از WebTorrent برای نمایش مستقیم تورنت‌ها در مرورگر استفاده می‌کند. از فایل‌های تورنت و پیوندهای آهنربایی پشتیبانی می‌کند.</translation>
-<translation id="5554028991651120544">کیف پول اتریوم و مرورگر Dapp را در Brave ارائه می‌دهد.</translation>
+<translation id="5554028991651120544">کیف پول اتریوم و مرورگر Dapp را در The Hive ارائه می‌دهد.</translation>
 <translation id="6554397389149987360">از مؤلفه‌های Hangouts برای فعال کردن اشتراک‌گذاری صفحه و سایر ویژگی‌ها در مرورگر استفاده می‌کند.</translation>
 <translation id="1765684547504191670">از مؤلفه «رهیاب رسانه» برای فعال کردن Chromecast در مرورگر استفاده می‌کند.</translation>
-<translation id="9156965752763025780">‏دفعه بعدی که Brave را مجدداً راه‌اندازی می‌کنید، این تغییرات اعمال می‌شوند.</translation>
+<translation id="9156965752763025780">‏دفعه بعدی که The Hive را مجدداً راه‌اندازی می‌کنید، این تغییرات اعمال می‌شوند.</translation>
 <translation id="7179921470347911571">اکنون راه‌اندازی مجدد شود</translation>
 <translation id="4154389611571860454">برای پشتیبانی از IPFS در مرورگر، از افزونه همراه IPFS استفاده می‌کند.</translation>
 <translation id="8137559199583651773">مدیریت افزونه‌ها</translation>
@@ -109,12 +109,12 @@
 <translation id="330263065709195164">افزونه Google Translate را برای ترجمه این صفحه نصب کنید؟</translation>
 <translation id="3789841737615482174">نصب</translation>
 <translation id="7658239707568436148">لغو</translation>
-<translation id="3371343170427636147">برنامه‌های Nightly مرورگر Brave</translation>
-<translation id="4097979995947147464">برنامه‌های Beta مرورگر Brave</translation>
-<translation id="8303432794159193481">برنامه‌های Dev مرورگر Brave</translation>
-<translation id="8292967014767479012">برنامه‌های مرورگر Brave</translation>
-<translation id="4743468424889072281">برنامه‌های Development مرورگر Brave</translation>
-<translation id="4568409039725976900">نارنجی Brave</translation>
+<translation id="3371343170427636147">برنامه‌های Nightly مرورگر The Hive</translation>
+<translation id="4097979995947147464">برنامه‌های Beta مرورگر The Hive</translation>
+<translation id="8303432794159193481">برنامه‌های Dev مرورگر The Hive</translation>
+<translation id="8292967014767479012">برنامه‌های مرورگر The Hive</translation>
+<translation id="4743468424889072281">برنامه‌های Development مرورگر The Hive</translation>
+<translation id="4568409039725976900">نارنجی The Hive</translation>
 <translation id="1197088940767939838">نارنجی</translation>
 <translation id="5901630391730855834">زرد</translation>
 <translation id="6017514345406065928">سبز</translation>
@@ -129,9 +129,9 @@
 <translation id="7184617102219850286">نوار آبی</translation>
 <translation id="5032225845552050824">نوارهای بنفش</translation>
 <translation id="815851617499295136">نوارها سیاه</translation>
-<translation id="1872784258300710671">Brave از تجزیه‌وتحلیل‌های کاملاً خصوصی محصول برای تخمین استفاده کلی از بعضی از قابلیت‌ها استفاده می‌کند.</translation>
+<translation id="1872784258300710671">The Hive از تجزیه‌وتحلیل‌های کاملاً خصوصی محصول برای تخمین استفاده کلی از بعضی از قابلیت‌ها استفاده می‌کند.</translation>
 <translation id="8712637175834984815">متوجه شدم</translation>
 <translation id="4394049700291259645">غیر فعال کردن</translation>
-<translation id="6469509880167172749">‏ارسال خودکار تجزیه‌وتحلیل کاملاً خصوصی محصول به Brave</translation>
-<translation id="7090566321964540749">این اطلاعات ناشناس فقط به Brave اجازه می‌دهد استفاده کلی از بعضی از قابلیت‌ها را تخمین بزند.</translation>
+<translation id="6469509880167172749">‏ارسال خودکار تجزیه‌وتحلیل کاملاً خصوصی محصول به The Hive</translation>
+<translation id="7090566321964540749">این اطلاعات ناشناس فقط به The Hive اجازه می‌دهد استفاده کلی از بعضی از قابلیت‌ها را تخمین بزند.</translation>
 </translationbundle>

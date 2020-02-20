@@ -1,20 +1,20 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="ro">
-<translation id="3333887201479867589">Recompense Brave</translation>
-<translation id="7942180974165298215">Blocare reclame Brave</translation>
+<translation id="3333887201479867589">Recompense The Hive</translation>
+<translation id="7942180974165298215">Blocare reclame The Hive</translation>
 <translation id="6406506848690869874">Sincronizare</translation>
 <translation id="5655621391922317800">Portofele cripto</translation>
 <translation id="2445484935443597917">Creează un profil nou</translation>
 <translation id="2666990579225592931">Deschide o fereastră pentru invitați</translation>
-<translation id="120759863357279975"><ph name="EXTENSION_NAME"/> (ID extensie "<ph name="EXTENSION_ID"/>") nu este permis în Brave.</translation>
+<translation id="120759863357279975"><ph name="EXTENSION_NAME"/> (ID extensie "<ph name="EXTENSION_ID"/>") nu este permis în The Hive.</translation>
 <translation id="7450557937477381864">Închide Chrome</translation>
 <translation id="7008934821596358692">Pentru finalizarea importului, închideți toate ferestrele Chrome.</translation>
-<translation id="5735465527556462863">Închidere Brave (vechi)</translation>
-<translation id="7737066986958447692">Pentru finalizarea importului, închideți toate ferestrele Brave (vechi).</translation>
+<translation id="5735465527556462863">Închidere The Hive (vechi)</translation>
+<translation id="7737066986958447692">Pentru finalizarea importului, închideți toate ferestrele The Hive (vechi).</translation>
 <translation id="6447842834002726250">Cookie-uri</translation>
 <translation id="4983925687993168579">Statistici</translation>
-<translation id="6165477144235978006">Plăți Brave</translation>
+<translation id="6165477144235978006">Plăți The Hive</translation>
 <translation id="3489524616427966890">Deschidere ferestre și file</translation>
 <translation id="3699882589215410581">Instalați și rulați Widevine</translation>
 <translation id="3696083746357487900">Instalare Portofele cripto</translation>
@@ -22,11 +22,11 @@
 <translation id="4726634924419692905">Solicită când un site intenționează să instaleze Widevine pe calculator.</translation>
 <translation id="8053096063396012732">Instalează Widevine</translation>
 <translation id="4840334696217618631">Repornește browserul pentru activarea Widevine</translation>
-<translation id="8410111618231938546">Google Widevine este parte din codul de Administrarea Drepturilor Digitale (ADD) care nu este deținut de Brave și nu-l putem inspecta. Codul Google Widevine este încărcat din serverele Google, nu din serverele noastre. Este încărcat doar când activați această opțiune. Noi descurajăm utilizarea ADD, dar respectăm alegerea utilizatorului și confirmăm că unii utilizatori Brave doresc să utilizeze servicii care necesită acest cod.
+<translation id="8410111618231938546">Google Widevine este parte din codul de Administrarea Drepturilor Digitale (ADD) care nu este deținut de The Hive și nu-l putem inspecta. Codul Google Widevine este încărcat din serverele Google, nu din serverele noastre. Este încărcat doar când activați această opțiune. Noi descurajăm utilizarea ADD, dar respectăm alegerea utilizatorului și confirmăm că unii utilizatori The Hive doresc să utilizeze servicii care necesită acest cod.
 
-Instalând această extensie, sunteți de acord cu termenii de utilizare ai Google Widevine. Sunteți de acord că Brave nu este responsabil pentru nicio problemă sau pierdere a conexiunii în timpul utilizării Google Widevine.</translation>
-<translation id="6499845530162974140">Brave (vechi)</translation>
-<translation id="3198814717959506569">Importat din Brave</translation>
+Instalând această extensie, sunteți de acord cu termenii de utilizare ai Google Widevine. Sunteți de acord că The Hive nu este responsabil pentru nicio problemă sau pierdere a conexiunii în timpul utilizării Google Widevine.</translation>
+<translation id="6499845530162974140">The Hive (vechi)</translation>
+<translation id="3198814717959506569">Importat din The Hive</translation>
 <translation id="453977518730680921">Autoredare media</translation>
 <translation id="410351446219883937">Redare automată</translation>
 <translation id="2240268017737062801">Întrebați când un site vrea să redea automat media</translation>
@@ -34,12 +34,12 @@ Instalând această extensie, sunteți de acord cu termenii de utilizare ai Goog
 <translation id="3218385319396786393">Redarea automată a fost blocată pe această pagină</translation>
 <translation id="4988333904713528597">Redare automată întotdeauna pe <ph name="HOST"/></translation>
 <translation id="4150684676757176434">Continuă blocarea autoredării</translation>
-<translation id="5883458389055721080">Brave nu a analizat securitatea și siguranța acestei extensii. Instalați această extensie numai dacă aveți încredere în dezvoltator.</translation>
+<translation id="5883458389055721080">The Hive nu a analizat securitatea și siguranța acestei extensii. Instalați această extensie numai dacă aveți încredere în dezvoltator.</translation>
 <translation id="8081858229109418493">Nume profil și iconiță</translation>
-<translation id="2044383478723007273">Culori Brave</translation>
+<translation id="2044383478723007273">Culori The Hive</translation>
 <translation id="2814998458708016836">Utilizați bara de adrese lată</translation>
-<translation id="6123134130710658846">Ascunde butonul Brave Rewards</translation>
-<translation id="7635711399568194460">Ascunde butonul Brave Rewards în bara locației când Brave Rewards nu este activat</translation>
+<translation id="6123134130710658846">Ascunde butonul The Hive Rewards</translation>
+<translation id="7635711399568194460">Ascunde butonul The Hive Rewards în bara locației când The Hive Rewards nu este activat</translation>
 <translation id="4262166817826183486">Afișează întotdeauna bara bookmark pe pagina Tab Nou</translation>
 <translation id="7965178729203412357">Identitate nouă Tor</translation>
 <translation id="8511502469534942133">Conexiune Tor nouă pentru acest site</translation>
@@ -48,10 +48,10 @@ Instalând această extensie, sunteți de acord cu termenii de utilizare ai Goog
 <translation id="3696187925156352769">Deschide fereastră Tor</translation>
 <translation id="1434416574322382019">Fereastră Privată nouă cu Tor</translation>
 <translation id="4703780849509456860">Deschide Link în Fereastră Privată cu Tor</translation>
-<translation id="3488584642074079080">Deschide Link în Fereastra Privată Brave cu Tor</translation>
+<translation id="3488584642074079080">Deschide Link în Fereastra Privată The Hive cu Tor</translation>
 <translation id="6313675821927505581">Fereastră privată nouă cu Tor</translation>
 <translation id="2638041073279639246">Deschideți linkul în fereastră privată cu Tor</translation>
-<translation id="3425600262621021599">Deschideți linkul în fereastră privată Brave cu Tor</translation>
+<translation id="3425600262621021599">Deschideți linkul în fereastră privată The Hive cu Tor</translation>
 <translation id="3155170474926428993">Lansatorul Tor</translation>
 <translation id="2515126961943087659">Serviciu de anunțuri Bat</translation>
 <translation id="7924918279836988121">Serviciu Bat Ledger</translation>
@@ -60,7 +60,7 @@ Instalând această extensie, sunteți de acord cu termenii de utilizare ai Goog
 <translation id="6303294677342628402">Scuturi</translation>
 <translation id="7133511168130368997">Blocați trackerele și reclamele care vă urmăresc pe întregul web.</translation>
 <translation id="2761825942249694703">Acestea sunt setările implicite pentru scuturi. Ele se aplică tuturor site-urilor în afară de cazul în care modificați ceva în panoul Scuturi de pe un anumit site. Modificarea acestora nu va afecta setările existente per site.</translation>
-<translation id="8754605759692119662">Aceasta va bloca majoritatea reclamelor pe site-uri, nu și reclamele private Brave — acelea sunt controlate în</translation>
+<translation id="8754605759692119662">Aceasta va bloca majoritatea reclamelor pe site-uri, nu și reclamele private The Hive — acelea sunt controlate în</translation>
 <translation id="6388201778088078932">setări.</translation>
 <translation id="9185018653595759199">Blocare pe rețelele de socializare</translation>
 <translation id="7390783310074170337">Vizualizare implicită</translation>
@@ -94,10 +94,10 @@ Instalând această extensie, sunteți de acord cu termenii de utilizare ai Goog
 <translation id="8721331068159819483">La fel ca macOS</translation>
 <translation id="6786747875388722282">Extensii</translation>
 <translation id="2896916411183256228">Utilizează WebTorrent pentru afișarea torrent-elor direct în browser. Acceptă fișiere torrent și linkuri magnet.</translation>
-<translation id="5554028991651120544">Furnizează un portofel Ethereum și browserul Dapp în interiorul Brave.</translation>
+<translation id="5554028991651120544">Furnizează un portofel Ethereum și browserul Dapp în interiorul The Hive.</translation>
 <translation id="6554397389149987360">Utilizează componenta Hangouts pentru activarea partajării ecranului și alte funcții din browser.</translation>
 <translation id="1765684547504191670">Folosește componenta Media Router pentru a activa Chromecast în browser.</translation>
-<translation id="9156965752763025780">Modificările dvs. vor intra în vigoare următoarea dată când reporniți Brave.</translation>
+<translation id="9156965752763025780">Modificările dvs. vor intra în vigoare următoarea dată când reporniți The Hive.</translation>
 <translation id="7179921470347911571">Relansare acum</translation>
 <translation id="4154389611571860454">Folosește extensia companion IPFS pentru a accepta IPFS în browser.</translation>
 <translation id="8137559199583651773">Gestionați extensiile</translation>
@@ -109,12 +109,12 @@ Instalând această extensie, sunteți de acord cu termenii de utilizare ai Goog
 <translation id="330263065709195164">Instalați extensia Google Translate pentru a traduce această pagină?</translation>
 <translation id="3789841737615482174">Instalează</translation>
 <translation id="7658239707568436148">Anulare</translation>
-<translation id="3371343170427636147">Aplicații de noapte browser Brave</translation>
-<translation id="4097979995947147464">Aplicații beta browser Brave</translation>
-<translation id="8303432794159193481">Aplicații dezv browser Brave</translation>
-<translation id="8292967014767479012">Aplicații browser Brave</translation>
-<translation id="4743468424889072281">Aplicații dezvoltare browser Brave</translation>
-<translation id="4568409039725976900">Brave Orange</translation>
+<translation id="3371343170427636147">Aplicații de noapte browser The Hive</translation>
+<translation id="4097979995947147464">Aplicații beta browser The Hive</translation>
+<translation id="8303432794159193481">Aplicații dezv browser The Hive</translation>
+<translation id="8292967014767479012">Aplicații browser The Hive</translation>
+<translation id="4743468424889072281">Aplicații dezvoltare browser The Hive</translation>
+<translation id="4568409039725976900">The Hive Orange</translation>
 <translation id="1197088940767939838">Portocaliu</translation>
 <translation id="5901630391730855834">Galben</translation>
 <translation id="6017514345406065928">Verde</translation>
@@ -129,9 +129,9 @@ Instalând această extensie, sunteți de acord cu termenii de utilizare ai Goog
 <translation id="7184617102219850286">Dungă albastră</translation>
 <translation id="5032225845552050824">Dungi mov</translation>
 <translation id="815851617499295136">Dungi negre</translation>
-<translation id="1872784258300710671">Brave folosește statistici de produs complet private pentru a estima utilizarea totală a anumitor funcții</translation>
+<translation id="1872784258300710671">The Hive folosește statistici de produs complet private pentru a estima utilizarea totală a anumitor funcții</translation>
 <translation id="8712637175834984815">Am înțeles</translation>
 <translation id="4394049700291259645">Dezactivează</translation>
-<translation id="6469509880167172749">Trimiteți automat statistici de produs complet private către Brave</translation>
-<translation id="7090566321964540749">Folosind aceste informații anonime, Brave poate numai să estimeze utilizarea totală a anumitor funcții.</translation>
+<translation id="6469509880167172749">Trimiteți automat statistici de produs complet private către The Hive</translation>
+<translation id="7090566321964540749">Folosind aceste informații anonime, The Hive poate numai să estimeze utilizarea totală a anumitor funcții.</translation>
 </translationbundle>

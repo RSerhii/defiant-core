@@ -1,20 +1,20 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="es">
-<translation id="3333887201479867589">Brave Rewards</translation>
-<translation id="7942180974165298215">Bloqueador de anuncios Brave</translation>
-<translation id="6406506848690869874">Brave Sync</translation>
+<translation id="3333887201479867589">The Hive Rewards</translation>
+<translation id="7942180974165298215">Bloqueador de anuncios The Hive</translation>
+<translation id="6406506848690869874">The Hive Sync</translation>
 <translation id="5655621391922317800">Crypto Wallets</translation>
 <translation id="2445484935443597917">Crear perfil</translation>
 <translation id="2666990579225592931">Abrir ventana de invitado</translation>
-<translation id="120759863357279975">La extensión <ph name="EXTENSION_NAME"/> (extension ID "<ph name="EXTENSION_ID"/>") no está permitida en Brave.</translation>
+<translation id="120759863357279975">La extensión <ph name="EXTENSION_NAME"/> (extension ID "<ph name="EXTENSION_ID"/>") no está permitida en The Hive.</translation>
 <translation id="7450557937477381864">Cerrar Chrome</translation>
-<translation id="7008934821596358692">Para finalizar la importación, cierra todas las ventanas de Brave.</translation>
-<translation id="5735465527556462863">Cerrar Brave (antiguo)</translation>
-<translation id="7737066986958447692">Para acabar de importar, cierre todas las ventanas de Brave (antiguo).</translation>
+<translation id="7008934821596358692">Para finalizar la importación, cierra todas las ventanas de The Hive.</translation>
+<translation id="5735465527556462863">Cerrar The Hive (antiguo)</translation>
+<translation id="7737066986958447692">Para acabar de importar, cierre todas las ventanas de The Hive (antiguo).</translation>
 <translation id="6447842834002726250">Cookies</translation>
 <translation id="4983925687993168579">Estadísticas</translation>
-<translation id="6165477144235978006">Pagos de Brave</translation>
+<translation id="6165477144235978006">Pagos de The Hive</translation>
 <translation id="3489524616427966890">Abrir ventanas y pestañas</translation>
 <translation id="3699882589215410581">Instalar y ejecutar Widevine</translation>
 <translation id="3696083746357487900">Instalar Crypto Wallets</translation>
@@ -22,11 +22,11 @@
 <translation id="4726634924419692905">Pregunta cuándo quiere una página instalar Widevine en tu ordenador.</translation>
 <translation id="8053096063396012732">Instalar Widevine</translation>
 <translation id="4840334696217618631">Reiniciar el navegador para habilitar Widevine</translation>
-<translation id="8410111618231938546">Google Widevine es un código de administración de derechos digitales (DRM)  que no es propiedad de Brave Software y por tanto no podemos inspeccionarlo. El código de Google Widevine se carga desde los servidores de Google, no desde nuestros servidores. Se carga solo cuando habilitas esta opción. Desaconsejamos el uso de DRM, pero respetamos la elección del usuario y entendemos que a algunos usuarios de Brave les gustaría usar algunos servicios que lo requieran.
+<translation id="8410111618231938546">Google Widevine es un código de administración de derechos digitales (DRM)  que no es propiedad de The Hive Software y por tanto no podemos inspeccionarlo. El código de Google Widevine se carga desde los servidores de Google, no desde nuestros servidores. Se carga solo cuando habilitas esta opción. Desaconsejamos el uso de DRM, pero respetamos la elección del usuario y entendemos que a algunos usuarios de The Hive les gustaría usar algunos servicios que lo requieran.
 
-Al instalar esta extensión, aceptas los Términos de uso de Google Widevine. Aceptas que Brave no es responsable por daños o pérdidas en relación con tu uso de Google Widevine.</translation>
-<translation id="6499845530162974140">Brave (antiguo)</translation>
-<translation id="3198814717959506569">Importado desde Brave</translation>
+Al instalar esta extensión, aceptas los Términos de uso de Google Widevine. Aceptas que The Hive no es responsable por daños o pérdidas en relación con tu uso de Google Widevine.</translation>
+<translation id="6499845530162974140">The Hive (antiguo)</translation>
+<translation id="3198814717959506569">Importado desde The Hive</translation>
 <translation id="453977518730680921">Reproducir medios automáticamente</translation>
 <translation id="410351446219883937">Reproducción automática</translation>
 <translation id="2240268017737062801">Preguntar cuando un sitio web desea reproducir automáticamente contenido multimedia</translation>
@@ -34,12 +34,12 @@ Al instalar esta extensión, aceptas los Términos de uso de Google Widevine. Ac
 <translation id="3218385319396786393">La reproducción automática se ha bloqueado en esta página</translation>
 <translation id="4988333904713528597">Permitir siempre la reproducción automática en <ph name="HOST"/></translation>
 <translation id="4150684676757176434">Continuar bloqueando la reproducción automática</translation>
-<translation id="5883458389055721080">Brave no ha revisado esta extensión por razones de seguridad. Instala esta extensión solo si confías en el desarrollador.</translation>
+<translation id="5883458389055721080">The Hive no ha revisado esta extensión por razones de seguridad. Instala esta extensión solo si confías en el desarrollador.</translation>
 <translation id="8081858229109418493">Nombre e icono del perfil</translation>
-<translation id="2044383478723007273">Modo Brave</translation>
+<translation id="2044383478723007273">Modo The Hive</translation>
 <translation id="2814998458708016836">Usar barra de direcciones ancha</translation>
-<translation id="6123134130710658846">Ocultar el botón de Brave Rewards</translation>
-<translation id="7635711399568194460">Oculta el botón de Brave Rewards en la barra de direcciones cuando Brave Rewards está deshabilitado</translation>
+<translation id="6123134130710658846">Ocultar el botón de The Hive Rewards</translation>
+<translation id="7635711399568194460">Oculta el botón de The Hive Rewards en la barra de direcciones cuando The Hive Rewards está deshabilitado</translation>
 <translation id="4262166817826183486">Mostrar siempre la barra de marcadores en la página de la pestaña nueva</translation>
 <translation id="7965178729203412357">Nueva identidad Tor</translation>
 <translation id="8511502469534942133">Nueva conexión Tor para esta página</translation>
@@ -48,10 +48,10 @@ Al instalar esta extensión, aceptas los Términos de uso de Google Widevine. Ac
 <translation id="3696187925156352769">Nueva ventana Tor</translation>
 <translation id="1434416574322382019">Nueva ventana privada con Tor</translation>
 <translation id="4703780849509456860">Abrir enlace en una ventana privada con Tor</translation>
-<translation id="3488584642074079080">Abrir enlace en una ventana privada de Brave con Tor</translation>
+<translation id="3488584642074079080">Abrir enlace en una ventana privada de The Hive con Tor</translation>
 <translation id="6313675821927505581">Nueva ventana privada con Tor</translation>
 <translation id="2638041073279639246">Abrir enlace en una ventana privada con Tor</translation>
-<translation id="3425600262621021599">Abrir enlace en una ventana privada Brave con Tor</translation>
+<translation id="3425600262621021599">Abrir enlace en una ventana privada The Hive con Tor</translation>
 <translation id="3155170474926428993">Lanzador de Tor</translation>
 <translation id="2515126961943087659">Servicio de anuncios Bat</translation>
 <translation id="7924918279836988121">Servicio de contabilidad de BAT</translation>
@@ -60,7 +60,7 @@ Al instalar esta extensión, aceptas los Términos de uso de Google Widevine. Ac
 <translation id="6303294677342628402">Escudos</translation>
 <translation id="7133511168130368997">Bloqueo de rastreadores y anuncios que te siguen a través de la web.</translation>
 <translation id="2761825942249694703">Estos son los ajustes por defecto de los Escudos. Se aplican a todos los sitios web a menos que cambies algún parámetro en el panel de Escudos para un sitio en concreto. Cambiarlos no afectará a tus ajustes por sitio actuales.</translation>
-<translation id="8754605759692119662">Esto bloqueará la mayoría de los anuncios en los sitios web, no los anuncios privados de Brave — estos son controlados en</translation>
+<translation id="8754605759692119662">Esto bloqueará la mayoría de los anuncios en los sitios web, no los anuncios privados de The Hive — estos son controlados en</translation>
 <translation id="6388201778088078932">ajustes.</translation>
 <translation id="9185018653595759199">Bloqueo de RRSS</translation>
 <translation id="7390783310074170337">Vista por defecto</translation>
@@ -94,10 +94,10 @@ Al instalar esta extensión, aceptas los Términos de uso de Google Widevine. Ac
 <translation id="8721331068159819483">Mismo que en MacOS</translation>
 <translation id="6786747875388722282">Extensiones</translation>
 <translation id="2896916411183256228">Usa WebTorrent para mostrar directamente los torrents en el navegador. Es compatible con archivos torrent y enlaces magnet.</translation>
-<translation id="5554028991651120544">Proporciona una wallet Ethereum y un navegador Dapp dentro de Brave.</translation>
+<translation id="5554028991651120544">Proporciona una wallet Ethereum y un navegador Dapp dentro de The Hive.</translation>
 <translation id="6554397389149987360">Usa el componente de Hangouts para habilitar la compartición de la pantalla y otras funciones en el navegador.</translation>
 <translation id="1765684547504191670">Utiliza el componente Enrutador De Contenidos para activar Chromecast en el navegador.</translation>
-<translation id="9156965752763025780">Los cambios se aplicarán la próxima vez que reinicies Brave.</translation>
+<translation id="9156965752763025780">Los cambios se aplicarán la próxima vez que reinicies The Hive.</translation>
 <translation id="7179921470347911571">Relanzar ahora</translation>
 <translation id="4154389611571860454">Utiliza extensiones complementarias IPFS para permitir el uso de IFPS en el navegador.</translation>
 <translation id="8137559199583651773">Administrar extensiones</translation>
@@ -109,11 +109,11 @@ Al instalar esta extensión, aceptas los Términos de uso de Google Widevine. Ac
 <translation id="330263065709195164">¿Instalar la extensión del traductor de Google para traducir esta página?</translation>
 <translation id="3789841737615482174">Instalar</translation>
 <translation id="7658239707568436148">Cancelar</translation>
-<translation id="3371343170427636147">Brave Apps Nightly</translation>
-<translation id="4097979995947147464">Brave Apps Beta</translation>
-<translation id="8303432794159193481">Brave Apps Dev</translation>
-<translation id="8292967014767479012">Brave Apps</translation>
-<translation id="4743468424889072281">Brave Apps</translation>
+<translation id="3371343170427636147">The Hive Apps Nightly</translation>
+<translation id="4097979995947147464">The Hive Apps Beta</translation>
+<translation id="8303432794159193481">The Hive Apps Dev</translation>
+<translation id="8292967014767479012">The Hive Apps</translation>
+<translation id="4743468424889072281">The Hive Apps</translation>
 <translation id="4568409039725976900">Naranja valiente</translation>
 <translation id="1197088940767939838">Naranja</translation>
 <translation id="5901630391730855834">Amarillo</translation>
@@ -129,9 +129,9 @@ Al instalar esta extensión, aceptas los Términos de uso de Google Widevine. Ac
 <translation id="7184617102219850286">Franja azul</translation>
 <translation id="5032225845552050824">Franjas púrpuras</translation>
 <translation id="815851617499295136">Franjas negras</translation>
-<translation id="1872784258300710671">Brave utiliza análisis de productos completamente privados para estimar el uso general de ciertas funciones</translation>
+<translation id="1872784258300710671">The Hive utiliza análisis de productos completamente privados para estimar el uso general de ciertas funciones</translation>
 <translation id="8712637175834984815">Listo</translation>
 <translation id="4394049700291259645">Inhabilitar</translation>
-<translation id="6469509880167172749">Enviar automáticamente los análisis de productos completamente privados a Brave</translation>
-<translation id="7090566321964540749">Esta información anónima solo le permite a Brave estimar el uso general de ciertas funciones.</translation>
+<translation id="6469509880167172749">Enviar automáticamente los análisis de productos completamente privados a The Hive</translation>
+<translation id="7090566321964540749">Esta información anónima solo le permite a The Hive estimar el uso general de ciertas funciones.</translation>
 </translationbundle>

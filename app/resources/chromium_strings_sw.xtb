@@ -1,270 +1,270 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="sw">
-<translation id="5194812628624740897">Kuondoa <ph name="USERNAME"/> kutafuta historia, alamisho, mipangilio, na data zako nyingine kwenye Brave zilizohifadhiwa kwenye kifaa hiki. Data iliyohifadhiwa katika Akaunti ya Brave Software haitafutwa na inaweza kudhibitiwa kwenye <ph name="GOOGLE_DASHBOARD_LINK"/>Dashibodi ya Brave Software<ph name="END_GOOGLE_DASHBOARD_LINK"/>.</translation>
-<translation id="939305735877869636">Brave</translation>
-<translation id="6373767849825830651">Brave ni kivinjari cha wavuti kinachoendesha kurasa za wavuti na programu kwa kasi ya umeme. Ni ya haraka, imara, na rahisi kutumia. Vinjari wavuti kwa usalama zaidi dhidi ya hadaa na programu hasidi ukiwa na ulinzi uliojengwa ndani ya Brave.</translation>
-<translation id="680297041157509674">Brave OS</translation>
-<translation id="4847979153841887006">Nembo ya Brave</translation>
+<translation id="5194812628624740897">Kuondoa <ph name="USERNAME"/> kutafuta historia, alamisho, mipangilio, na data zako nyingine kwenye The Hive zilizohifadhiwa kwenye kifaa hiki. Data iliyohifadhiwa katika Akaunti ya The Hive Software haitafutwa na inaweza kudhibitiwa kwenye <ph name="GOOGLE_DASHBOARD_LINK"/>Dashibodi ya The Hive Software<ph name="END_GOOGLE_DASHBOARD_LINK"/>.</translation>
+<translation id="939305735877869636">The Hive</translation>
+<translation id="6373767849825830651">The Hive ni kivinjari cha wavuti kinachoendesha kurasa za wavuti na programu kwa kasi ya umeme. Ni ya haraka, imara, na rahisi kutumia. Vinjari wavuti kwa usalama zaidi dhidi ya hadaa na programu hasidi ukiwa na ulinzi uliojengwa ndani ya The Hive.</translation>
+<translation id="680297041157509674">The Hive OS</translation>
+<translation id="4847979153841887006">Nembo ya The Hive</translation>
 <translation id="7339898014177206373">Dirisha jipya</translation>
-<translation id="5935964611177478118">ingia katika Brave</translation>
-<translation id="5516268345616100622">Kidhibiti cha Shughuli - Brave</translation>
-<translation id="7918740962659365265">Saidia kuboresha Brave kwa kutuma ripoti za kuacha kufanya kazi na <ph name="UMA_LINK"/> kwenda Brave Software</translation>
-<translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Brave</translation>
-<translation id="7830723774663008396">Brave - <ph name="PAGE_TITLE"/></translation>
-<translation id="1403270718080126244"><ph name="PAGE_TITLE"/> - Beta ya Brave</translation>
-<translation id="3943696263619956191"><ph name="PAGE_TITLE"/> - Brave ya Wasanidi Programu</translation>
-<translation id="6236814935154483927"><ph name="PAGE_TITLE"/> - Toleo la Jaribio la Brave</translation>
-<translation id="4685833011652060085">Pata msaada kwa kutumia Brave</translation>
-<translation id="6474707902830053522">Pata msaada unapotumia Brave OS</translation>
-<translation id="8992261409816268381">Waandishi wa Brave</translation>
-<translation id="4651430425715739110">Hakimiliki <ph name="YEAR"/> Wasanidi wa Brave. Haki zote zimehifadhiwa.</translation>
-<translation id="2310890394934209120">Brave OS imewezeshwa na programu za ziada za <ph name="BEGIN_LINK_CROS_OSS"/>programu huria<ph name="END_LINK_CROS_OSS"/>.</translation>
-<translation id="8160794320557846790">Mfumo wa uendeshaji wa Brave unawezeshwa na <ph name="BEGIN_LINK_CROS_OSS"/>programu huria<ph name="END_LINK_CROS_OSS"/> za ziada, jinsi ilivyo katika <ph name="BEGIN_LINK_LINUX_OSS"/>Linux (Beta)<ph name="END_LINK_LINUX_OSS"/>.</translation>
-<translation id="6913582816347128893">Huenda Brave isifanye kazi vizuri kwa sababu haitumiki tena kwenye Mac OS X 10.9.</translation>
-<translation id="7977787072794666032">Huenda Brave isifanye kazi vizuri kwa sababu haitumiki tena kwenye Windows XP au Windows Vista</translation>
-<translation id="189297655255130768">Brave haiamiliki. Zindua upya sasa?</translation>
-<translation id="8703492925273919597">Tafadhali funga madirisha yote ya Brave na ujaribu tena.</translation>
-<translation id="335632367599648646">Je, una hakika unataka kusanidua Brave?</translation>
-<translation id="5590013613412457132">Ondoa Brave</translation>
-<translation id="5019879183386042809">Fanya Brave kuwa kivinjari chaguomsingi</translation>
-<translation id="5063987220091207247">Mfumo wa Uendeshaji wa Brave hauwezi kufungua ukurasa huu.</translation>
-<translation id="4065288863231444640">Ruhusu Brave itumike Chinichini</translation>
-<translation id="6797402139308059782">Acha Brave iendeshe katika mandharinyuma</translation>
-<translation id="2585240446624043880">Brave haiwezi kusoma na kuandika kwenye saraka yake ya data:
+<translation id="5935964611177478118">ingia katika The Hive</translation>
+<translation id="5516268345616100622">Kidhibiti cha Shughuli - The Hive</translation>
+<translation id="7918740962659365265">Saidia kuboresha The Hive kwa kutuma ripoti za kuacha kufanya kazi na <ph name="UMA_LINK"/> kwenda The Hive Software</translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - The Hive</translation>
+<translation id="7830723774663008396">The Hive - <ph name="PAGE_TITLE"/></translation>
+<translation id="1403270718080126244"><ph name="PAGE_TITLE"/> - Beta ya The Hive</translation>
+<translation id="3943696263619956191"><ph name="PAGE_TITLE"/> - The Hive ya Wasanidi Programu</translation>
+<translation id="6236814935154483927"><ph name="PAGE_TITLE"/> - Toleo la Jaribio la The Hive</translation>
+<translation id="4685833011652060085">Pata msaada kwa kutumia The Hive</translation>
+<translation id="6474707902830053522">Pata msaada unapotumia The Hive OS</translation>
+<translation id="8992261409816268381">Waandishi wa The Hive</translation>
+<translation id="4651430425715739110">Hakimiliki <ph name="YEAR"/> Wasanidi wa The Hive. Haki zote zimehifadhiwa.</translation>
+<translation id="2310890394934209120">The Hive OS imewezeshwa na programu za ziada za <ph name="BEGIN_LINK_CROS_OSS"/>programu huria<ph name="END_LINK_CROS_OSS"/>.</translation>
+<translation id="8160794320557846790">Mfumo wa uendeshaji wa The Hive unawezeshwa na <ph name="BEGIN_LINK_CROS_OSS"/>programu huria<ph name="END_LINK_CROS_OSS"/> za ziada, jinsi ilivyo katika <ph name="BEGIN_LINK_LINUX_OSS"/>Linux (Beta)<ph name="END_LINK_LINUX_OSS"/>.</translation>
+<translation id="6913582816347128893">Huenda The Hive isifanye kazi vizuri kwa sababu haitumiki tena kwenye Mac OS X 10.9.</translation>
+<translation id="7977787072794666032">Huenda The Hive isifanye kazi vizuri kwa sababu haitumiki tena kwenye Windows XP au Windows Vista</translation>
+<translation id="189297655255130768">The Hive haiamiliki. Zindua upya sasa?</translation>
+<translation id="8703492925273919597">Tafadhali funga madirisha yote ya The Hive na ujaribu tena.</translation>
+<translation id="335632367599648646">Je, una hakika unataka kusanidua The Hive?</translation>
+<translation id="5590013613412457132">Ondoa The Hive</translation>
+<translation id="5019879183386042809">Fanya The Hive kuwa kivinjari chaguomsingi</translation>
+<translation id="5063987220091207247">Mfumo wa Uendeshaji wa The Hive hauwezi kufungua ukurasa huu.</translation>
+<translation id="4065288863231444640">Ruhusu The Hive itumike Chinichini</translation>
+<translation id="6797402139308059782">Acha The Hive iendeshe katika mandharinyuma</translation>
+<translation id="2585240446624043880">The Hive haiwezi kusoma na kuandika kwenye saraka yake ya data:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="8417700129970341035">Si lazima: Saidia kuboresha Brave kwa kutumia Brave Software takwimu za matumizi na ripoti wakati wowote huduma hii inapoacha kufanya kazi.</translation>
-<translation id="1489465648257900784">Wasifu wako hauwezi kutumiwa kwa sababu umetoka katika toleo jipya la Brave.
+<translation id="8417700129970341035">Si lazima: Saidia kuboresha The Hive kwa kutumia The Hive Software takwimu za matumizi na ripoti wakati wowote huduma hii inapoacha kufanya kazi.</translation>
+<translation id="1489465648257900784">Wasifu wako hauwezi kutumiwa kwa sababu umetoka katika toleo jipya la The Hive.
 
-Baadhi ya vipengele huenda visipatikane. Tafadhali bainisha saraka tofauti ya wasifu au utumie toleo jipya la Brave.</translation>
+Baadhi ya vipengele huenda visipatikane. Tafadhali bainisha saraka tofauti ya wasifu au utumie toleo jipya la The Hive.</translation>
 <translation id="1065672644894730302">Mapendeleo yako hayawezi kusomwa.
 
 Baadhi ya vipengele huenda visipatikane na mabadiliko katika mapendeleo hayatahifadhiwa.</translation>
 <translation id="3403365884036456766">Faili yako ya mapendeleo imeharibika au ni batili. 
 
-Brave haiwezi kufufua mipangilio yako.</translation>
-<translation id="1477146545787277177">Lo! Brave imevurugika. Unataka kuzindua upya sasa?</translation>
-<translation id="5785919770853225148">Brave itahifadhi nenosiri hili kwenye Akaunti yako ya Brave Software. Hutahitaji kulikumbuka.</translation>
-<translation id="8211837073776713955">Brave hukuruhusu ujue iwapo manenosiri yako yameathiriwa</translation>
-<translation id="113959764510199339">Brave inajaribu kuonyesha manenosiri.</translation>
-<translation id="7503098128120083822">Brave ingependa kuhamisha manenosiri yako.</translation>
-<translation id="8285294305439559616">Brave inajaribu kuonyesha manenosiri. Chapa nenosiri lako la Windows ili uruhusu hili.</translation>
-<translation id="5918095577778020936">Brave ingependa kuhamisha manenosiri yako. Andika nenosiri lako la Windows ili uruhusu shughuli hii.</translation>
-<translation id="8320964054148936490">Kompyuta hii tayari ina toleo la hivi punde la Brave. Ikiwa programu haifanyikazi, tafadhali ondoa Brave kisha ujaribu tena.</translation>
-<translation id="7691786510374174420">Usanidi umeshindwa kwa sababu ya hitilafu isiyojulikana. Ikiwa Brave inaendesha sasa, tafadhali ifunge na ujaribu tena.</translation>
-<translation id="2619516027171717873">Haiwezi kusakinisha toleo sawia la Brave ambalo linaendeshwa hivi sasa. Tafadhali funga Brave na ujaribu tena.</translation>
-<translation id="6283840329609797763">Usakinishaji ulishindwa kwa sababu ya hitilafu isiyobainika. Tafadhali pakua Brave tena.</translation>
-<translation id="95624393026532554">Brave inahitaji Windows 7 au toleo jipya zaidi.</translation>
-<translation id="7387051847644272380">Hitilafu ya mfumo wa uendeshaji imetokea wakati wa usakinishaji. Tafadhali pakua Brave tena.</translation>
-<translation id="1819119299840995223">Shughuli nyingine zinaendelea kwenye Brave. Tafadhali jaribu tena baadaye.</translation>
+The Hive haiwezi kufufua mipangilio yako.</translation>
+<translation id="1477146545787277177">Lo! The Hive imevurugika. Unataka kuzindua upya sasa?</translation>
+<translation id="5785919770853225148">The Hive itahifadhi nenosiri hili kwenye Akaunti yako ya The Hive Software. Hutahitaji kulikumbuka.</translation>
+<translation id="8211837073776713955">The Hive hukuruhusu ujue iwapo manenosiri yako yameathiriwa</translation>
+<translation id="113959764510199339">The Hive inajaribu kuonyesha manenosiri.</translation>
+<translation id="7503098128120083822">The Hive ingependa kuhamisha manenosiri yako.</translation>
+<translation id="8285294305439559616">The Hive inajaribu kuonyesha manenosiri. Chapa nenosiri lako la Windows ili uruhusu hili.</translation>
+<translation id="5918095577778020936">The Hive ingependa kuhamisha manenosiri yako. Andika nenosiri lako la Windows ili uruhusu shughuli hii.</translation>
+<translation id="8320964054148936490">Kompyuta hii tayari ina toleo la hivi punde la The Hive. Ikiwa programu haifanyikazi, tafadhali ondoa The Hive kisha ujaribu tena.</translation>
+<translation id="7691786510374174420">Usanidi umeshindwa kwa sababu ya hitilafu isiyojulikana. Ikiwa The Hive inaendesha sasa, tafadhali ifunge na ujaribu tena.</translation>
+<translation id="2619516027171717873">Haiwezi kusakinisha toleo sawia la The Hive ambalo linaendeshwa hivi sasa. Tafadhali funga The Hive na ujaribu tena.</translation>
+<translation id="6283840329609797763">Usakinishaji ulishindwa kwa sababu ya hitilafu isiyobainika. Tafadhali pakua The Hive tena.</translation>
+<translation id="95624393026532554">The Hive inahitaji Windows 7 au toleo jipya zaidi.</translation>
+<translation id="7387051847644272380">Hitilafu ya mfumo wa uendeshaji imetokea wakati wa usakinishaji. Tafadhali pakua The Hive tena.</translation>
+<translation id="1819119299840995223">Shughuli nyingine zinaendelea kwenye The Hive. Tafadhali jaribu tena baadaye.</translation>
 <translation id="7747138024166251722">Kisakinishi hakikuweza kuunda saraka la muda. Tafadhali chunguza nafasi iliyo wazi kwenye diski na ruhusa ya kusakinisha programu.</translation>
-<translation id="7365690458036015383">Kisakinishi kilishindwa kufinyuza kumbukumbu. Tafadhali pakua Brave tena.</translation>
-<translation id="6914496861676471566">Kumbukumbu ya kisakinishi imeharibika au ni batili. Tafadhali pakua Brave tena.</translation>
+<translation id="7365690458036015383">Kisakinishi kilishindwa kufinyuza kumbukumbu. Tafadhali pakua The Hive tena.</translation>
+<translation id="6914496861676471566">Kumbukumbu ya kisakinishi imeharibika au ni batili. Tafadhali pakua The Hive tena.</translation>
 <translation id="8862326446509486874">Huna haki zifaazo ili kufanya usakinishaji wa kiwango cha mfumo. Jaribu kutumia kisakinishi kama msimamiaji kompyuta.</translation>
-<translation id="6666624454809779082">Tayari Brave imesakinishwa kwa watumiaji wote kwenye kompyuta yako.</translation>
+<translation id="6666624454809779082">Tayari The Hive imesakinishwa kwa watumiaji wote kwenye kompyuta yako.</translation>
 <translation id="6676384891291319759">Fikia wavuti</translation>
 <translation id="911206726377975832">Futa historia yako ya kuvinjari pia?</translation>
 <translation id="2770231113462710648">Badilisha kivinjari chaguomsingi kiwe:</translation>
 <translation id="2485422356828889247">Ondoa</translation>
-<translation id="3343095737966473035">Brave si kivinjari chako chaguomsingi</translation>
-<translation id="6715663530666325392">Sanidi Usawazishaji ili uhifadhi vipengele vyako vya kivinjari vilivyobinafsishwa kwenye mtandao na uvifikie kutoka Brave katika kompyuta yoyote</translation>
-<translation id="5536657158619734169">Kuna toleo jipya la Brave linalopatikana.</translation>
-<translation id="505042220086416644">Kuna toleo jipya la Brave linalopatikana, na ni la kasi kuliko la awali.</translation>
-<translation id="5616153642055197778">Kuna toleo jipya, na salama linalopatikana la Brave.</translation>
-<translation id="2301993384336631869">Brave imesasishwa, lakini hujaitumia angalau kwa siku 30.</translation>
-<translation id="2106568569080763501">Brave hukuruhusu kubofya nambari ya simu kwenye wavuti na kuipiga kwa Skype.</translation>
-<translation id="5874882355102994015">Brave haiwezi kuonyesha onyesho la kukagua kwanza chapisho wakati kitazamaji kilichojengewa ndani cha PDF kinakosekana.</translation>
-<translation id="8880183781256147665">Inaongeza kwenye Brave...</translation>
-<translation id="3561569806301739367">Huenda <ph name="FILE_NAME"/> ni hatari, kwa hivyo Brave imeizuia.</translation>
-<translation id="9067428552314418522">Faili hii ni hatari, kwa hivyo Brave imeizuia.</translation>
-<translation id="4168372721886011198"><ph name="FILE_NAME"/> ni hatari, kwa hivyo Brave imeizuia.</translation>
-<translation id="89367911614620585">Huenda faili hii ni hatari, kwa hivyo Brave imeizuia.</translation>
-<translation id="9183662282810237335">Ungependa kufunga Brave?</translation>
-<translation id="3834935463915107022">Ungependa kufunga Brave?</translation>
-<translation id="8797356639448065696">Brave iko katika hali ya chini chini.</translation>
-<translation id="2339258256897053758">Funguo za Brave Software API zinakosekana. Utendaji fulani wa Brave utazimwa.</translation>
-<translation id="2182657378556811785">Inakaribia kukamilisha kusasishwa! Anzisha Brave upya ili ukamilishe kusasisha.</translation>
+<translation id="3343095737966473035">The Hive si kivinjari chako chaguomsingi</translation>
+<translation id="6715663530666325392">Sanidi Usawazishaji ili uhifadhi vipengele vyako vya kivinjari vilivyobinafsishwa kwenye mtandao na uvifikie kutoka The Hive katika kompyuta yoyote</translation>
+<translation id="5536657158619734169">Kuna toleo jipya la The Hive linalopatikana.</translation>
+<translation id="505042220086416644">Kuna toleo jipya la The Hive linalopatikana, na ni la kasi kuliko la awali.</translation>
+<translation id="5616153642055197778">Kuna toleo jipya, na salama linalopatikana la The Hive.</translation>
+<translation id="2301993384336631869">The Hive imesasishwa, lakini hujaitumia angalau kwa siku 30.</translation>
+<translation id="2106568569080763501">The Hive hukuruhusu kubofya nambari ya simu kwenye wavuti na kuipiga kwa Skype.</translation>
+<translation id="5874882355102994015">The Hive haiwezi kuonyesha onyesho la kukagua kwanza chapisho wakati kitazamaji kilichojengewa ndani cha PDF kinakosekana.</translation>
+<translation id="8880183781256147665">Inaongeza kwenye The Hive...</translation>
+<translation id="3561569806301739367">Huenda <ph name="FILE_NAME"/> ni hatari, kwa hivyo The Hive imeizuia.</translation>
+<translation id="9067428552314418522">Faili hii ni hatari, kwa hivyo The Hive imeizuia.</translation>
+<translation id="4168372721886011198"><ph name="FILE_NAME"/> ni hatari, kwa hivyo The Hive imeizuia.</translation>
+<translation id="89367911614620585">Huenda faili hii ni hatari, kwa hivyo The Hive imeizuia.</translation>
+<translation id="9183662282810237335">Ungependa kufunga The Hive?</translation>
+<translation id="3834935463915107022">Ungependa kufunga The Hive?</translation>
+<translation id="8797356639448065696">The Hive iko katika hali ya chini chini.</translation>
+<translation id="2339258256897053758">Funguo za The Hive Software API zinakosekana. Utendaji fulani wa The Hive utazimwa.</translation>
+<translation id="2182657378556811785">Inakaribia kukamilisha kusasishwa! Anzisha The Hive upya ili ukamilishe kusasisha.</translation>
 <translation id="5906655207909574370">Inakaribia kukamilisha kusasishwa! Zima na uwashe kifaa chako ili ukamilishe kusasisha.</translation>
 <translation id="5877064549588274448">Kituo kimebadilishwa. Zima na uwashe kifaa chako ili mabadiliko yaanze kutumika.</translation>
-<translation id="5131485705787281074">Brave imesasishwa.</translation>
+<translation id="5131485705787281074">The Hive imesasishwa.</translation>
 <translation id="8667808506758191620">Kifaa chako cha <ph name="DEVICE_TYPE"/> kimesasishwa.</translation>
-<translation id="5047208012586153436">Inasasisha Brave...</translation>
+<translation id="5047208012586153436">Inasasisha The Hive...</translation>
 <translation id="6970811910055250180">Inasasisha kifaa chako...</translation>
 <translation id="8030318113982266900">Inasasisha kituo chako kwenda kituo cha <ph name="CHANNEL_NAME"/>...</translation>
-<translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> imeongezwa kwenye Brave</translation>
-<translation id="8516116288943000095">Futa pia data kwenye Brave (<ph name="URL"/>)</translation>
-<translation id="4054452651944170004">Ficha katika menyu ya Brave</translation>
-<translation id="5660079256336839395">Ficha katika Menyu ya Brave</translation>
-<translation id="7456658570432774853">Saidia kuboresha Brave kwa kuripoti mipangilio ya sasa</translation>
-<translation id="6134859571175647580">Ilani: Brave haiwezi kuzuia viendelezi kurekodi historia yako ya kuvinjari. Ili kuzima kiendelezi hiki katika hali fiche, batilisha chaguo hili.</translation>
-<translation id="777113543093865885">Ondoa kwenye Brave...</translation>
-<translation id="6078442581074612226">Katika Brave</translation>
-<translation id="1448049584457347995">Ili kufanya Brave salama zaidi, tumezima baadhi ya viendelezi ambavyo havijaorodheshwa katika <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> na ambavyo huendwa viliongezwa pasipo ridhaa yako.</translation>
-<translation id="8848045066928358658">Ili kufanya Brave salama zaidi, tumezima kiendelezi kinachofuata ambacho hakijaorodheshwa katika <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> na huenda kimeongezwa bila ridhaa yako.</translation>
-<translation id="8148611988012584308">Dhibiti na ugeuze Brave ikufae</translation>
-<translation id="5849446944780602366">Weka mapendeleo na udhibiti Brave. Sasisho linapatikana.</translation>
-<translation id="6315734375101223238">Dhibiti na uweke mapendeleo kwenye Brave. Unahitaji kushughulikia jambo fulani. Bofya ili upate maelezo.</translation>
-<translation id="9071554113102421877">Fungua katika Brave</translation>
-<translation id="2176825726964012531">Kuhusu Brave</translation>
-<translation id="5450493308072741203">Sasisha &amp;Brave</translation>
-<translation id="1421502046520299169">Kuhusu Brave OS</translation>
-<translation id="2534623228451928732">Sasisha Brave OS</translation>
-<translation id="8447483940522230788">Kisaidizi cha Brave</translation>
-<translation id="5477319665405831211">Sawazisha na uweke mapendeleo kwenye Brave katika vifaa vyako vyote</translation>
-<translation id="4934157190377700991">Sasa umeingia kwenye Brave</translation>
-<translation id="4100716194836114130">Hii ni Brave yako</translation>
-<translation id="8296145982386097283">Ungependa kushiriki kompyuta? Sasa unaweza kusanidi Brave kama tu unavyoipenda.</translation>
-<translation id="1672124279374861424">Baada ya kuondoa akaunti yako kwenye Brave, huenda ukahitajika kupakia upya vichupo vyako vilivyo wazi ili kuanza kufanya kazi.</translation>
-<translation id="9197493712748167998">Unatumia <ph name="PROFILE_EMAIL"/> kusawazisha vitu vyako vya Brave. Ili usasishe mapendeleo yako ya usawazishaji au utumie Brave bila akaunti ya Brave Software, tembelea <ph name="SETTINGS_LINK"/>.</translation>
-<translation id="8132634101975074716">Umeingia kwenye Brave!</translation>
+<translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> imeongezwa kwenye The Hive</translation>
+<translation id="8516116288943000095">Futa pia data kwenye The Hive (<ph name="URL"/>)</translation>
+<translation id="4054452651944170004">Ficha katika menyu ya The Hive</translation>
+<translation id="5660079256336839395">Ficha katika Menyu ya The Hive</translation>
+<translation id="7456658570432774853">Saidia kuboresha The Hive kwa kuripoti mipangilio ya sasa</translation>
+<translation id="6134859571175647580">Ilani: The Hive haiwezi kuzuia viendelezi kurekodi historia yako ya kuvinjari. Ili kuzima kiendelezi hiki katika hali fiche, batilisha chaguo hili.</translation>
+<translation id="777113543093865885">Ondoa kwenye The Hive...</translation>
+<translation id="6078442581074612226">Katika The Hive</translation>
+<translation id="1448049584457347995">Ili kufanya The Hive salama zaidi, tumezima baadhi ya viendelezi ambavyo havijaorodheshwa katika <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> na ambavyo huendwa viliongezwa pasipo ridhaa yako.</translation>
+<translation id="8848045066928358658">Ili kufanya The Hive salama zaidi, tumezima kiendelezi kinachofuata ambacho hakijaorodheshwa katika <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> na huenda kimeongezwa bila ridhaa yako.</translation>
+<translation id="8148611988012584308">Dhibiti na ugeuze The Hive ikufae</translation>
+<translation id="5849446944780602366">Weka mapendeleo na udhibiti The Hive. Sasisho linapatikana.</translation>
+<translation id="6315734375101223238">Dhibiti na uweke mapendeleo kwenye The Hive. Unahitaji kushughulikia jambo fulani. Bofya ili upate maelezo.</translation>
+<translation id="9071554113102421877">Fungua katika The Hive</translation>
+<translation id="2176825726964012531">Kuhusu The Hive</translation>
+<translation id="5450493308072741203">Sasisha &amp;The Hive</translation>
+<translation id="1421502046520299169">Kuhusu The Hive OS</translation>
+<translation id="2534623228451928732">Sasisha The Hive OS</translation>
+<translation id="8447483940522230788">Kisaidizi cha The Hive</translation>
+<translation id="5477319665405831211">Sawazisha na uweke mapendeleo kwenye The Hive katika vifaa vyako vyote</translation>
+<translation id="4934157190377700991">Sasa umeingia kwenye The Hive</translation>
+<translation id="4100716194836114130">Hii ni The Hive yako</translation>
+<translation id="8296145982386097283">Ungependa kushiriki kompyuta? Sasa unaweza kusanidi The Hive kama tu unavyoipenda.</translation>
+<translation id="1672124279374861424">Baada ya kuondoa akaunti yako kwenye The Hive, huenda ukahitajika kupakia upya vichupo vyako vilivyo wazi ili kuanza kufanya kazi.</translation>
+<translation id="9197493712748167998">Unatumia <ph name="PROFILE_EMAIL"/> kusawazisha vitu vyako vya The Hive. Ili usasishe mapendeleo yako ya usawazishaji au utumie The Hive bila akaunti ya The Hive Software, tembelea <ph name="SETTINGS_LINK"/>.</translation>
+<translation id="8132634101975074716">Umeingia kwenye The Hive!</translation>
 <translation id="4567424176335768812">Umeingia katika akaunti kama <ph name="USER_EMAIL_ADDRESS"/>. Sasa unaweza kupata alamisho, historia, na mipangilio yako mingine kwenye vifaa vyako vyote vilivyoingia katika akaunti.</translation>
-<translation id="6888049487162027489">Sasa umeingia kwenye Brave! Usawazishaji umezimwa na msimamizi wako.</translation>
-<translation id="2925193881330501265">Uliingia kwenye Brave kama <ph name="USER_EMAIL_ADDRESS"/>. Tafadhali tumia akaunti hiyo hiyo kuingia tena.</translation>
-<translation id="386092803020435298">Awali kuna mtu aliingia katika Brave kwenye kompyuta hii kama <ph name="ACCOUNT_EMAIL_LAST"/>. Iwapo hiyo si akaunti yako, fungua mtumiaji mwengine wa Brave ili utenge maelezo yako.
+<translation id="6888049487162027489">Sasa umeingia kwenye The Hive! Usawazishaji umezimwa na msimamizi wako.</translation>
+<translation id="2925193881330501265">Uliingia kwenye The Hive kama <ph name="USER_EMAIL_ADDRESS"/>. Tafadhali tumia akaunti hiyo hiyo kuingia tena.</translation>
+<translation id="386092803020435298">Awali kuna mtu aliingia katika The Hive kwenye kompyuta hii kama <ph name="ACCOUNT_EMAIL_LAST"/>. Iwapo hiyo si akaunti yako, fungua mtumiaji mwengine wa The Hive ili utenge maelezo yako.
 
-Kuingia bila kujali kutaunganisha maelezo ya Brave kama vile alamisho, historia, na mipangilio mingine kwenye <ph name="ACCOUNT_EMAIL_NEW"/>.</translation>
-<translation id="847561904663814268">Kuna mtu aliingia katika Brave kwenye kompyuta hii akitumia <ph name="ACCOUNT_EMAIL_LAST"/>. Tafadhali ongeza wasifu mpya wa Brave ili utenganishe maelezo yako.</translation>
-<translation id="1853997773668795891">Ungependa kuunganisha data yako ya Brave kwenye akaunti hii?</translation>
-<translation id="1326766910007115955">Unaingia katika akaunti inayodhibitiwa na kumpa msimamizi wa akaunti hiyo udhibiti wa wasifu wako kwenye Brave. Data yako ya Brave, kama vile programu zako, alamisho, historia, manenosiri, na mipangilio miingine itahusishwa na <ph name="USER_NAME"/> kabisa. Utaweza kufuta data hii kupitia Dashibodi ya Akaunti za Brave Software, lakini hutaweza  kuunganisha data hii na akaunti nyingine. <ph name="LEARN_MORE"/></translation>
-<translation id="650055380213106997">Unaingia katika akaunti ukitumia akaunti inayodhibitiwa na kumpa msimamizi wa akaunti hiyo udhibiti wa wasifu wako kwenye Brave. Data yako ya Brave, kama vile programu zako, alamisho, historia, manenosiri, na mipangilio nyingine itahusishwa na<ph name="USER_NAME"/> kabisa. Utaweza kufuta data hii kupitia Dashibodi ya Akaunti za Brave Software, lakini hutaweza  kuunganisha data hii na akaunti nyingine. Unaweza kwa hiari kuunda wasifu mpya ili kuweka data yako ya Brave iliyo kando. <ph name="LEARN_MORE"/></translation>
-<translation id="2444257125841652328">Msimamizi wa mfumo unaotumia ameweka mipangilio ya Brave ifungue kivinjari mbadala ili ufikie<ph name="TARGET_URL_HOSTNAME"/>.</translation>
-<translation id="5380963249588143069">Msimamizi wa mfumo unaotumia ameweka mipangilio ya Brave ifungue <ph name="ALTERNATIVE_BROWSER_NAME"/> ili kufikia <ph name="TARGET_URL_HOSTNAME"/>.</translation>
-<translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> ilikuwa ikitumia Brave awali</translation>
-<translation id="1384923383737428730">Kuna programu hatari kwenye kompyuta yako. Brave inaweza kuiondoa, kurejesha mipangilio yako na kuzima viendelezi ili kufanya kivinjari chako kifanye kazi tena kama kawaida.</translation>
-<translation id="8919921662052966648">Brave haikuweza kusawazisha data yako. Tafadhali sasisha kauli siri yako ya Usawazishaji.</translation>
-<translation id="2262856633481902138">Brave haikuweza kusawazisha data yako kwa sababu maelezo yako ya kuingia katika akaunti yanahitaji kusasishwa.</translation>
-<translation id="5419189641394808652">Brave haikuweza kusawazisha data yako kwa sababu Usawazishaji haupatikani kwa kikoa chako.</translation>
-<translation id="2577755334620061182">Brave haikuweza kusawazisha data yako kutokana na hitalafu ya kuingia katika akaunti.</translation>
-<translation id="8583885258305961947">Mfumo wa Uendeshaji wa Brave</translation>
-<translation id="3968006371075376562">Mfumo wa Uendeshaji wa Brave haukuweza kusawazisha data yako. Tafadhali sasisha kauli ya siri unayotumia kusawazisha.</translation>
-<translation id="6746636977031158624">Mfumo wa Uendeshaji wa Brave haukuweza kusawazisha data yako kwa sababu maelezo yako ya kuingia katika akaunti yanahitaji kusasishwa.</translation>
-<translation id="2999152167963026588">Mfumo wa Uendeshaji wa Brave haukuweza kusawazisha data yako kwa sababu Usawazishaji haupatikani kwa kikoa chako.</translation>
-<translation id="1459786048951724030">Mfumo wa Uendeshaji wa Brave haukuweza kusawazisha data yako kutokana na hitilafu wakati wa kuingia katika akaunti.</translation>
-<translation id="6813094029720377619">Utafuta vidakuzi utakapofunga Brave. Ili uendelee kusawazisha, badilisha mipangilio hii ya <ph name="COOKIE_SETTINGS_LINK"/>.</translation>
+Kuingia bila kujali kutaunganisha maelezo ya The Hive kama vile alamisho, historia, na mipangilio mingine kwenye <ph name="ACCOUNT_EMAIL_NEW"/>.</translation>
+<translation id="847561904663814268">Kuna mtu aliingia katika The Hive kwenye kompyuta hii akitumia <ph name="ACCOUNT_EMAIL_LAST"/>. Tafadhali ongeza wasifu mpya wa The Hive ili utenganishe maelezo yako.</translation>
+<translation id="1853997773668795891">Ungependa kuunganisha data yako ya The Hive kwenye akaunti hii?</translation>
+<translation id="1326766910007115955">Unaingia katika akaunti inayodhibitiwa na kumpa msimamizi wa akaunti hiyo udhibiti wa wasifu wako kwenye The Hive. Data yako ya The Hive, kama vile programu zako, alamisho, historia, manenosiri, na mipangilio miingine itahusishwa na <ph name="USER_NAME"/> kabisa. Utaweza kufuta data hii kupitia Dashibodi ya Akaunti za The Hive Software, lakini hutaweza  kuunganisha data hii na akaunti nyingine. <ph name="LEARN_MORE"/></translation>
+<translation id="650055380213106997">Unaingia katika akaunti ukitumia akaunti inayodhibitiwa na kumpa msimamizi wa akaunti hiyo udhibiti wa wasifu wako kwenye The Hive. Data yako ya The Hive, kama vile programu zako, alamisho, historia, manenosiri, na mipangilio nyingine itahusishwa na<ph name="USER_NAME"/> kabisa. Utaweza kufuta data hii kupitia Dashibodi ya Akaunti za The Hive Software, lakini hutaweza  kuunganisha data hii na akaunti nyingine. Unaweza kwa hiari kuunda wasifu mpya ili kuweka data yako ya The Hive iliyo kando. <ph name="LEARN_MORE"/></translation>
+<translation id="2444257125841652328">Msimamizi wa mfumo unaotumia ameweka mipangilio ya The Hive ifungue kivinjari mbadala ili ufikie<ph name="TARGET_URL_HOSTNAME"/>.</translation>
+<translation id="5380963249588143069">Msimamizi wa mfumo unaotumia ameweka mipangilio ya The Hive ifungue <ph name="ALTERNATIVE_BROWSER_NAME"/> ili kufikia <ph name="TARGET_URL_HOSTNAME"/>.</translation>
+<translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> ilikuwa ikitumia The Hive awali</translation>
+<translation id="1384923383737428730">Kuna programu hatari kwenye kompyuta yako. The Hive inaweza kuiondoa, kurejesha mipangilio yako na kuzima viendelezi ili kufanya kivinjari chako kifanye kazi tena kama kawaida.</translation>
+<translation id="8919921662052966648">The Hive haikuweza kusawazisha data yako. Tafadhali sasisha kauli siri yako ya Usawazishaji.</translation>
+<translation id="2262856633481902138">The Hive haikuweza kusawazisha data yako kwa sababu maelezo yako ya kuingia katika akaunti yanahitaji kusasishwa.</translation>
+<translation id="5419189641394808652">The Hive haikuweza kusawazisha data yako kwa sababu Usawazishaji haupatikani kwa kikoa chako.</translation>
+<translation id="2577755334620061182">The Hive haikuweza kusawazisha data yako kutokana na hitalafu ya kuingia katika akaunti.</translation>
+<translation id="8583885258305961947">Mfumo wa Uendeshaji wa The Hive</translation>
+<translation id="3968006371075376562">Mfumo wa Uendeshaji wa The Hive haukuweza kusawazisha data yako. Tafadhali sasisha kauli ya siri unayotumia kusawazisha.</translation>
+<translation id="6746636977031158624">Mfumo wa Uendeshaji wa The Hive haukuweza kusawazisha data yako kwa sababu maelezo yako ya kuingia katika akaunti yanahitaji kusasishwa.</translation>
+<translation id="2999152167963026588">Mfumo wa Uendeshaji wa The Hive haukuweza kusawazisha data yako kwa sababu Usawazishaji haupatikani kwa kikoa chako.</translation>
+<translation id="1459786048951724030">Mfumo wa Uendeshaji wa The Hive haukuweza kusawazisha data yako kutokana na hitilafu wakati wa kuingia katika akaunti.</translation>
+<translation id="6813094029720377619">Utafuta vidakuzi utakapofunga The Hive. Ili uendelee kusawazisha, badilisha mipangilio hii ya <ph name="COOKIE_SETTINGS_LINK"/>.</translation>
 <translation id="3340978935015468852">mipangilio</translation>
-<translation id="663059986967017181">Imenakiliwa kwenye Brave</translation>
-<translation id="1457432835062259213">Kizinduzi cha Programu ya Brave</translation>
-<translation id="82609232232243542">Ingia katika Brave</translation>
-<translation id="2924628237198507508">Unapaswa kuwa umeingia katika akaunti ya Brave ili utumie programu hizi. Hii inaruhusu Brave kusawazisha programu, alamisho, historia, manenosiri yako, na mipangilio mingine katika vifaa vyote.</translation>
-<translation id="380197516434040304">Ondoa Kwenye Brave...</translation>
-<translation id="300669147395456190">Programu za Brave</translation>
-<translation id="3421950102518690868"><ph name="DOMAIN"/> huhitaji usome na ukubali Sheria na Masharti yafuatayo kabla ya kutumia kifaa hiki. Masharti haya hayapanui, kurekebisha au kupunguza Masharti ya Brave OS.</translation>
-<translation id="3293668930608086049">Brave inatumia kamera na maikrofoni yako.</translation>
-<translation id="8919461291440820124">Brave inatumia maikrofoni yako.</translation>
-<translation id="3205074487970075628">Brave inatumia kamera yako.</translation>
-<translation id="8142245354207161805">Wasifu unaonekana kuwa unatumika na mchakato mwingine wa Brave (<ph name="PROCESS_ID"/>) kwenye kompyuta nyingine (<ph name="HOST_NAME"/>). Brave imefunga wasifu huu ili usifisidiwe. Kama una uhakika hakuna michakato mingine inatumia wasifu huu, unaweza kufungua wasifu na uzindue tena Brave.</translation>
-<translation id="239760341987199724">Weka Brave kuwa kivinjari chako chaguomsingi</translation>
-<translation id="669092380621816981">Data ya kuvinjari ya mtu huyu itafutwa kwenye kifaa hiki. Ili kurejesha data, ingia katika Brave ukitumia <ph name="USER_EMAIL"/>.</translation>
-<translation id="2827121003398607864">Brave imeboreshwa</translation>
-<translation id="7192666605334070839">Sasa ni rahisi zaidi kutumia Brave pamoja na Akaunti yako ya Brave Software na kwenye kompyuta zinazoshirikiwa.</translation>
-<translation id="3511996232906761537">Wavuti, alamisho, na mambo yako mengine ya Brave yanapatikana hapa.</translation>
-<translation id="7406627712452599344">Walioalikwa wanaweza kutumia Brave bila kuacha kitu chochote nyuma.</translation>
-<translation id="5659384504794665581">Kama unatumia kompyuta pamoja na wengine, marafiki na familia wanaweza kuvinjari tofauti na kusanidi Brave jinsi wapendavyo.</translation>
-<translation id="7130675370997202556">Bofya jina lako ili ufungue Brave na uanze kuvinjari.</translation>
-<translation id="5952898964075639679">Jiongeze kwenye Brave</translation>
-<translation id="3813272600615358652">Kiendelezi hiki kimebadilisha ukurasa unaoonyeshwa unapoanzisha Brave.</translation>
-<translation id="2576129394594491151">Kiendelezi hiki "<ph name="EXTENSION_NAME"/>" kimebadilisha ukurasa unaoonyeshwa unapoanzisha Brave.</translation>
-<translation id="2675662665675552980">Pia inadhibiti ukurasa unaoonyeshwa unapoanzisha Brave.</translation>
-<translation id="3215652305414474626">Pia inadhibiti ukurasa unaoonyeshwa unapoanzisha Brave au unapobofya kitufe cha Mwanzo.</translation>
-<translation id="2433912322225810055">Pia inadhibiti ukurasa unaoonyeshwa unapoanzisha Brave au unapotafuta kutoka Sanduku Kuu.</translation>
-<translation id="2871190378186459992">Gundua programu, michezo, viendelezi na mandhari bora ya Brave.</translation>
-<translation id="3350544518197210895">Brave (mDNS-In)</translation>
-<translation id="1912973375560256099">Sheria ya ndani ya Brave ili kuruhusu trafiki ya mDNS.</translation>
-<translation id="8207657266087451193">Ikiwa picha haina ufafanuzi muhimu, Brave itajaribu kukuwekea. Ili kuweka ufafanuzi, tutatuma picha kwa Brave Software. Unaweza kuzima mipangilio hii wakati wowote.</translation>
-<translation id="5499063270485366718">Ikiwa picha haina ufafanuzi muhimu, Brave itajaribu kukuwekea. Ili kuweka ufafanuzi, tutatuma picha kwa Brave Software.</translation>
-<translation id="215320507915280336">Huduma hii hutumia kikagua maendelezo sawa na kinachotumika kwenye Huduma ya Tafuta na Brave Software. Maandishi unayoandika kwenye kivinjari yanatumwa kwa Brave Software. Unaweza kubadilisha hali hii katika mipangilio wakati wowote.</translation>
-<translation id="1807774211756215222">Fungua kiungo katika kichupo kipya cha Brave</translation>
-<translation id="4624945300945265642">Fungua kiungo katika dirisha fiche la Brave</translation>
-<translation id="7863882214613921971">Fungua Kiungo katika kichupo kipya cha Brave</translation>
-<translation id="6554952862405000915">Fungua Kiungo katika Dirisha Fiche la Brave</translation>
-<translation id="4805806622840861220">Zindua upya Brave</translation>
-<translation id="2560046583427795596">Sasisho jipya la Brave linapatikana na litaanza kutumika pindi utakapofungua tena.</translation>
+<translation id="663059986967017181">Imenakiliwa kwenye The Hive</translation>
+<translation id="1457432835062259213">Kizinduzi cha Programu ya The Hive</translation>
+<translation id="82609232232243542">Ingia katika The Hive</translation>
+<translation id="2924628237198507508">Unapaswa kuwa umeingia katika akaunti ya The Hive ili utumie programu hizi. Hii inaruhusu The Hive kusawazisha programu, alamisho, historia, manenosiri yako, na mipangilio mingine katika vifaa vyote.</translation>
+<translation id="380197516434040304">Ondoa Kwenye The Hive...</translation>
+<translation id="300669147395456190">Programu za The Hive</translation>
+<translation id="3421950102518690868"><ph name="DOMAIN"/> huhitaji usome na ukubali Sheria na Masharti yafuatayo kabla ya kutumia kifaa hiki. Masharti haya hayapanui, kurekebisha au kupunguza Masharti ya The Hive OS.</translation>
+<translation id="3293668930608086049">The Hive inatumia kamera na maikrofoni yako.</translation>
+<translation id="8919461291440820124">The Hive inatumia maikrofoni yako.</translation>
+<translation id="3205074487970075628">The Hive inatumia kamera yako.</translation>
+<translation id="8142245354207161805">Wasifu unaonekana kuwa unatumika na mchakato mwingine wa The Hive (<ph name="PROCESS_ID"/>) kwenye kompyuta nyingine (<ph name="HOST_NAME"/>). The Hive imefunga wasifu huu ili usifisidiwe. Kama una uhakika hakuna michakato mingine inatumia wasifu huu, unaweza kufungua wasifu na uzindue tena The Hive.</translation>
+<translation id="239760341987199724">Weka The Hive kuwa kivinjari chako chaguomsingi</translation>
+<translation id="669092380621816981">Data ya kuvinjari ya mtu huyu itafutwa kwenye kifaa hiki. Ili kurejesha data, ingia katika The Hive ukitumia <ph name="USER_EMAIL"/>.</translation>
+<translation id="2827121003398607864">The Hive imeboreshwa</translation>
+<translation id="7192666605334070839">Sasa ni rahisi zaidi kutumia The Hive pamoja na Akaunti yako ya The Hive Software na kwenye kompyuta zinazoshirikiwa.</translation>
+<translation id="3511996232906761537">Wavuti, alamisho, na mambo yako mengine ya The Hive yanapatikana hapa.</translation>
+<translation id="7406627712452599344">Walioalikwa wanaweza kutumia The Hive bila kuacha kitu chochote nyuma.</translation>
+<translation id="5659384504794665581">Kama unatumia kompyuta pamoja na wengine, marafiki na familia wanaweza kuvinjari tofauti na kusanidi The Hive jinsi wapendavyo.</translation>
+<translation id="7130675370997202556">Bofya jina lako ili ufungue The Hive na uanze kuvinjari.</translation>
+<translation id="5952898964075639679">Jiongeze kwenye The Hive</translation>
+<translation id="3813272600615358652">Kiendelezi hiki kimebadilisha ukurasa unaoonyeshwa unapoanzisha The Hive.</translation>
+<translation id="2576129394594491151">Kiendelezi hiki "<ph name="EXTENSION_NAME"/>" kimebadilisha ukurasa unaoonyeshwa unapoanzisha The Hive.</translation>
+<translation id="2675662665675552980">Pia inadhibiti ukurasa unaoonyeshwa unapoanzisha The Hive.</translation>
+<translation id="3215652305414474626">Pia inadhibiti ukurasa unaoonyeshwa unapoanzisha The Hive au unapobofya kitufe cha Mwanzo.</translation>
+<translation id="2433912322225810055">Pia inadhibiti ukurasa unaoonyeshwa unapoanzisha The Hive au unapotafuta kutoka Sanduku Kuu.</translation>
+<translation id="2871190378186459992">Gundua programu, michezo, viendelezi na mandhari bora ya The Hive.</translation>
+<translation id="3350544518197210895">The Hive (mDNS-In)</translation>
+<translation id="1912973375560256099">Sheria ya ndani ya The Hive ili kuruhusu trafiki ya mDNS.</translation>
+<translation id="8207657266087451193">Ikiwa picha haina ufafanuzi muhimu, The Hive itajaribu kukuwekea. Ili kuweka ufafanuzi, tutatuma picha kwa The Hive Software. Unaweza kuzima mipangilio hii wakati wowote.</translation>
+<translation id="5499063270485366718">Ikiwa picha haina ufafanuzi muhimu, The Hive itajaribu kukuwekea. Ili kuweka ufafanuzi, tutatuma picha kwa The Hive Software.</translation>
+<translation id="215320507915280336">Huduma hii hutumia kikagua maendelezo sawa na kinachotumika kwenye Huduma ya Tafuta na The Hive Software. Maandishi unayoandika kwenye kivinjari yanatumwa kwa The Hive Software. Unaweza kubadilisha hali hii katika mipangilio wakati wowote.</translation>
+<translation id="1807774211756215222">Fungua kiungo katika kichupo kipya cha The Hive</translation>
+<translation id="4624945300945265642">Fungua kiungo katika dirisha fiche la The Hive</translation>
+<translation id="7863882214613921971">Fungua Kiungo katika kichupo kipya cha The Hive</translation>
+<translation id="6554952862405000915">Fungua Kiungo katika Dirisha Fiche la The Hive</translation>
+<translation id="4805806622840861220">Zindua upya The Hive</translation>
+<translation id="2560046583427795596">Sasisho jipya la The Hive linapatikana na litaanza kutumika pindi utakapofungua tena.</translation>
 <translation id="2799223571221894425">Funga na ufungue</translation>
-<translation id="2522086024276534909">Zima kisha uwashe mfumo wa uendeshaji wa Brave</translation>
-<translation id="8183252473547465084">Mfumo wa Uendeshaji wa Brave unahitaji kuzimwa na kuwashwa ili kutumia sasisho.</translation>
+<translation id="2522086024276534909">Zima kisha uwashe mfumo wa uendeshaji wa The Hive</translation>
+<translation id="8183252473547465084">Mfumo wa Uendeshaji wa The Hive unahitaji kuzimwa na kuwashwa ili kutumia sasisho.</translation>
 <translation id="5895138241574237353">Zzima na uwashe</translation>
-<translation id="8887390605192156061">Funga nakala zote za Brave.</translation>
-<translation id="1801551749768408825">Nakala nyingine za Brave zinatumika. Zifunge ili usasishe.</translation>
-<translation id="2632141563911437138">Ili usasishe, unahitaji kuacha kutumia Brave kwenye kompyuta hii. Hali hii inaweza kusababisha watumiaji wengine walioingia katika akaunti kwenye kompyuta hii kupoteza mabadiliko ambayo hawajahifadhi.</translation>
-<translation id="5875673934455379806">Sakinisha Brave Upya</translation>
-<translation id="2097604701283463988">Brave Imepitwa na Wakati</translation>
-<translation id="5173820533850252773">Brave imepitwa na wakati</translation>
-<translation id="6389268239133412586">Imeshindwa kusasisha Brave</translation>
-<translation id="7963515534397191222">Brave imeshindwa kusasisha toleo jipya, kwa hivyo hutapata masasisho ya usalama na vipengele vipya.</translation>
-<translation id="1705567146636171298">Sasisha Brave</translation>
-<translation id="3598551856834560515">Sasisha Brave ili uanze kusawazisha</translation>
+<translation id="8887390605192156061">Funga nakala zote za The Hive.</translation>
+<translation id="1801551749768408825">Nakala nyingine za The Hive zinatumika. Zifunge ili usasishe.</translation>
+<translation id="2632141563911437138">Ili usasishe, unahitaji kuacha kutumia The Hive kwenye kompyuta hii. Hali hii inaweza kusababisha watumiaji wengine walioingia katika akaunti kwenye kompyuta hii kupoteza mabadiliko ambayo hawajahifadhi.</translation>
+<translation id="5875673934455379806">Sakinisha The Hive Upya</translation>
+<translation id="2097604701283463988">The Hive Imepitwa na Wakati</translation>
+<translation id="5173820533850252773">The Hive imepitwa na wakati</translation>
+<translation id="6389268239133412586">Imeshindwa kusasisha The Hive</translation>
+<translation id="7963515534397191222">The Hive imeshindwa kusasisha toleo jipya, kwa hivyo hutapata masasisho ya usalama na vipengele vipya.</translation>
+<translation id="1705567146636171298">Sasisha The Hive</translation>
+<translation id="3598551856834560515">Sasisha The Hive ili uanze kusawazisha</translation>
 <translation id="4050175100176540509">Maboresho muhimu ya usalama na vipengele vipya vinapatikana katika toleo jipya.</translation>
-<translation id="2513524988380267210">{SECONDS,plural, =1{Brave itazimika na kuwaka tena baada ya sekunde 1}other{Brave itazimika na kuwaka tena baada ya sekunde #}}</translation>
-<translation id="5646769069113654257">Tafadhali zima kisha uwashe Brave sasa</translation>
-<translation id="8668413672647811944">Sasisho maalum la usalama wa Brave limewekwa sasa hivi. Ifunge kisha uifungue na tutarejesha vichupo vyako.</translation>
-<translation id="763369711159699222">Saidia ili kuiboresha Brave</translation>
-<translation id="1156940037717341650">Unaweza kusaidia kuifanya Brave salama na rahisi zaidi kutumia kwa kuripoti maelezo ya uwezekano wa matukio yasiyo salama kwa Brave Software kiotomatiki.</translation>
-<translation id="6791166902140255175">Kichupo cha Brave</translation>
-<translation id="2555639463117073782">Zima na uwashe Brave tena ili uwashe <ph name="PLUGIN_NAME"/></translation>
-<translation id="8899693649891674038">Sakinisha Brave kwenye simu yako. Tutatuma SMS kwenye simu yako.</translation>
-<translation id="1570795130102031380">Sakinisha Brave kwenye simu yako. Tutatuma SMS kwenye nambari yako ya simu: <ph name="PHONE_NUMBER"/></translation>
-<translation id="1609678321160597289">Sakinisha Brave kwenye simu yako. Tutatuma SMS kwenye nambari yako ya simu ya mbinu za kurejesha uwezo wa kufikia akaunti.</translation>
-<translation id="2965084188004448871">Sakinisha Brave kwenye simu yako. Tutatuma SMS kwenye nambari yako ya simu ya mbinu za kurejesha uwezo wa kufikia akaunti: <ph name="PHONE_NUMBER"/></translation>
-<translation id="8358191771897395012">pata Brave kwenye iPhone yako</translation>
-<translation id="2034072705932785495">Brave inahitaji ruhusa ya kufikia kamera yako katika tovuti hii</translation>
-<translation id="3335606533094650083">Brave inahitaji ruhusa ya kufikia maikrofoni yako katika tovuti hii</translation>
-<translation id="4831743161813926460">Brave inahitaji ruhusa ya kufikia kamera na maikrofoni yako katika tovuti hii</translation>
-<translation id="696826782632239602">Brave inahitaji kufikia maelezo ya mahali ulipo ili kushiriki mahali ulipo na tovuti hii</translation>
-<translation id="7798069806040634998">Brave inahitaji ruhusa ya kufikia hifadhi ili ipakue faili</translation>
-<translation id="7685904775439037072">Brave itakapopata idhini, tovuti zitaweza kukuomba idhini ya kufikia.</translation>
-<translation id="5805364706385912897">Ukurasa huu unatumia hifadhi kubwa zaidi, kwa hivyo Brave imeusitisha.</translation>
-<translation id="5138664332909611586">Ukurasa huu unatumia hifadhi kubwa mno, hivyo basi Brave imeondoa baadhi ya maudhui.</translation>
-<translation id="1744365871163268756">Tafadhali subiri Brave inaposakinisha sasisho mpya ya mfumo.</translation>
-<translation id="5693614905241031118">Brave husasisha kiotomatiki, kwa hivyo, utakuwa na toleo jipya zaidi wakati wowote.</translation>
-<translation id="6141293433381251973">Brave husasisha kiotomatiki ili uwe na toleo jipya zaidi wakati wowote. Upakuaji huu unapokamilika, Brave itajizima na kuwaka tena na utaanza kutumia.</translation>
-<translation id="7808415789955822133">Masharti ya Brave OS</translation>
-<translation id="7207456302801184289">Karibu kwenye Brave</translation>
-<translation id="3507835409099344374">Nenda kwenye mipangilio ya arifa ya Brave</translation>
-<translation id="1026406809507858026">{0,plural, =0{Sasisho la Brave linapatikana}=1{Sasisho la Brave linapatikana}other{Sasisho la Brave limekuwepo kwa siku #}}</translation>
-<translation id="720532315408041257">Msimamizi wako anakuomba uwashe Brave upya ili utumie sasisho</translation>
-<translation id="5337999052834672687">{0,plural, =1{Fungua Brave upya ndani ya siku moja}other{Fungua Brave upya ndani ya siku #}}</translation>
-<translation id="310518206836658214">{0,plural, =1{Brave itafunguka upya ndani ya saa moja}other{Brave itafunguka upya ndani ya saa #}}</translation>
-<translation id="3186363903915641692">{0,plural, =1{Brave itafunguka upya ndani ya dakika 1}other{Brave itafunguka upya ndani ya dakika #}}</translation>
-<translation id="3574823187131579180">{0,plural, =0{Brave itafunguka upya hivi sasa}=1{Brave itafunguka upya ndani ya sekunde 1}other{Brave itafunguka upya ndani ya sekunde #}}</translation>
-<translation id="7595187113648413294">Msimamizi wako anakushauri uwashe Brave upya ili utumie sasisho</translation>
-<translation id="3052349005266761501">Inaanzisha Brave...</translation>
-<translation id="1197672524850678392">Imeshindwa kuanzisha Brave. Jaribu tena.</translation>
+<translation id="2513524988380267210">{SECONDS,plural, =1{The Hive itazimika na kuwaka tena baada ya sekunde 1}other{The Hive itazimika na kuwaka tena baada ya sekunde #}}</translation>
+<translation id="5646769069113654257">Tafadhali zima kisha uwashe The Hive sasa</translation>
+<translation id="8668413672647811944">Sasisho maalum la usalama wa The Hive limewekwa sasa hivi. Ifunge kisha uifungue na tutarejesha vichupo vyako.</translation>
+<translation id="763369711159699222">Saidia ili kuiboresha The Hive</translation>
+<translation id="1156940037717341650">Unaweza kusaidia kuifanya The Hive salama na rahisi zaidi kutumia kwa kuripoti maelezo ya uwezekano wa matukio yasiyo salama kwa The Hive Software kiotomatiki.</translation>
+<translation id="6791166902140255175">Kichupo cha The Hive</translation>
+<translation id="2555639463117073782">Zima na uwashe The Hive tena ili uwashe <ph name="PLUGIN_NAME"/></translation>
+<translation id="8899693649891674038">Sakinisha The Hive kwenye simu yako. Tutatuma SMS kwenye simu yako.</translation>
+<translation id="1570795130102031380">Sakinisha The Hive kwenye simu yako. Tutatuma SMS kwenye nambari yako ya simu: <ph name="PHONE_NUMBER"/></translation>
+<translation id="1609678321160597289">Sakinisha The Hive kwenye simu yako. Tutatuma SMS kwenye nambari yako ya simu ya mbinu za kurejesha uwezo wa kufikia akaunti.</translation>
+<translation id="2965084188004448871">Sakinisha The Hive kwenye simu yako. Tutatuma SMS kwenye nambari yako ya simu ya mbinu za kurejesha uwezo wa kufikia akaunti: <ph name="PHONE_NUMBER"/></translation>
+<translation id="8358191771897395012">pata The Hive kwenye iPhone yako</translation>
+<translation id="2034072705932785495">The Hive inahitaji ruhusa ya kufikia kamera yako katika tovuti hii</translation>
+<translation id="3335606533094650083">The Hive inahitaji ruhusa ya kufikia maikrofoni yako katika tovuti hii</translation>
+<translation id="4831743161813926460">The Hive inahitaji ruhusa ya kufikia kamera na maikrofoni yako katika tovuti hii</translation>
+<translation id="696826782632239602">The Hive inahitaji kufikia maelezo ya mahali ulipo ili kushiriki mahali ulipo na tovuti hii</translation>
+<translation id="7798069806040634998">The Hive inahitaji ruhusa ya kufikia hifadhi ili ipakue faili</translation>
+<translation id="7685904775439037072">The Hive itakapopata idhini, tovuti zitaweza kukuomba idhini ya kufikia.</translation>
+<translation id="5805364706385912897">Ukurasa huu unatumia hifadhi kubwa zaidi, kwa hivyo The Hive imeusitisha.</translation>
+<translation id="5138664332909611586">Ukurasa huu unatumia hifadhi kubwa mno, hivyo basi The Hive imeondoa baadhi ya maudhui.</translation>
+<translation id="1744365871163268756">Tafadhali subiri The Hive inaposakinisha sasisho mpya ya mfumo.</translation>
+<translation id="5693614905241031118">The Hive husasisha kiotomatiki, kwa hivyo, utakuwa na toleo jipya zaidi wakati wowote.</translation>
+<translation id="6141293433381251973">The Hive husasisha kiotomatiki ili uwe na toleo jipya zaidi wakati wowote. Upakuaji huu unapokamilika, The Hive itajizima na kuwaka tena na utaanza kutumia.</translation>
+<translation id="7808415789955822133">Masharti ya The Hive OS</translation>
+<translation id="7207456302801184289">Karibu kwenye The Hive</translation>
+<translation id="3507835409099344374">Nenda kwenye mipangilio ya arifa ya The Hive</translation>
+<translation id="1026406809507858026">{0,plural, =0{Sasisho la The Hive linapatikana}=1{Sasisho la The Hive linapatikana}other{Sasisho la The Hive limekuwepo kwa siku #}}</translation>
+<translation id="720532315408041257">Msimamizi wako anakuomba uwashe The Hive upya ili utumie sasisho</translation>
+<translation id="5337999052834672687">{0,plural, =1{Fungua The Hive upya ndani ya siku moja}other{Fungua The Hive upya ndani ya siku #}}</translation>
+<translation id="310518206836658214">{0,plural, =1{The Hive itafunguka upya ndani ya saa moja}other{The Hive itafunguka upya ndani ya saa #}}</translation>
+<translation id="3186363903915641692">{0,plural, =1{The Hive itafunguka upya ndani ya dakika 1}other{The Hive itafunguka upya ndani ya dakika #}}</translation>
+<translation id="3574823187131579180">{0,plural, =0{The Hive itafunguka upya hivi sasa}=1{The Hive itafunguka upya ndani ya sekunde 1}other{The Hive itafunguka upya ndani ya sekunde #}}</translation>
+<translation id="7595187113648413294">Msimamizi wako anakushauri uwashe The Hive upya ili utumie sasisho</translation>
+<translation id="3052349005266761501">Inaanzisha The Hive...</translation>
+<translation id="1197672524850678392">Imeshindwa kuanzisha The Hive. Jaribu tena.</translation>
 <translation id="6040143037577758943">Funga</translation>
-<translation id="5147525139567260139">Shiriki kichupo cha Brave</translation>
-<translation id="8541922081612557424">Kuhusu Brave</translation>
-<translation id="3262506503470845422">Pata usaidizi wa kutumia Brave</translation>
-<translation id="1864557848095568223">Inasasisha Brave</translation>
-<translation id="1786715389543715322">Inasasisha Brave (<ph name="PROGRESS_PERCENT"/>)</translation>
-<translation id="8208853227947884571">Brave imesasishwa</translation>
-<translation id="6756417787837743699">Ili upate maelezo kuhusu Mfumo wa Uendeshaji wa Brave, tafadhali angalia <ph name="LINK_BEGIN"/>
-      Kuhusu Mfumo wa Uendeshaji wa Brave<ph name="LINK_END"/></translation>
-<translation id="6686872257969654608">Kuhusu Brave OS</translation>
-<translation id="2280363356796735201">Pata usaidizi wa kutumia mfumo wa uendeshaji wa Brave</translation>
-<translation id="38898988211673781">Futa vidakuzi na data ya tovuti unapofunga Brave</translation>
-<translation id="5253815230176279256">Brave Software Pay (imenakiliwa kwenye Brave)</translation>
-<translation id="5468853758063275923">Brave ni kivinjari chako chaguomsingi</translation>
-<translation id="1775322105159056176">Brave haijafaulu kubainisha wala kuweka kivinjari chaguomsingi</translation>
-<translation id="6915252145142862992">Huu ni usakinishaji wa pili wa Brave, na haiwezi kufanywa kuwa kivinjari chako chaguomsingi.</translation>
+<translation id="5147525139567260139">Shiriki kichupo cha The Hive</translation>
+<translation id="8541922081612557424">Kuhusu The Hive</translation>
+<translation id="3262506503470845422">Pata usaidizi wa kutumia The Hive</translation>
+<translation id="1864557848095568223">Inasasisha The Hive</translation>
+<translation id="1786715389543715322">Inasasisha The Hive (<ph name="PROGRESS_PERCENT"/>)</translation>
+<translation id="8208853227947884571">The Hive imesasishwa</translation>
+<translation id="6756417787837743699">Ili upate maelezo kuhusu Mfumo wa Uendeshaji wa The Hive, tafadhali angalia <ph name="LINK_BEGIN"/>
+      Kuhusu Mfumo wa Uendeshaji wa The Hive<ph name="LINK_END"/></translation>
+<translation id="6686872257969654608">Kuhusu The Hive OS</translation>
+<translation id="2280363356796735201">Pata usaidizi wa kutumia mfumo wa uendeshaji wa The Hive</translation>
+<translation id="38898988211673781">Futa vidakuzi na data ya tovuti unapofunga The Hive</translation>
+<translation id="5253815230176279256">The Hive Software Pay (imenakiliwa kwenye The Hive)</translation>
+<translation id="5468853758063275923">The Hive ni kivinjari chako chaguomsingi</translation>
+<translation id="1775322105159056176">The Hive haijafaulu kubainisha wala kuweka kivinjari chaguomsingi</translation>
+<translation id="6915252145142862992">Huu ni usakinishaji wa pili wa The Hive, na haiwezi kufanywa kuwa kivinjari chako chaguomsingi.</translation>
 <translation id="6235873178214143377">Ikiwa mipangilio haionekani katika ukurasa huu, angalia katika <ph name="LINK_BEGIN"/>
-      mipangilio ya kivinjari kwenye Brave<ph name="LINK_END"/></translation>
+      mipangilio ya kivinjari kwenye The Hive<ph name="LINK_END"/></translation>
 <translation id="4459296183696059108">Ikiwa mipangilio haionekani kwenye ukurasa huu, angalia katika.<ph name="LINK_BEGIN"/>
-      mipangilio ya mfumo wa uendeshaji wa Brave<ph name="LINK_END"/></translation>
-<translation id="7977435741986383568">Brave inaweza kutumia huduma za wavuti kuboresha hali yako ya kuvinjari. Unaweza kuzima huduma hizi kwa hiari. <ph name="BEGIN_LINK"/>Pata maelezo zaidi<ph name="END_LINK"/></translation>
-<translation id="2312399718665761438">Ili kurekebisha makosa ya tahajia, Brave hutuma maandishi unayoandika kwenye sehemu za maandishi kwa Brave Software</translation>
-<translation id="8586264863973514035">Ili utumie mabadiliko uliyofanya, fungua Brave upya</translation>
-<translation id="7021823858304886493">Ruhusu kuingia katika akaunti ya Brave</translation>
-<translation id="1649714546770135458">Kwa kuzima kipengele hiki, unaweza kuingia katika tovuti za Brave Software kama vile Gmail bila kuingia katika akaunti ya Brave</translation>
-<translation id="9220324636239049437">Hatua hii itafuta kipengee 1 kwenye kifaa hiki. Ili urejeshe data yako baadaye, ingia katika Brave ukitumia <ph name="USER_EMAIL"/>.</translation>
-<translation id="5853262807109651878">Hatua hii itafuta vipengee <ph name="ITEMS_COUNT"/> kwenye kifaa hiki. Ili urejeshe data yako baadaye, ingia katika Brave ukitumia <ph name="USER_EMAIL"/>.</translation>
-<translation id="4784414698887946907">Hatua hii itafuta data yako ya kuvinjari kwenye kifaa hiki. Ili urejeshe data yako baadaye, ingia katika Brave ukitumia <ph name="USER_EMAIL"/>.</translation>
-<translation id="4518479204315969707">Jina na picha kwenye Brave</translation>
-<translation id="8372880274820509128">Kwa usalama ulioongezwa, Brave itasimba data yako kwa njia fiche.</translation>
-<translation id="7445061995866044926">Ungependa kuondoka kwenye Brave?</translation>
-<translation id="7453070689008684791">Brave itafikia Hifadhi yako ili itoe mapendekezo kwenye sehemu ya anwani</translation>
-<translation id="3360368475735266712">Ingia katika akaunti ili usawazishe na uweke mapendeleo kwenye Brave katika vifaa vyako vyote</translation>
-<translation id="5757460455745382269">Lugha hii inatumiwa kuonyesha Kiolesura cha Brave</translation>
-<translation id="2335583906071111058">Onyesha Brave katika lugha hii</translation>
-<translation id="8926637909431618259">Endelea kuendesha programu za mandharinyuma wakati Brave imefungwa</translation>
-<translation id="6056473803837713617">Saidia kuboresha Brave kwa kuripoti kuhusu <ph name="BEGIN_LINK"/>mipangilio ya sasa<ph name="END_LINK"/></translation>
+      mipangilio ya mfumo wa uendeshaji wa The Hive<ph name="LINK_END"/></translation>
+<translation id="7977435741986383568">The Hive inaweza kutumia huduma za wavuti kuboresha hali yako ya kuvinjari. Unaweza kuzima huduma hizi kwa hiari. <ph name="BEGIN_LINK"/>Pata maelezo zaidi<ph name="END_LINK"/></translation>
+<translation id="2312399718665761438">Ili kurekebisha makosa ya tahajia, The Hive hutuma maandishi unayoandika kwenye sehemu za maandishi kwa The Hive Software</translation>
+<translation id="8586264863973514035">Ili utumie mabadiliko uliyofanya, fungua The Hive upya</translation>
+<translation id="7021823858304886493">Ruhusu kuingia katika akaunti ya The Hive</translation>
+<translation id="1649714546770135458">Kwa kuzima kipengele hiki, unaweza kuingia katika tovuti za The Hive Software kama vile Gmail bila kuingia katika akaunti ya The Hive</translation>
+<translation id="9220324636239049437">Hatua hii itafuta kipengee 1 kwenye kifaa hiki. Ili urejeshe data yako baadaye, ingia katika The Hive ukitumia <ph name="USER_EMAIL"/>.</translation>
+<translation id="5853262807109651878">Hatua hii itafuta vipengee <ph name="ITEMS_COUNT"/> kwenye kifaa hiki. Ili urejeshe data yako baadaye, ingia katika The Hive ukitumia <ph name="USER_EMAIL"/>.</translation>
+<translation id="4784414698887946907">Hatua hii itafuta data yako ya kuvinjari kwenye kifaa hiki. Ili urejeshe data yako baadaye, ingia katika The Hive ukitumia <ph name="USER_EMAIL"/>.</translation>
+<translation id="4518479204315969707">Jina na picha kwenye The Hive</translation>
+<translation id="8372880274820509128">Kwa usalama ulioongezwa, The Hive itasimba data yako kwa njia fiche.</translation>
+<translation id="7445061995866044926">Ungependa kuondoka kwenye The Hive?</translation>
+<translation id="7453070689008684791">The Hive itafikia Hifadhi yako ili itoe mapendekezo kwenye sehemu ya anwani</translation>
+<translation id="3360368475735266712">Ingia katika akaunti ili usawazishe na uweke mapendeleo kwenye The Hive katika vifaa vyako vyote</translation>
+<translation id="5757460455745382269">Lugha hii inatumiwa kuonyesha Kiolesura cha The Hive</translation>
+<translation id="2335583906071111058">Onyesha The Hive katika lugha hii</translation>
+<translation id="8926637909431618259">Endelea kuendesha programu za mandharinyuma wakati The Hive imefungwa</translation>
+<translation id="6056473803837713617">Saidia kuboresha The Hive kwa kuripoti kuhusu <ph name="BEGIN_LINK"/>mipangilio ya sasa<ph name="END_LINK"/></translation>
 </translationbundle>

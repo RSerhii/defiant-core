@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="am">
-<translation id="3333887201479867589">ናይ Brave ሽልማታት</translation>
+<translation id="3333887201479867589">ናይ The Hive ሽልማታት</translation>
 <translation id="7942180974165298215">ብሬቭ ኣድ ብሎክ</translation>
 <translation id="6406506848690869874">አመሳስል</translation>
 <translation id="5655621391922317800">Crypto ዋሌቶች</translation>
@@ -34,12 +34,12 @@
 <translation id="3218385319396786393">በዚህ ገፅ ላይ አውቶፕለይ ይከላከሉ</translation>
 <translation id="4988333904713528597"><ph name="HOST"/> ላይ በራስ መጫወቱን ሁልግዜም ፍቀድ;</translation>
 <translation id="4150684676757176434">አውቶለይ መከላከሉን ይቀጥል</translation>
-<translation id="5883458389055721080">Brave የዚህን ቅጥያ ደህንነትና አስተማማኝነት አላጣራም። ይህን ቅጥያ መጫን ያለብህ አዘጋጁን የምታምነው ከሆነ ብቻ ነው።</translation>
+<translation id="5883458389055721080">The Hive የዚህን ቅጥያ ደህንነትና አስተማማኝነት አላጣራም። ይህን ቅጥያ መጫን ያለብህ አዘጋጁን የምታምነው ከሆነ ብቻ ነው።</translation>
 <translation id="8081858229109418493">የገጽ ስም እና አዶ</translation>
 <translation id="2044383478723007273">የብሬቭ ቀለም</translation>
 <translation id="2814998458708016836">ሰፊ የአድራሻ አሞሌን ተጠቀም</translation>
-<translation id="6123134130710658846">የ Brave Rewards መምረጫ ቁልፍ ደብቅ</translation>
-<translation id="7635711399568194460">Brave Rewards  ካልበራ በአድራሻው አሞሌ ላይ ያለው የ Brave Rewards መጫኛ ይደበቃል።</translation>
+<translation id="6123134130710658846">የ The Hive Rewards መምረጫ ቁልፍ ደብቅ</translation>
+<translation id="7635711399568194460">The Hive Rewards  ካልበራ በአድራሻው አሞሌ ላይ ያለው የ The Hive Rewards መጫኛ ይደበቃል።</translation>
 <translation id="4262166817826183486">ምንጊዜም በአዲስ የትር ገጽ ላይ አዳዲስ ዕልባቶችን አሳይ</translation>
 <translation id="7965178729203412357">አዲስ ቶር ተለይቷል</translation>
 <translation id="8511502469534942133">ለዚህ ድረ ገጽ አዲስ የ Tor ትስስር</translation>
@@ -49,9 +49,9 @@
 <translation id="1434416574322382019">አዲስ የግል መስኮት ከቶር ጋር</translation>
 <translation id="4703780849509456860">ሊንኩን በግል መስኮትዎ ከቶር ጋር ይክፈቱ</translation>
 <translation id="3488584642074079080">ሊንኩን በብሬቭ የግል መስኮት ከቶር ጋር ይክፈቱ</translation>
-<translation id="6313675821927505581">አዲስ የግል መስኮት በ Brave</translation>
+<translation id="6313675821927505581">አዲስ የግል መስኮት በ The Hive</translation>
 <translation id="2638041073279639246">Torን በመጠቀም ሊንኩን በግል መስኮት ይክፈቱ።</translation>
-<translation id="3425600262621021599">Torን በመጠቀም ሊንኩን በ Brave የግል መስኮት ይክፈቱ።</translation>
+<translation id="3425600262621021599">Torን በመጠቀም ሊንኩን በ The Hive የግል መስኮት ይክፈቱ።</translation>
 <translation id="3155170474926428993">ቶር ማስጀመርያ</translation>
 <translation id="2515126961943087659">የባት የማስታወቂያ አገልግሎት</translation>
 <translation id="7924918279836988121">የBat Ledger አገልግሎት</translation>
@@ -60,7 +60,7 @@
 <translation id="6303294677342628402">መከላከያዎች</translation>
 <translation id="7133511168130368997">በድረ ገጽ ውስጥ የሚከተሉህን ተከታታዮችና ማስታወቂያዎች አግድ።</translation>
 <translation id="2761825942249694703">እነዚህ ነባሪ የጋሻ ቅንብሮች ናቸው። በአንድ የተወሰነ ድረ ገጽ ውስጥ በጋሻዎች ውስን ቦታ ውስጥ የቀየሩት ነገር ከሌለ በስተቀር በሁሉም ድረ ገጾች ላይ ተግባራዊ ይሆናሉ። እነዚህን መቀየር ነባር የድረ ገጽ ቅንብሮችዎ ላይ ተጽእኖ አያሳድርም።</translation>
-<translation id="8754605759692119662">ይህም በድረ ገጾች ላይ ያሉ አብዛኞቹን ማስታወቂያዎች እንጂ Brave የግል ማስታወቂያዎችን — አያግድም፤ እነርሱ ቁጥጥር የሚደረግባቸው</translation>
+<translation id="8754605759692119662">ይህም በድረ ገጾች ላይ ያሉ አብዛኞቹን ማስታወቂያዎች እንጂ The Hive የግል ማስታወቂያዎችን — አያግድም፤ እነርሱ ቁጥጥር የሚደረግባቸው</translation>
 <translation id="6388201778088078932">ቅንብሮች።</translation>
 <translation id="9185018653595759199">የማህበራዊ ሚዲያ እገዳ</translation>
 <translation id="7390783310074170337">ነባሪ እይታ</translation>
@@ -94,10 +94,10 @@
 <translation id="8721331068159819483">ከ macOS ጋር ተመሳሳይ</translation>
 <translation id="6786747875388722282">ቅጥያዎች</translation>
 <translation id="2896916411183256228">WebTorrent ን በመጠቀም በቀጥታ ቶረንቶችን ማሰሻ ላይ ያሳያል። ለቶረንት ፋይሎች እና ማግኔት ሊንኮች ድጋፍ ያደርጋል።</translation>
-<translation id="5554028991651120544">በ Brave ውስጥ የ Ethereum ቋት እና የ Dapp ማሰሺያን ያቀርባል።</translation>
+<translation id="5554028991651120544">በ The Hive ውስጥ የ Ethereum ቋት እና የ Dapp ማሰሺያን ያቀርባል።</translation>
 <translation id="6554397389149987360">በማሰሻው ላይ የማያ መጋራትን እና ሌሎች ባህሪያትን ለመጠቀም የ Hangouts ክፍሎችን ይጠቀሙ።</translation>
 <translation id="1765684547504191670">በማሰሺያው ውስጥ Chromecast ን ለማንቃት የሚዲያ ራውተር አካልን ተጠቀም።</translation>
-<translation id="9156965752763025780">ለውጦችዎ Brave በሚያስጀምሩበት ቀጣዩ ጊዜ ላይ ይተገበራሉ።</translation>
+<translation id="9156965752763025780">ለውጦችዎ The Hive በሚያስጀምሩበት ቀጣዩ ጊዜ ላይ ይተገበራሉ።</translation>
 <translation id="7179921470347911571">አሁን እንደገና አስጀምር</translation>
 <translation id="4154389611571860454">በአሳሽ ውስጥ IPFSን ለመደገፍ የ IPFS አጃቢ ቅጥያ ይጠቀማል።</translation>
 <translation id="8137559199583651773">ቅጥያዎችን ያስተዳድሩ</translation>
@@ -109,12 +109,12 @@
 <translation id="330263065709195164">ይህን ገጽ ለመተርጎም የጉግል ትርጉም ቅጥያ ይጫኑ?</translation>
 <translation id="3789841737615482174">ጫን</translation>
 <translation id="7658239707568436148">ሰርዝ</translation>
-<translation id="3371343170427636147">Brave የመዳሰሻ የምሽት መተግበሪያዎች</translation>
-<translation id="4097979995947147464">በ Brave የመዳሰሻ ቤታ መተግበሪያዎች ነው</translation>
-<translation id="8303432794159193481">የ Brave መዳሰሻ ማጎልበቻ መተግበሪያዎች</translation>
-<translation id="8292967014767479012">የ Brave መዳሰሻ መተግበሪያዎች</translation>
-<translation id="4743468424889072281">የ Brave መዳሰሻ ማጎልበቻ መተግበሪያዎች</translation>
-<translation id="4568409039725976900">Brave ብርቱካናማ</translation>
+<translation id="3371343170427636147">The Hive የመዳሰሻ የምሽት መተግበሪያዎች</translation>
+<translation id="4097979995947147464">በ The Hive የመዳሰሻ ቤታ መተግበሪያዎች ነው</translation>
+<translation id="8303432794159193481">የ The Hive መዳሰሻ ማጎልበቻ መተግበሪያዎች</translation>
+<translation id="8292967014767479012">የ The Hive መዳሰሻ መተግበሪያዎች</translation>
+<translation id="4743468424889072281">የ The Hive መዳሰሻ ማጎልበቻ መተግበሪያዎች</translation>
+<translation id="4568409039725976900">The Hive ብርቱካናማ</translation>
 <translation id="1197088940767939838">ብርቱካናማ</translation>
 <translation id="5901630391730855834">ቢጫ</translation>
 <translation id="6017514345406065928">አረንጓዴ</translation>
@@ -129,9 +129,9 @@
 <translation id="7184617102219850286">ሰማያዊ ስትራይፕ</translation>
 <translation id="5032225845552050824">ሐምራዊ ስትራይፖች</translation>
 <translation id="815851617499295136">ጥቋቁር ስትራይፖች</translation>
-<translation id="1872784258300710671">Brave የተወሰኑ ባህርያትን አጠቃላይ አጠቃቀም ለመገመት ሙሉ በሙሉ ግላዊ የምርት ትንተናዎችን ይጠቀማል።</translation>
+<translation id="1872784258300710671">The Hive የተወሰኑ ባህርያትን አጠቃላይ አጠቃቀም ለመገመት ሙሉ በሙሉ ግላዊ የምርት ትንተናዎችን ይጠቀማል።</translation>
 <translation id="8712637175834984815">ገባኝ</translation>
 <translation id="4394049700291259645">አሰናክል</translation>
-<translation id="6469509880167172749">የግል ውጤቶችን ትንተና ወደ Brave በራስ ሰር መንገድ ላክ</translation>
-<translation id="7090566321964540749">ይህ ስም አልባ መረጃ Brave የተወሰኑ ባህርያትን አጠቃላይ አጠቃቀም እንዲገምት ብቻ ያስችለዋል።</translation>
+<translation id="6469509880167172749">የግል ውጤቶችን ትንተና ወደ The Hive በራስ ሰር መንገድ ላክ</translation>
+<translation id="7090566321964540749">ይህ ስም አልባ መረጃ The Hive የተወሰኑ ባህርያትን አጠቃላይ አጠቃቀም እንዲገምት ብቻ ያስችለዋል።</translation>
 </translationbundle>

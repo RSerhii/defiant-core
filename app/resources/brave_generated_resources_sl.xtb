@@ -1,20 +1,20 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="sl">
-<translation id="3333887201479867589">Storitev Brave Rewards</translation>
-<translation id="7942180974165298215">Blokiranje oglasov Brave</translation>
+<translation id="3333887201479867589">Storitev The Hive Rewards</translation>
+<translation id="7942180974165298215">Blokiranje oglasov The Hive</translation>
 <translation id="6406506848690869874">Sinhronizacija</translation>
 <translation id="5655621391922317800">Kripto denarnice</translation>
 <translation id="2445484935443597917">Ustvari nov profil</translation>
 <translation id="2666990579225592931">Odpri okno načina za goste</translation>
-<translation id="120759863357279975"><ph name="EXTENSION_NAME"/> (extension ID "<ph name="EXTENSION_ID"/>") ni dovoljena v brskalniku Brave.</translation>
+<translation id="120759863357279975"><ph name="EXTENSION_NAME"/> (extension ID "<ph name="EXTENSION_ID"/>") ni dovoljena v brskalniku The Hive.</translation>
 <translation id="7450557937477381864">Zapri Chrome</translation>
 <translation id="7008934821596358692">Če želite končati uvoz, zaprite vsa okna v brskalniku Chrome.</translation>
-<translation id="5735465527556462863">Zapri Brave (staro)</translation>
-<translation id="7737066986958447692">Če želite končati uvažanje, zaprite vsa (stara) okna v brskalniku Brave.</translation>
+<translation id="5735465527556462863">Zapri The Hive (staro)</translation>
+<translation id="7737066986958447692">Če želite končati uvažanje, zaprite vsa (stara) okna v brskalniku The Hive.</translation>
 <translation id="6447842834002726250">Piškotki</translation>
 <translation id="4983925687993168579">Statistični podatki</translation>
-<translation id="6165477144235978006">Plačila Brave Payments</translation>
+<translation id="6165477144235978006">Plačila The Hive Payments</translation>
 <translation id="3489524616427966890">Odpri okna in zavihke</translation>
 <translation id="3699882589215410581">Namesti in zaženi Widevine</translation>
 <translation id="3696083746357487900">Namestite kripto denarnice</translation>
@@ -22,11 +22,11 @@
 <translation id="4726634924419692905">Vprašaj, ko želi spletno mesto namestiti Widevine na vaš računalnik</translation>
 <translation id="8053096063396012732">Namesti Widevine</translation>
 <translation id="4840334696217618631">Znova zaženite brskalnik, da omogočite Widevine</translation>
-<translation id="8410111618231938546">Google Widevine je del kode za upravljanje digitalnih pravic (DRM), ki ni v lasti družbe Brave Software in ga ne moremo pregledati. Koda Google Widevine je naložena iz strežnikov Google, ne iz naših strežnikov. Naloži se le, če omogočite to možnost. Uporabo DRM-ja odsvetujemo, a kljub temu spoštujemo izbiro uporabnika in se zavedamo, da nekateri uporabniki Brave želijo uporabljati storitve, za katere je potrebna uporaba DRM-ja.
+<translation id="8410111618231938546">Google Widevine je del kode za upravljanje digitalnih pravic (DRM), ki ni v lasti družbe The Hive Software in ga ne moremo pregledati. Koda Google Widevine je naložena iz strežnikov Google, ne iz naših strežnikov. Naloži se le, če omogočite to možnost. Uporabo DRM-ja odsvetujemo, a kljub temu spoštujemo izbiro uporabnika in se zavedamo, da nekateri uporabniki The Hive želijo uporabljati storitve, za katere je potrebna uporaba DRM-ja.
 
-Če namestite to razširitev, se strinjate s pogoji uporabe Google Widevine. S tem soglašate, da družba Brave ni odgovorna za morebitno škodo ali izgube v zvezi z vašo uporabo orodja Google Widevine.</translation>
-<translation id="6499845530162974140">Brave (staro)</translation>
-<translation id="3198814717959506569">Uvoženo iz brskalnika Brave</translation>
+Če namestite to razširitev, se strinjate s pogoji uporabe Google Widevine. S tem soglašate, da družba The Hive ni odgovorna za morebitno škodo ali izgube v zvezi z vašo uporabo orodja Google Widevine.</translation>
+<translation id="6499845530162974140">The Hive (staro)</translation>
+<translation id="3198814717959506569">Uvoženo iz brskalnika The Hive</translation>
 <translation id="453977518730680921">Samodejno predvajanje posnetkov</translation>
 <translation id="410351446219883937">Samodejno predvajanje</translation>
 <translation id="2240268017737062801">Vprašaj, če želi spletno mesto samodejno predvajati posnetek</translation>
@@ -34,12 +34,12 @@
 <translation id="3218385319396786393">Samodejno predvajanje je blokirano na tej strani</translation>
 <translation id="4988333904713528597">Vedno dovoli samodejno predvajanje na <ph name="HOST"/></translation>
 <translation id="4150684676757176434">Nadaljuj z blokiranjem samodejnega predvajanja</translation>
-<translation id="5883458389055721080">Brave ni pregledal zaščito in varnost te razširitve. To razširitev namestite samo, če razvijalcu zaupate.</translation>
+<translation id="5883458389055721080">The Hive ni pregledal zaščito in varnost te razširitve. To razširitev namestite samo, če razvijalcu zaupate.</translation>
 <translation id="8081858229109418493">Profilno ime in ikona</translation>
-<translation id="2044383478723007273">Barve brskalnika Brave</translation>
+<translation id="2044383478723007273">Barve brskalnika The Hive</translation>
 <translation id="2814998458708016836">Uporabi široko naslovno vrstico</translation>
-<translation id="6123134130710658846">Skrij gumb Brave Rewards</translation>
-<translation id="7635711399568194460">Skrije gumb Brave Rewards v vrstici z lokacijo, kadar storitev Brave Rewards ni omogočena</translation>
+<translation id="6123134130710658846">Skrij gumb The Hive Rewards</translation>
+<translation id="7635711399568194460">Skrije gumb The Hive Rewards v vrstici z lokacijo, kadar storitev The Hive Rewards ni omogočena</translation>
 <translation id="4262166817826183486">Ob odpiranju novega zavihka vedno pokaži vrstico z zaznamki</translation>
 <translation id="7965178729203412357">Nova identiteta Tor</translation>
 <translation id="8511502469534942133">Nova Tor povezava za to spletno mesto</translation>
@@ -48,10 +48,10 @@
 <translation id="3696187925156352769">Odpri okno Tor</translation>
 <translation id="1434416574322382019">Novo zasebno okno v brskalniku Tor</translation>
 <translation id="4703780849509456860">Odpri povezavo v zasebnem oknu v brskalniku Tor</translation>
-<translation id="3488584642074079080">Odpri povezavo v zasebnem oknu Brave v brskalniku Tor</translation>
+<translation id="3488584642074079080">Odpri povezavo v zasebnem oknu The Hive v brskalniku Tor</translation>
 <translation id="6313675821927505581">Novo zasebno okno z uporabo Tor</translation>
 <translation id="2638041073279639246">Odpri povezavo v zasebnem oknu z uporabo Tor</translation>
-<translation id="3425600262621021599">Odpri povezave v zasebnem oknu Brave z uporabo Tor</translation>
+<translation id="3425600262621021599">Odpri povezave v zasebnem oknu The Hive z uporabo Tor</translation>
 <translation id="3155170474926428993">Zaganjalnik brskalnika Tor</translation>
 <translation id="2515126961943087659">Storitev oglasov BAT</translation>
 <translation id="7924918279836988121">Storitev poslovne knjige Bat</translation>
@@ -60,7 +60,7 @@
 <translation id="6303294677342628402">Ščiti</translation>
 <translation id="7133511168130368997">Blokirajte sledilce in oglase, ki vas spremljajo po spletu.</translation>
 <translation id="2761825942249694703">To so privzete nastavitve Ščita. Uporabljajo se za vsa spletna mesta, razen če nekaj spremenite na plošči Ščit na določenem spletnem mestu. Če jih spremenite, to ne bo vplivalo na vaše obstoječe nastavitve za spletno mesto.</translation>
-<translation id="8754605759692119662">To bo blokiralo večino oglasov na spletnih mestih, ne pa Brave zasebnih oglasov, ki jih nadzorujejo nastavitve</translation>
+<translation id="8754605759692119662">To bo blokiralo večino oglasov na spletnih mestih, ne pa The Hive zasebnih oglasov, ki jih nadzorujejo nastavitve</translation>
 <translation id="6388201778088078932">.</translation>
 <translation id="9185018653595759199">Blokiranje družbenih medijev</translation>
 <translation id="7390783310074170337">Privzeti pogled</translation>
@@ -94,10 +94,10 @@
 <translation id="8721331068159819483">Enako kot MacOs</translation>
 <translation id="6786747875388722282">Razširitve</translation>
 <translation id="2896916411183256228">Uporablja WebTorrent za prikaz torrentov, neposredno v brskalniku. Podpira datoteke torrent in povezave magnet.</translation>
-<translation id="5554028991651120544">Brave ponuja denarnico Ethereum in brskalnik Dapp</translation>
+<translation id="5554028991651120544">The Hive ponuja denarnico Ethereum in brskalnik Dapp</translation>
 <translation id="6554397389149987360">Uporabi komponento Hangouts za omogočanje skupne rabe zaslona in drugih funkcij v brskalniku.</translation>
 <translation id="1765684547504191670">Uporablja komponento Media Router, da omogoči Chromecast v brskalniku.</translation>
-<translation id="9156965752763025780">Spremembe bodo začele veljati ob naslednjem zagonu Bravea.</translation>
+<translation id="9156965752763025780">Spremembe bodo začele veljati ob naslednjem zagonu The Hivea.</translation>
 <translation id="7179921470347911571">Znova zaženite zdaj</translation>
 <translation id="4154389611571860454">Uporablja razširitev IPFS za podporo IPFS-ja v brskalniku.</translation>
 <translation id="8137559199583651773">Upravljanje razširitev</translation>
@@ -109,12 +109,12 @@
 <translation id="330263065709195164">Želite namestiti razširitev Prevajalnik Google za prevod te strani?</translation>
 <translation id="3789841737615482174">Namesti</translation>
 <translation id="7658239707568436148">Prekliči</translation>
-<translation id="3371343170427636147">Nočne aplikacije brskalnika Brave</translation>
-<translation id="4097979995947147464">Beta aplikacije brskalnika Brave</translation>
-<translation id="8303432794159193481">Dev aplikacije brskalnika Brave</translation>
-<translation id="8292967014767479012">Aplikacije brskalnika Brave</translation>
-<translation id="4743468424889072281">Razvojne aplikacije brskalnika Brave</translation>
-<translation id="4568409039725976900">Brave Orange</translation>
+<translation id="3371343170427636147">Nočne aplikacije brskalnika The Hive</translation>
+<translation id="4097979995947147464">Beta aplikacije brskalnika The Hive</translation>
+<translation id="8303432794159193481">Dev aplikacije brskalnika The Hive</translation>
+<translation id="8292967014767479012">Aplikacije brskalnika The Hive</translation>
+<translation id="4743468424889072281">Razvojne aplikacije brskalnika The Hive</translation>
+<translation id="4568409039725976900">The Hive Orange</translation>
 <translation id="1197088940767939838">Oranžna</translation>
 <translation id="5901630391730855834">Rumena</translation>
 <translation id="6017514345406065928">Zelena</translation>
@@ -129,9 +129,9 @@
 <translation id="7184617102219850286">Modra črta</translation>
 <translation id="5032225845552050824">Vijolične črte</translation>
 <translation id="815851617499295136">Črne črte</translation>
-<translation id="1872784258300710671">Brave uporablja popolnoma zasebno analizo izdelkov za oceno splošne uporabe nekaterih funkcij</translation>
+<translation id="1872784258300710671">The Hive uporablja popolnoma zasebno analizo izdelkov za oceno splošne uporabe nekaterih funkcij</translation>
 <translation id="8712637175834984815">Razumem</translation>
 <translation id="4394049700291259645">Onemogoči</translation>
-<translation id="6469509880167172749">Samodejno pošlji popolnoma zasebno analizo izdelkov na Brave</translation>
-<translation id="7090566321964540749">Ta anonimna informacija programski opremi Brave samo omogoča, da oceni splošno uporabo nekaterih funkcij.</translation>
+<translation id="6469509880167172749">Samodejno pošlji popolnoma zasebno analizo izdelkov na The Hive</translation>
+<translation id="7090566321964540749">Ta anonimna informacija programski opremi The Hive samo omogoča, da oceni splošno uporabo nekaterih funkcij.</translation>
 </translationbundle>

@@ -1,20 +1,20 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="pl">
-<translation id="3333887201479867589">Nagrody Brave</translation>
-<translation id="7942180974165298215">Blokada reklam Brave</translation>
+<translation id="3333887201479867589">Nagrody The Hive</translation>
+<translation id="7942180974165298215">Blokada reklam The Hive</translation>
 <translation id="6406506848690869874">Synchronizacja</translation>
 <translation id="5655621391922317800">Portfele kryptowalut</translation>
 <translation id="2445484935443597917">Utwórz nowy profil</translation>
 <translation id="2666990579225592931">Otwórz okno trybu gościa</translation>
-<translation id="120759863357279975"><ph name="EXTENSION_NAME"/> (extension ID "<ph name="EXTENSION_ID"/>") - to rozszerzenie nie jest dozwolone w Brave.</translation>
+<translation id="120759863357279975"><ph name="EXTENSION_NAME"/> (extension ID "<ph name="EXTENSION_ID"/>") - to rozszerzenie nie jest dozwolone w The Hive.</translation>
 <translation id="7450557937477381864">Zamknij Chrome</translation>
 <translation id="7008934821596358692">Aby zakończyć importowanie, zamknij wszystkie okna przeglądarki Chrome.</translation>
-<translation id="5735465527556462863">Zamknij Brave (starą wersję)</translation>
-<translation id="7737066986958447692">Aby zakończyć importowanie, zamknij wszystkie okna przeglądarki Brave (starej wersji).</translation>
+<translation id="5735465527556462863">Zamknij The Hive (starą wersję)</translation>
+<translation id="7737066986958447692">Aby zakończyć importowanie, zamknij wszystkie okna przeglądarki The Hive (starej wersji).</translation>
 <translation id="6447842834002726250">Pliki cookie</translation>
 <translation id="4983925687993168579">Statystyki</translation>
-<translation id="6165477144235978006">Płatności Brave</translation>
+<translation id="6165477144235978006">Płatności The Hive</translation>
 <translation id="3489524616427966890">Otwieraj okna  i karty</translation>
 <translation id="3699882589215410581">Zainstaluj i uruchom Widevine</translation>
 <translation id="3696083746357487900">Zainstaluj portfel kryptowalut</translation>
@@ -22,11 +22,11 @@
 <translation id="4726634924419692905">Pytaj, gdy strona chce zainstalować Widevine na komputerze</translation>
 <translation id="8053096063396012732">Zainstaluj Widevine</translation>
 <translation id="4840334696217618631">Uruchom ponownie przeglądarkę, aby włączyć Widevine</translation>
-<translation id="8410111618231938546">Google Widevine to fragment kodu zarządzania prawami cyfrowymi (DRM), który nie należy do Brave Software i którego nie jesteśmy w stanie kontrolować. Kod Google Widevine wczytywany jest z serwerów Google, a nie z naszych. Jest wczytywany tylko wtedy, gdy włączysz taką opcję. Odradzamy używanie DRM, ale szanujemy wybór użytkownika i przyjmujemy do wiadomości, że niektórzy użytkownicy Brave chcą korzystać z usług, które tego wymagają.
+<translation id="8410111618231938546">Google Widevine to fragment kodu zarządzania prawami cyfrowymi (DRM), który nie należy do The Hive Software i którego nie jesteśmy w stanie kontrolować. Kod Google Widevine wczytywany jest z serwerów Google, a nie z naszych. Jest wczytywany tylko wtedy, gdy włączysz taką opcję. Odradzamy używanie DRM, ale szanujemy wybór użytkownika i przyjmujemy do wiadomości, że niektórzy użytkownicy The Hive chcą korzystać z usług, które tego wymagają.
 
-Instalując to rozszerzenie, wyrażasz zgodę na warunki świadczenia usług Google Widevine. Akceptujesz to, że Brave nie ponosi odpowiedzialności za jakiekolwiek szkody lub straty związane z używaniem Google Widevine.</translation>
-<translation id="6499845530162974140">Brave (stara wersja)</translation>
-<translation id="3198814717959506569">Zaimportowano z Brave</translation>
+Instalując to rozszerzenie, wyrażasz zgodę na warunki świadczenia usług Google Widevine. Akceptujesz to, że The Hive nie ponosi odpowiedzialności za jakiekolwiek szkody lub straty związane z używaniem Google Widevine.</translation>
+<translation id="6499845530162974140">The Hive (stara wersja)</translation>
+<translation id="3198814717959506569">Zaimportowano z The Hive</translation>
 <translation id="453977518730680921">Automatycznie odtwarzaj multimedia</translation>
 <translation id="410351446219883937">Automatyczne odtwarzanie</translation>
 <translation id="2240268017737062801">Zapytaj, kiedy strona chce odtwarzać automatycznie multimedia</translation>
@@ -34,12 +34,12 @@ Instalując to rozszerzenie, wyrażasz zgodę na warunki świadczenia usług Goo
 <translation id="3218385319396786393">Zablokowano automatyczne odtwarzanie na tej stronie</translation>
 <translation id="4988333904713528597">Zawsze zezwalaj na automatyczne odtwarzanie na <ph name="HOST"/></translation>
 <translation id="4150684676757176434">Kontynuuj blokowanie automatycznego odtwarzania</translation>
-<translation id="5883458389055721080">Brave nie zweryfikował tego rozszerzenia pod względem bezpieczeństwa i ochrony. Instaluj to rozszerzenie tylko wtedy, gdy ufasz programistom.</translation>
+<translation id="5883458389055721080">The Hive nie zweryfikował tego rozszerzenia pod względem bezpieczeństwa i ochrony. Instaluj to rozszerzenie tylko wtedy, gdy ufasz programistom.</translation>
 <translation id="8081858229109418493">Nazwa profilu i zdjęcie</translation>
-<translation id="2044383478723007273">Kolory Brave</translation>
+<translation id="2044383478723007273">Kolory The Hive</translation>
 <translation id="2814998458708016836">Korzystaj z szerokiego paska adresu</translation>
-<translation id="6123134130710658846">Ukryj przycisk nagród Brave</translation>
-<translation id="7635711399568194460">Kiedy nagrody Brave są wyłączone, ukrywa przycisk nagród na pasku lokalizacji.</translation>
+<translation id="6123134130710658846">Ukryj przycisk nagród The Hive</translation>
+<translation id="7635711399568194460">Kiedy nagrody The Hive są wyłączone, ukrywa przycisk nagród na pasku lokalizacji.</translation>
 <translation id="4262166817826183486">Zawsze pokazuj pasek zakładek na stronie nowej karty</translation>
 <translation id="7965178729203412357">Nowa tożsamość Tor</translation>
 <translation id="8511502469534942133">Nowe połączenie z siecią Tor dla tej strony</translation>
@@ -60,7 +60,7 @@ Instalując to rozszerzenie, wyrażasz zgodę na warunki świadczenia usług Goo
 <translation id="6303294677342628402">Tarcze</translation>
 <translation id="7133511168130368997">Zablokuj reklamy i skrypty śledzące Cię w internecie.</translation>
 <translation id="2761825942249694703">Są to domyślne ustawienia tarcz. Dotyczą one wszystkich stron internetowych, chyba że coś zmienisz w panelu tarcz na konkretnej stronie. Zmiana tych ustawień nie wpłynie na istniejące ustawienia poszczególnych stron.</translation>
-<translation id="8754605759692119662">Spowoduje to zablokowanie większości reklam w witrynach, ale nie prywatnych reklam Brave — te są kontrolowane w</translation>
+<translation id="8754605759692119662">Spowoduje to zablokowanie większości reklam w witrynach, ale nie prywatnych reklam The Hive — te są kontrolowane w</translation>
 <translation id="6388201778088078932">ustawieniach.</translation>
 <translation id="9185018653595759199">Blokowanie sieci społecznościowych</translation>
 <translation id="7390783310074170337">Widok domyślny</translation>
@@ -94,10 +94,10 @@ Instalując to rozszerzenie, wyrażasz zgodę na warunki świadczenia usług Goo
 <translation id="8721331068159819483">Takie same jak w systemie MacOS</translation>
 <translation id="6786747875388722282">Rozszerzenia</translation>
 <translation id="2896916411183256228">Do prawidłowego wyświetlania torrentów bezpośrednio w przeglądarce używane jest narzędzie WebTorrent. Wspierane są pliki typu torrent i linki magnetyczne.</translation>
-<translation id="5554028991651120544">Umożliwia korzystanie z portfela Ethereum i przeglądarki Dapp wewnątrz Brave.</translation>
+<translation id="5554028991651120544">Umożliwia korzystanie z portfela Ethereum i przeglądarki Dapp wewnątrz The Hive.</translation>
 <translation id="6554397389149987360">Stosuj komponent Hangouts, aby umożliwić udostępnianie ekranu i inne funkcje w przeglądarce.</translation>
 <translation id="1765684547504191670">Stosuj komponent Media Router, aby umożliwić działanie Chromecast w przeglądarce.</translation>
-<translation id="9156965752763025780">Zmiany zostaną zastosowane po ponownym uruchomieniu Brave.</translation>
+<translation id="9156965752763025780">Zmiany zostaną zastosowane po ponownym uruchomieniu The Hive.</translation>
 <translation id="7179921470347911571">Uruchom ponownie teraz</translation>
 <translation id="4154389611571860454">Używa rozszerzenia towarzyszącego IPFS do obsługi IPFS w przeglądarce.</translation>
 <translation id="8137559199583651773">Zarządzaj rozszerzeniami</translation>
@@ -109,12 +109,12 @@ Instalując to rozszerzenie, wyrażasz zgodę na warunki świadczenia usług Goo
 <translation id="330263065709195164">Zainstalować rozszerzenie Tłumacz Google, aby przetłumaczyć tę stronę?</translation>
 <translation id="3789841737615482174">Zainstaluj</translation>
 <translation id="7658239707568436148">Anuluj</translation>
-<translation id="3371343170427636147">Aplikacje Brave Nightly</translation>
-<translation id="4097979995947147464">Aplikacje Brave Beta</translation>
-<translation id="8303432794159193481">Aplikacje Brave Dev</translation>
-<translation id="8292967014767479012">Aplikacje Brave</translation>
-<translation id="4743468424889072281">Aplikacje rozwojowe Brave</translation>
-<translation id="4568409039725976900">Pomarańcz Brave</translation>
+<translation id="3371343170427636147">Aplikacje The Hive Nightly</translation>
+<translation id="4097979995947147464">Aplikacje The Hive Beta</translation>
+<translation id="8303432794159193481">Aplikacje The Hive Dev</translation>
+<translation id="8292967014767479012">Aplikacje The Hive</translation>
+<translation id="4743468424889072281">Aplikacje rozwojowe The Hive</translation>
+<translation id="4568409039725976900">Pomarańcz The Hive</translation>
 <translation id="1197088940767939838">Pomarańczowy</translation>
 <translation id="5901630391730855834">Żółty</translation>
 <translation id="6017514345406065928">Zielony</translation>
@@ -129,9 +129,9 @@ Instalując to rozszerzenie, wyrażasz zgodę na warunki świadczenia usług Goo
 <translation id="7184617102219850286">Niebieski z paskiem</translation>
 <translation id="5032225845552050824">Fioletowy z paskami</translation>
 <translation id="815851617499295136">Czarny z paskami</translation>
-<translation id="1872784258300710671">Brave wykorzystuje całkowicie prywatne analizy dotyczące produktu w celu oszacowania ogólnego poziomu korzystania z określonych funkcji.</translation>
+<translation id="1872784258300710671">The Hive wykorzystuje całkowicie prywatne analizy dotyczące produktu w celu oszacowania ogólnego poziomu korzystania z określonych funkcji.</translation>
 <translation id="8712637175834984815">Rozumiem</translation>
 <translation id="4394049700291259645">Wyłącz</translation>
-<translation id="6469509880167172749">Automatycznie przesyłaj Brave całkowicie prywatne analizy dotyczące produktu</translation>
-<translation id="7090566321964540749">Te anonimowe informacje pozwalają Brave oszacować jedynie ogólny poziom korzystania z określonych funkcji.</translation>
+<translation id="6469509880167172749">Automatycznie przesyłaj The Hive całkowicie prywatne analizy dotyczące produktu</translation>
+<translation id="7090566321964540749">Te anonimowe informacje pozwalają The Hive oszacować jedynie ogólny poziom korzystania z określonych funkcji.</translation>
 </translationbundle>
