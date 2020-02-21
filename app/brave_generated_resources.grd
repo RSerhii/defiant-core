@@ -120,11 +120,11 @@
   </translations>
   <release seq="1">
     <messages fallback_to_english="true">
-      <message name="IDS_SHOW_BRAVE_REWARDS" desc="The show Brave Rewards menu in the app menu">
-        Brave Rewards
+      <message name="IDS_SHOW_BRAVE_REWARDS" desc="The show The Hive Rewards menu in the app menu">
+        The Hive Rewards
       </message>
-      <message name="IDS_SHOW_BRAVE_ADBLOCK" desc="The show Brave Ad Block menu in the app menu">
-        Brave Ad Block
+      <message name="IDS_SHOW_BRAVE_ADBLOCK" desc="The show The Hive Ad Block menu in the app menu">
+        The Hive Ad Block
       </message>
       <message name="IDS_SHOW_BRAVE_SYNC" desc="The show brave sync menu in the app menu">
         Sync
@@ -132,7 +132,7 @@
       <message name="IDS_SHOW_DISSENTER_EXTENSION_SETTINGS" desc="The show The Hive extensions menu in the app menu">
         The Hive Settings
       </message>
-      <message name="IDS_SHOW_BRAVE_WALLET" desc="The show Brave Wallet menu item (app menu)">
+      <message name="IDS_SHOW_BRAVE_WALLET" desc="The show The Hive Wallet menu item (app menu)">
         Crypto Wallets
       </message>
       <message name="IDS_ADD_NEW_PROFILE" desc="The app menu item to create a new User Profile">
@@ -141,8 +141,8 @@
       <message name="IDS_OPEN_GUEST_PROFILE" desc="The app menu item to create a new User Profile">
         Open Guest Window
       </message>
-      <message name="IDS_EXTENSION_CANT_INSTALL_ON_BRAVE" desc="Error message when user tries to install an extension that is not allowed in Brave.">
-        <ph name="EXTENSION_NAME">$1</ph> (extension ID "<ph name="EXTENSION_ID">$2<ex>abacabadabacabaeabacabadabacabaf</ex></ph>") is not allowed in Brave.
+      <message name="IDS_EXTENSION_CANT_INSTALL_ON_BRAVE" desc="Error message when user tries to install an extension that is not allowed in The Hive.">
+        <ph name="EXTENSION_NAME">$1</ph> (extension ID "<ph name="EXTENSION_ID">$2<ex>abacabadabacabaeabacabadabacabaf</ex></ph>") is not allowed in The Hive.
       </message>
       <!-- Importer Lock Dialog -->
       <message name="IDS_CHROME_IMPORTER_LOCK_TITLE" desc="Dialog title for Chrome importer lock dialog">
@@ -151,11 +151,11 @@
       <message name="IDS_CHROME_IMPORTER_LOCK_TEXT" desc="The message to be displayed in the Chrome importer lock dialog">
 	To finish importing, close all Chrome windows.
       </message>
-      <message name="IDS_BRAVE_IMPORTER_LOCK_TITLE" desc="Dialog title for Brave importer lock dialog">
-	Close Brave (old)
+      <message name="IDS_BRAVE_IMPORTER_LOCK_TITLE" desc="Dialog title for The Hive importer lock dialog">
+	Close The Hive (old)
       </message>
-      <message name="IDS_BRAVE_IMPORTER_LOCK_TEXT" desc="The message to be displayed in the Brave importer lock dialog">
-	To finish importing, close all Brave (old) windows.
+      <message name="IDS_BRAVE_IMPORTER_LOCK_TEXT" desc="The message to be displayed in the The Hive importer lock dialog">
+	To finish importing, close all The Hive (old) windows.
       </message>
       <message name="IDS_SETTINGS_IMPORT_COOKIES_CHECKBOX" desc="Checkbox for importing cookies">
         Cookies
@@ -164,7 +164,7 @@
         Stats
       </message>
       <message name="IDS_SETTINGS_IMPORT_LEDGER_CHECKBOX" desc="Checkbox for importing ledger">
-        Brave Payments
+        The Hive Payments
       </message>
       <message name="IDS_SETTINGS_IMPORT_WINDOWS_CHECKBOX" desc="Checkbox for importing open windows and tabs">
         Open windows and tabs
@@ -190,16 +190,16 @@
         </message>
       </if>
       <message name="IDS_WIDEVINE_INSTALL_MESSAGE" desc="Bubble info text when Widevine is not installed. 'Widevine' is the name of a plugin and should not be translated.">
-        Google Widevine is a piece of Digital Rights Management (DRM) code that we at Brave Software do not own and cannot inspect. The Google Widevine code is loaded from Google servers, not from our servers. It is loaded only when you enable this option. We discourage the use of DRM, but we respect user choice and acknowledge that some Brave users would like to use services that require it.
+        Google Widevine is a piece of Digital Rights Management (DRM) code that we at The Hive Software do not own and cannot inspect. The Google Widevine code is loaded from Google servers, not from our servers. It is loaded only when you enable this option. We discourage the use of DRM, but we respect user choice and acknowledge that some The Hive users would like to use services that require it.
 
-By installing this extension, you are agreeing to the Google Widevine Terms of Use. You agree that Brave is not responsible for any damages or losses in connection with your use of Google Widevine.
+By installing this extension, you are agreeing to the Google Widevine Terms of Use. You agree that The Hive is not responsible for any damages or losses in connection with your use of Google Widevine.
       </message>
-      <!-- Brave Importer -->
-      <message name="IDS_IMPORT_FROM_BRAVE" desc="browser combo box: Brave">
-        Brave (old)
+      <!-- The Hive Importer -->
+      <message name="IDS_IMPORT_FROM_BRAVE" desc="browser combo box: The Hive">
+        The Hive (old)
       </message>
-      <message name="IDS_BOOKMARK_GROUP_FROM_BRAVE" desc="The group name of bookmarks from Brave">
-        Imported From Brave
+      <message name="IDS_BOOKMARK_GROUP_FROM_BRAVE" desc="The group name of bookmarks from The Hive">
+        Imported From The Hive
       </message>
       <!-- Autoplay -->
       <message name="IDS_AUTOPLAY_PERMISSION_FRAGMENT" desc="Permission request shown if the user is visiting a site that wants to autoplay media. Follows a prompt: 'This site would like to:'">
@@ -224,8 +224,8 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
         Continue blocking autoplay
       </message>
       <!-- Extensions -->
-      <message name="IDS_UNVETTED_EXTENSION_INSTALL_PROMPT_TITLE" desc="Titlebar of the extension or app installation prompt which was not vetted by Brave. Asks the user if they want to install a particular extension or app.">
-        Brave has not reviewed this extension for security and safety. Only install this extension if you trust the developer.
+      <message name="IDS_UNVETTED_EXTENSION_INSTALL_PROMPT_TITLE" desc="Titlebar of the extension or app installation prompt which was not vetted by The Hive. Asks the user if they want to install a particular extension or app.">
+        The Hive has not reviewed this extension for security and safety. Only install this extension if you trust the developer.
       </message>
       <!-- Settings / Get Started -->
       <message name="IDS_SETTINGS_BRAVE_EDIT_PROFILE" desc="Title to edit the profile user name and picture">
@@ -233,16 +233,16 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
       </message>
       <!-- Appearance -->
       <message name="IDS_SETTINGS_APPEARANCE_SETTINGS_BRAVE_THEMES" desc="The label for brave theme change setting options">
-        Brave colors
+        The Hive colors
       </message>
       <message name="IDS_SETTINGS_APPEARANCE_SETTINGS_LOCATION_BAR_IS_WIDE" desc="The label for whether the location bar should display wide or not">
         Use wide address bar
       </message>
-      <message name="IDS_SETTINGS_HIDE_BRAVE_REWARDS_BUTTON_LABEL" desc="The label for settings switch controlling the visibility of Brave Rewards button">
-        Hide Brave Rewards button
+      <message name="IDS_SETTINGS_HIDE_BRAVE_REWARDS_BUTTON_LABEL" desc="The label for settings switch controlling the visibility of The Hive Rewards button">
+        Hide The Hive Rewards button
       </message>
-      <message name="IDS_SETTINGS_HIDE_BRAVE_REWARDS_BUTTON_DESC" desc="The description for settings switch controlling the visibility of Brave Rewards button">
-        Hides the Brave Rewards button in the location bar when Brave Rewards is not enabled
+      <message name="IDS_SETTINGS_HIDE_BRAVE_REWARDS_BUTTON_DESC" desc="The description for settings switch controlling the visibility of The Hive Rewards button">
+        Hides the The Hive Rewards button in the location bar when The Hive Rewards is not enabled
       </message>
       <message name="IDS_SETTINGS_ALWAYS_SHOW_BOOKMARK_BAR_ON_NTP" desc="The label for settings switch controlling the visibility of bookmarks bar on NTP">
         Always show bookmarks bar on New Tab page
@@ -271,7 +271,7 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
           Open Link in Private Window with Tor
         </message>
         <message name="IDS_CONTENT_CONTEXT_OPENLINKTOR_INAPP" desc="Title case: The name of the open a link in private window with Tor command">
-          Open Link in Brave Private Window with Tor
+          Open Link in The Hive Private Window with Tor
         </message>
       </if>
       <if expr="not use_titlecase">
@@ -282,7 +282,7 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
           Open link in private window with Tor
         </message>
         <message name="IDS_CONTENT_CONTEXT_OPENLINKTOR_INAPP" desc="The name of the open a link in private window with Tor command">
-          Open link in Brave private window with Tor
+          Open link in The Hive private window with Tor
         </message>
       </if>
       <message name="IDS_PROFILES_TOR_PROFILE_NAME" desc="Name of the Tor profile.">
@@ -303,47 +303,47 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
       <message name="IDS_SETTINGS_BRAVE_ADDITIONAL_SETTINGS" desc="The title for a group of settings which are more advanced">
         Additional settings
       </message>
-      <!-- Brave Shields  -->
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_TITLE" desc="The title for Brave shields section in settings">
+      <!-- The Hive Shields  -->
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_TITLE" desc="The title for The Hive shields section in settings">
         Shields
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_TITLE" desc="The title for Brave shields Defaults sub-section in settings">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_TITLE" desc="The title for The Hive shields Defaults sub-section in settings">
         Block trackers and ads which follow you across the web.
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_DESCRIPTION_1" desc="The description for Brave shields Defaults sub-section in settings">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_DESCRIPTION_1" desc="The description for The Hive shields Defaults sub-section in settings">
         These are the default Shields settings. They apply to all websites unless you change something in the Shields panel on a particular site. Changing these won't affect your existing per-site settings.
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_DESCRIPTION_2" desc="The partial description for Brave shields Defaults sub-section in settings. The sentence is completed with `Brave rewards settings`">
-        This will block most ads on websites, not Brave private ads — those are controlled in the
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_DESCRIPTION_2" desc="The partial description for The Hive shields Defaults sub-section in settings. The sentence is completed with `The Hive rewards settings`">
+        This will block most ads on websites, not The Hive private ads — those are controlled in the
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_DESCRIPTION_3" desc="The partial description for Brave shields Defaults sub-section in settings. Partial of `This will block most ads on websites, not Brave private ads — those are controlled in the Brave Rewards (settings)`">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_DESCRIPTION_3" desc="The partial description for The Hive shields Defaults sub-section in settings. Partial of `This will block most ads on websites, not The Hive private ads — those are controlled in the The Hive Rewards (settings)`">
         settings.
       </message>
       <message name="IDS_SETTINGS_SOCIAL_BLOCKING_DEFAULTS_TITLE" desc="The title the settings section which has options for blocking third-party embeds, commonly from social media sites">
         Social media blocking
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_DEFAULT_VIEW_LABEL" desc="Default Brave view title label">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_DEFAULT_VIEW_LABEL" desc="Default The Hive view title label">
         Default view
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_SIMPLE_VIEW_LABEL" desc="Default Brave simple view title label">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_SIMPLE_VIEW_LABEL" desc="Default The Hive simple view title label">
         Simple view
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_ADVANCED_VIEW_LABEL" desc="Default Brave advanced view title label">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_DEFAULTS_ADVANCED_VIEW_LABEL" desc="Default The Hive advanced view title label">
         Advanced view
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_AD_CONTROL_LABEL" desc="Default Brave block cross-site trackers control setting label">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_AD_CONTROL_LABEL" desc="Default The Hive block cross-site trackers control setting label">
         Block cross-site trackers
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_COOKIE_CONTROL_LABEL" desc="Default Brave cookies control setting label">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_COOKIE_CONTROL_LABEL" desc="Default The Hive cookies control setting label">
         Cookies
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_FINGERPRINTING_CONTROL_LABEL" desc="Default Brave device recognition control setting label">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_FINGERPRINTING_CONTROL_LABEL" desc="Default The Hive device recognition control setting label">
         Device recognition
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_HTTPS_EVERYWHERE_CONTROL_LABEL" desc="Default Brave upgrade connections to HTTPS control setting label">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_HTTPS_EVERYWHERE_CONTROL_LABEL" desc="Default The Hive upgrade connections to HTTPS control setting label">
         Upgrade connections to HTTPS
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SHIELDS_NO_SCRIPT_CONTROL_LABEL" desc="Default Brave script blocking control setting label">
+      <message name="IDS_SETTINGS_BRAVE_SHIELDS_NO_SCRIPT_CONTROL_LABEL" desc="Default The Hive script blocking control setting label">
         Block scripts
       </message>
       <message name="IDS_SETTINGS_BRAVE_SHIELDS_FACEBOOK_EMBEDDED_POSTS_LABEL" desc="Label for a switch control which allows Facebook embedded posts">
@@ -392,14 +392,14 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
       <message name="IDS_SETTINGS_WEBRTC_POLICY_DISABLE_NON_PROXIED_UDP" desc="Select value">
         Disable non-proxied UDP
       </message>
-      <!-- Brave Sync Settings -->
-      <message name="IDS_SETTINGS_BRAVE_SYNC_TITLE" desc="The title for Brave Sync in settings">
+      <!-- The Hive Sync Settings -->
+      <message name="IDS_SETTINGS_BRAVE_SYNC_TITLE" desc="The title for The Hive Sync in settings">
         Sync
       </message>
-      <message name="IDS_SETTINGS_BRAVE_SYNC_LINK_LABEL" desc="Brave Sync link label">
+      <message name="IDS_SETTINGS_BRAVE_SYNC_LINK_LABEL" desc="The Hive Sync link label">
         Access Sync via
       </message>
-      <!-- Brave Theme -->
+      <!-- The Hive Theme -->
       <message name="IDS_BRAVE_THEME_TYPE_LIGHT" desc="Text for light theme type">
         Light
       </message>
@@ -421,15 +421,15 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
           Same as macOS
         </message>
       </if>
-      <!-- Brave Default Extensions -->
-      <message name="IDS_SETTINGS_BRAVE_DEFAULT_EXTENSIONS_TITLE" desc="The title for Brave default extensions in settings">
+      <!-- The Hive Default Extensions -->
+      <message name="IDS_SETTINGS_BRAVE_DEFAULT_EXTENSIONS_TITLE" desc="The title for The Hive default extensions in settings">
         Extensions
       </message>
       <message name="IDS_SETTINGS_WEBTORRENT_ENABLED_DESC" desc="The description for WebTorrent switch in settings">
         Uses WebTorrent to display torrents directly in the browser. Supports torrent files and magnet links.
       </message>
-      <message name="IDS_SETTINGS_BRAVE_WALLET_ENABLED_DESC" desc="The description for Brave Wallet switch in settings">
-        Provides an Ethereum wallet and Dapp browser inside Brave.
+      <message name="IDS_SETTINGS_BRAVE_WALLET_ENABLED_DESC" desc="The description for The Hive Wallet switch in settings">
+        Provides an Ethereum wallet and Dapp browser inside The Hive.
       </message>
      <message name="IDS_SETTINGS_HANGOUTS_ENABLED_DESC" desc="The description for Hangouts switch in settings">
         Uses Hangouts component to enable screen sharing and other features in the browser.
@@ -437,10 +437,10 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
      <message name="IDS_SETTINGS_MEDIA_ROUTER_ENABLED_DESC" desc="The description for Media Router switch in settings">
         Uses Media Router component to enable Chromecast in the browser.
       </message>
-     <message name="IDS_SETTINGS_RESTART_NOTICE" desc="Notifies the user that they need to relaunch Brave">
-        Your changes will take effect the next time you relaunch Brave.
+     <message name="IDS_SETTINGS_RESTART_NOTICE" desc="Notifies the user that they need to relaunch The Hive">
+        Your changes will take effect the next time you relaunch The Hive.
       </message>
-     <message name="IDS_SETTINGS_RELAUNCH_BUTTON_LABEL" desc="Notifies the user that they need to relaunch Brave">
+     <message name="IDS_SETTINGS_RELAUNCH_BUTTON_LABEL" desc="Notifies the user that they need to relaunch The Hive">
         Relaunch Now
       </message>
      <message name="IDS_SETTINGS_IPFS_COMPANION_ENABLED_DESC" desc="The description for IPFS companion switch in settings">
@@ -459,7 +459,7 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
       <message name="IDS_MD_EXTENSIONS_BRAVE_ITEM_CHROME_WEB_STORE" desc="Label for button to visit the Web Extensions Store.">
         View in Web Extensions Store
       </message>
-      <!-- Brave Clear Browsing Data On Exit Settings -->
+      <!-- The Hive Clear Browsing Data On Exit Settings -->
       <message name="IDS_SETTINGS_BRAVE_ON_EXIT" desc="Clear Browsing Data dialog On exit tab label">
         On exit
       </message>
@@ -481,20 +481,20 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
       </message>
       <!-- App shortcuts -->
       <if expr="not is_win">
-        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_NIGHTLY" desc="Name for the Brave Apps Start Menu folder name.">
-          Brave Browser Nightly Apps
+        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_NIGHTLY" desc="Name for the The Hive Apps Start Menu folder name.">
+          The Hive Browser Nightly Apps
         </message>
-        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_BETA" desc="Name for the Brave Apps Start Menu folder name.">
-          Brave Browser Beta Apps
+        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_BETA" desc="Name for the The Hive Apps Start Menu folder name.">
+          The Hive Browser Beta Apps
         </message>
-        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_DEV" desc="Name for the Brave Apps Start Menu folder name.">
-          Brave Browser Dev Apps
+        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_DEV" desc="Name for the The Hive Apps Start Menu folder name.">
+          The Hive Browser Dev Apps
         </message>
-        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_STABLE" desc="Name for the Brave Apps Start Menu folder name.">
-          Brave Browser Apps
+        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_STABLE" desc="Name for the The Hive Apps Start Menu folder name.">
+          The Hive Browser Apps
         </message>
-        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_DEVELOPMENT" desc="Name for the Brave Apps Start Menu folder name.">
-          Brave Browser Development Apps
+        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BRAVE_DEVELOPMENT" desc="Name for the The Hive Apps Start Menu folder name.">
+          The Hive Browser Development Apps
         </message>
       </if>
       <!-- Avatars. Generated via zsh and node:
@@ -508,7 +508,7 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
       </message>
       <if expr="not is_android">
         <message name="IDS_BRAVE_AVATAR_LABEL_56" desc="The label for the avatar_edgy_brave.png avatar.">
-            Avatar Edgy Brave
+            Avatar Edgy The Hive
         </message>
         <message name="IDS_BRAVE_AVATAR_LABEL_57" desc="The label for the avatar_edgy_ocean.png avatar.">
             Avatar Edgy Ocean
@@ -529,7 +529,7 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
             Avatar Paladin Rewards
         </message>
         <message name="IDS_BRAVE_AVATAR_LABEL_63" desc="The label for the avatar_paladin_brave.png avatar.">
-            Avatar Paladin Brave
+            Avatar Paladin The Hive
         </message>
         <message name="IDS_BRAVE_AVATAR_LABEL_64" desc="The label for the avatar_paladin_ocean.png avatar.">
             Avatar Paladin Ocean
@@ -550,7 +550,7 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
             Avatar Gleam Rewards
         </message>
         <message name="IDS_BRAVE_AVATAR_LABEL_70" desc="The label for the avatar_gleam_brave.png avatar.">
-            Avatar Gleam Brave
+            Avatar Gleam The Hive
         </message>
         <message name="IDS_BRAVE_AVATAR_LABEL_71" desc="The label for the avatar_gleam_ocean.png avatar.">
             Avatar Gleam Ocean
@@ -571,7 +571,7 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
             Avatar Oval Rewards
         </message>
         <message name="IDS_BRAVE_AVATAR_LABEL_77" desc="The label for the avatar_oval_brave.png avatar.">
-            Avatar Oval Brave
+            Avatar Oval The Hive
         </message>
         <message name="IDS_BRAVE_AVATAR_LABEL_78" desc="The label for the avatar_oval_ocean.png avatar.">
             Avatar Oval Ocean
@@ -592,7 +592,7 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
             Avatar Bonbon Rewards
         </message>
         <message name="IDS_BRAVE_AVATAR_LABEL_84" desc="The label for the avatar_bonbon_brave.png avatar.">
-            Avatar Bonbon Brave
+            Avatar Bonbon The Hive
         </message>
         <message name="IDS_BRAVE_AVATAR_LABEL_85" desc="The label for the avatar_bonbon_ocean.png avatar.">
             Avatar Bonbon Ocean

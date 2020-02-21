@@ -17,7 +17,7 @@ class NavigationHandle;
 
 namespace extensions {
 
-// This class allows loads of brave://wallet to wait until
+// This class allows loads of thehive://wallet to wait until
 // ethereum-remote-client is installed.
 class BraveWalletNavigationThrottle : public content::NavigationThrottle,
                                       public ExtensionRegistryObserver {

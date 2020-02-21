@@ -22,7 +22,7 @@ GURL GetSampleLitePageUrl() {
 // CanAddURLToHistory().
 TEST(HistoryUtilsTest, VariousURLTest) {
   EXPECT_TRUE(CanAddURLToHistory(GURL("https://www.brave.com/")));
-  EXPECT_FALSE(CanAddURLToHistory(GURL("brave://sync/")));
+  EXPECT_FALSE(CanAddURLToHistory(GURL("thehive://sync/")));
   EXPECT_FALSE(CanAddURLToHistory(GURL("javascript://test")));
   EXPECT_FALSE(CanAddURLToHistory(GURL("about://test")));
   EXPECT_FALSE(CanAddURLToHistory(GURL("content://test")));

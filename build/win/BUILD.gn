@@ -41,13 +41,13 @@ action("create_signed_installer") {
     "$root_out_dir/mini_installer.exe"
   ]
   outputs = [
-    "$root_out_dir/thehive_installer.exe",
+    "$root_out_dir/brave_installer.exe",
     "$root_out_dir/$brave_installer_exe",
   ]
   out_dir = rebase_path(root_out_dir, "//")
   args = [
     "--root_out_dir=$out_dir",
-    "--thehive_installer_exe=$thehive_installer_exe",
+    "--brave_installer_exe=$brave_installer_exe",
   ]
 
   if (skip_signing) { args += [ "--skip_signing" ] }

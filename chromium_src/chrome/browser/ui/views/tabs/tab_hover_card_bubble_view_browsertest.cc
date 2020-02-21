@@ -125,5 +125,5 @@ IN_PROC_BROWSER_TEST_F(TabHoverCardBubbleViewBrowserTest, ChromeSchemeUrl) {
   EXPECT_EQ(GetHoverCardTitle(hover_card),
             base::UTF8ToUTF16("Settings - Addresses and more"));
   EXPECT_EQ(GetHoverCardDomain(hover_card),
-            base::UTF8ToUTF16("brave://settings"));
+            base::UTF8ToUTF16("thehive://settings"));
 }

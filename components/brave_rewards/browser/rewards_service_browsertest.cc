@@ -587,7 +587,7 @@ class BraveRewardsBrowserTest :
   }
 
   GURL rewards_url() {
-    GURL rewards_url("brave://rewards");
+    GURL rewards_url("thehive://rewards");
     return rewards_url;
   }
 

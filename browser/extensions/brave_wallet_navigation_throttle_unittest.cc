@@ -150,7 +150,7 @@ TEST_F(BraveWalletNavigationThrottleUnitTest, ExternalWebPage) {
       << url;
 }
 
-// Tests the case of loading brave://settings without the extension installed.
+// Tests the case of loading thehive://settings without the extension installed.
 // It should just proceed.
 TEST_F(BraveWalletNavigationThrottleUnitTest, DifferentChromePageWithExt) {
   web_contents_tester()->NavigateAndCommit(GURL("http://example.com"));
@@ -164,7 +164,7 @@ TEST_F(BraveWalletNavigationThrottleUnitTest, DifferentChromePageWithExt) {
       << url;
 }
 
-// Tests the case of loading brave://wallet without having the extension
+// Tests the case of loading thehive://wallet without having the extension
 // installed.a It should defer which it does to install the extension.
 TEST_F(BraveWalletNavigationThrottleUnitTest, ChromeWalletUrlNotInstalled) {
   web_contents_tester()->NavigateAndCommit(GURL("http://example.com"));
@@ -178,7 +178,7 @@ TEST_F(BraveWalletNavigationThrottleUnitTest, ChromeWalletUrlNotInstalled) {
       << url;
 }
 
-// Tests the case of loading brave://wallet with the extension installed.
+// Tests the case of loading thehive://wallet with the extension installed.
 // It should just proceed.
 TEST_F(BraveWalletNavigationThrottleUnitTest, ChromeWalletUrlInstalled) {
   AddExtension();
@@ -193,7 +193,7 @@ TEST_F(BraveWalletNavigationThrottleUnitTest, ChromeWalletUrlInstalled) {
       << url;
 }
 
-// Tests the case of loading brave://wallet when the Wallet is explicitly
+// Tests the case of loading thehive://wallet when the Wallet is explicitly
 // disabled.
 TEST_F(BraveWalletNavigationThrottleUnitTest, ChromeWalletDisabledByPref) {
   profile()->GetPrefs()->SetBoolean(kBraveWalletEnabled, false);

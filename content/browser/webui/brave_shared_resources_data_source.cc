@@ -42,7 +42,7 @@ using ResourcesMap = std::unordered_map<std::string, int>;
 
 const std::map<std::string, std::string> CreatePathPrefixAliasesMap() {
   // Map of GRD-relative path prefixes to incoming request path, e.g.
-  // brave://brave-resources/blah/X could be mapped to
+  // thehive://brave-resources/blah/X could be mapped to
   // GRD:../../resources/web/blah/X.
   // See chromium's SharedResourcesDataSource for an example
   // Format is {"../../somewhere/in/src/tree/", "request/path" }

@@ -115,7 +115,7 @@ void BraveComponentLoader::AddDefaultComponentExtensions(
   }
 
 #if BUILDFLAG(BRAVE_WALLET_ENABLED)
-  // If brave://wallet has been loaded at least once, then load it again.
+  // If thehive://wallet has been loaded at least once, then load it again.
   if (ExtensionPrefs::Get(profile_)->
       HasPrefForExtension(ethereum_remote_client_extension_id)) {
     AddEthereumRemoteClientExtension();

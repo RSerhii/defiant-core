@@ -206,7 +206,7 @@ export class Panel extends React.Component<Props, State> {
 
   openRewardsPage (notificationId?: string) {
     chrome.tabs.create({
-      url: 'brave://rewards'
+      url: 'thehive://rewards'
     })
 
     if (notificationId) {

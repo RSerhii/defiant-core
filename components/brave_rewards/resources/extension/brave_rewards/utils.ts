@@ -133,7 +133,7 @@ export const getUserName = (externalWallet?: RewardsExtension.ExternalWallet) =>
 
 export const handleUpholdLink = (link: string, externalWallet?: RewardsExtension.ExternalWallet) => {
   if (!externalWallet || (externalWallet && externalWallet.status === 0)) {
-    link = 'brave://rewards/#verify'
+    link = 'thehive://rewards/#verify'
   }
 
   chrome.tabs.create({

@@ -426,10 +426,10 @@ def get_transifex_string_hash(string_name):
 
 
 def braveify(string_value):
-    """Replace Chromium branded strings with Brave beranded strings."""
-    return (string_value.replace('Chrome', 'Brave')
-            .replace('Chromium', 'Brave')
-            .replace('Google', 'Brave Software'))
+    """Replace Chromium branded strings with The Hive beranded strings."""
+    return (string_value.replace('Chrome', 'The Hive')
+            .replace('Chromium', 'The Hive')
+            .replace('Google', 'The Hive Software'))
 
 
 def upload_missing_translation_to_transifex(source_string_path, lang_code,

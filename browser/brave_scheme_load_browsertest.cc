@@ -103,7 +103,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest, NotAllowedToLoadTest) {
 
   EXPECT_TRUE(base::MatchPattern(
       console_delegate.message(),
-      "Not allowed to load local resource: brave://settings/"));
+      "Not allowed to load local resource: thehive://settings/"));
 }
 
 // Test whether brave page is not loaded from different host by window.open().
@@ -122,7 +122,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
 
   EXPECT_TRUE(base::MatchPattern(
       console_delegate.message(),
-      "Not allowed to load local resource: brave://settings/"));
+      "Not allowed to load local resource: thehive://settings/"));
 }
 
 // Test whether brave page is not loaded from different host directly by
@@ -141,7 +141,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
   console_delegate.Wait();
   EXPECT_TRUE(base::MatchPattern(
       console_delegate.message(),
-      "Not allowed to load local resource: brave://settings/"));
+      "Not allowed to load local resource: thehive://settings/"));
 }
 
 // Test whether brave page is not loaded from different host indirectly by
@@ -163,7 +163,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
 
   EXPECT_TRUE(base::MatchPattern(
       console_delegate.message(),
-      "Not allowed to load local resource: brave://settings/"));
+      "Not allowed to load local resource: thehive://settings/"));
 }
 
 // Test whether brave page is not loaded from chrome page.
@@ -177,11 +177,11 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
   active_contents()->SetDelegate(&console_delegate);
 
   ASSERT_TRUE(
-      ExecuteScript(active_contents(), "window.open(\"brave://settings\")"));
+      ExecuteScript(active_contents(), "window.open(\"thehive://settings\")"));
   console_delegate.Wait();
   EXPECT_TRUE(base::MatchPattern(
       console_delegate.message(),
-      "Not allowed to load local resource: brave://settings/"));
+      "Not allowed to load local resource: thehive://settings/"));
 }
 
 // Test whether brave page is not loaded by click.
@@ -198,7 +198,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest, NotAllowedToBraveByClick) {
   console_delegate.Wait();
   EXPECT_TRUE(base::MatchPattern(
       console_delegate.message(),
-      "Not allowed to load local resource: brave://settings/"));
+      "Not allowed to load local resource: thehive://settings/"));
 }
 
 // Test whether brave page is not loaded by middle click.
@@ -216,7 +216,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
   console_delegate.Wait();
   EXPECT_TRUE(base::MatchPattern(
       console_delegate.message(),
-      "Not allowed to load local resource: brave://settings/"));
+      "Not allowed to load local resource: thehive://settings/"));
 }
 
 // Check renderer crash happened by observing related notification.
@@ -226,7 +226,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest, CrashURLTest) {
       content::NotificationService::AllSources());
   content::ScopedAllowRendererCrashes allow_renderer_crashes(active_contents());
   browser()->OpenURL(
-      content::OpenURLParams(GURL("brave://crash/"), content::Referrer(),
+      content::OpenURLParams(GURL("thehive://crash/"), content::Referrer(),
                              WindowOpenDisposition::CURRENT_TAB,
                              ui::PAGE_TRANSITION_TYPED, false));
   observer.Wait();
@@ -235,21 +235,21 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest, CrashURLTest) {
 // Some webuis are not allowed to load in private window.
 // Allowed url list are checked by IsURLAllowedInIncognito().
 // So, corresponding brave scheme url should be filtered as chrome scheme.
-// Ex, brave://settings should be loaded only in normal window because
-// chrome://settings is not allowed. When tyring to loading brave://settings in
+// Ex, thehive://settings should be loaded only in normal window because
+// chrome://settings is not allowed. When tyring to loading thehive://settings in
 // private window, it should be loaded in normal window instead of private
 // window.
 IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
                        SettingsPageIsNotAllowedInPrivateWindow) {
-  TestURLIsNotLoadedInPrivateWindow("brave://settings");
+  TestURLIsNotLoadedInPrivateWindow("thehive://settings");
 }
 
 IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
                        SyncPageIsNotAllowedInPrivateWindow) {
-  TestURLIsNotLoadedInPrivateWindow("brave://sync");
+  TestURLIsNotLoadedInPrivateWindow("thehive://sync");
 }
 
 IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
                        RewardsPageIsNotAllowedInPrivateWindow) {
-  TestURLIsNotLoadedInPrivateWindow("brave://rewards");
+  TestURLIsNotLoadedInPrivateWindow("thehive://rewards");
 }

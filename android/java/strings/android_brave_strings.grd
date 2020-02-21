@@ -60,10 +60,10 @@ This file contains all "about" strings.  It is set to NOT be translated, in tran
   </outputs>
   <release seq="1" allow_pseudo="false">
     <messages fallback_to_english="true">
-      <message name="IDS_ACCESSIBILITY_TOOLBAR_BTN_BRAVE_SHIELDS" desc="Content description for the button that is enable, disable Brave Shields.">
-        Enable/Disable Brave Shields
+      <message name="IDS_ACCESSIBILITY_TOOLBAR_BTN_BRAVE_SHIELDS" desc="Content description for the button that is enable, disable The Hive Shields.">
+        Enable/Disable The Hive Shields
       </message>
-      <message name="IDS_BRAVE_SHIELDS" desc="Brave Shields title.">
+      <message name="IDS_BRAVE_SHIELDS" desc="The Hive Shields title.">
         Shields
       </message>
       <message name="IDS_BRAVE_SHIELDS_BLOCK_3RD_PARTY_COOKIES_SWITCH" desc="Switch for Block Scripts.">
@@ -93,14 +93,14 @@ This file contains all "about" strings.  It is set to NOT be translated, in tran
       <message name="IDS_BRAVE_SHIELDS_SCRIPTS_BLOCKED" desc="Scripts Blocked.">
         Scripts Blocked
       </message>
-      <message name="IDS_BRAVE_SHIELDS_FIRST_GROUP_TITLE" desc="Title for the first group of Brave's shields panel.">
+      <message name="IDS_BRAVE_SHIELDS_FIRST_GROUP_TITLE" desc="Title for the first group of The Hive's shields panel.">
         Blocking Monitor
       </message>
-      <message name="IDS_BRAVE_SHIELDS_SECOND_GROUP_TITLE" desc="Title for the second group of Brave's shields panel.">
+      <message name="IDS_BRAVE_SHIELDS_SECOND_GROUP_TITLE" desc="Title for the second group of The Hive's shields panel.">
         Individual Controls
       </message>
-      <message name="IDS_ACCESSIBILITY_TOOLBAR_BTN_BRAVE_REWARDS" desc="Content description for the button that is enable, disable Brave Rewards.">
-        Manage Brave Rewards
+      <message name="IDS_ACCESSIBILITY_TOOLBAR_BTN_BRAVE_REWARDS" desc="Content description for the button that is enable, disable The Hive Rewards.">
+        Manage The Hive Rewards
       </message>
     </messages>
   </release>
