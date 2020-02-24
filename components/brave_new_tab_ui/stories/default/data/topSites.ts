@@ -10,33 +10,28 @@
  
  export const defaultTopSitesData = [
    {
-     name: 'Telos Coin',
+     title: 'Telos Coin',
      url: 'https://telosgreen.org',
-     favicon: TelosCoinFavicon,
-     background: 'rgba(255,255,255,0.8)'
+     favicon: TelosCoinFavicon
    },
    {
-     name: 'Bitdorado exchange',
+     title: 'Bitdorado exchange',
      url: 'https://bitdorado.exchange',
-     favicon: BitdoradoFavicon,
-     background: 'rgba(255,255,255,0.8)'
+     favicon: BitdoradoFavicon
    },
    {
-     name: 'governance.rocks',
+     title: 'governance.rocks',
      url: 'https://governance.rocks',
-     favicon: GovernanceFavicon,
-     background: 'rgba(255,255,255,0.8)'
+     favicon: GovernanceFavicon
    },
    {
-     name: 'Bitcoin Subsidium',
+     title: 'Bitcoin Subsidium',
      url: 'https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US',
-     favicon: SubsidiumFavicon,
-     background: 'rgba(255,255,255,0.8)'
+     favicon: SubsidiumFavicon
    },
    {
-     name: 'Free Libra',
+     title: 'Free Libra',
      url: 'https://libra-ai.org',
-     favicon: LibraFavicon,
-     background: 'rgba(255,255,255,0.8)'
+     favicon: LibraFavicon
    }
  ]
