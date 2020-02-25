@@ -12,8 +12,8 @@ export function getTopSites (): Promise<TopSitesData> {
   return new Promise(resolve => {
     chrome.topSites.get((topSites: NewTab.Site[]) => {
       var defaultSites = defaultTopSitesData.map(u => u as NewTab.Site)
-      topSites = topSites.concat(defaultSites.slice(0, Math.max(defaultTopSitesData.length - topSites.length, 0)))
-      resolve(topSites || [])
+      topSites = topSites.concat(defaultSites)
+      resolve(topSites)
     })
   })
 }

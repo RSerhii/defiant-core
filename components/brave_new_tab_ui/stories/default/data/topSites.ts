@@ -26,7 +26,7 @@
    },
    {
      title: 'Bitcoin Subsidium',
-     url: 'https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US',
+     url: 'https://bitcoin-subsidium.org',
      favicon: SubsidiumFavicon
    },
    {

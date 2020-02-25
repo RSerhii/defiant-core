@@ -121,11 +121,11 @@ STORAGE_DEFAULT_PARAMS[NT_DISSENTER_ENABLED] = false;
 STORAGE_DEFAULT_PARAMS[NT_DISSENTER_DEFAULT_TAB] = "home";
 STORAGE_DEFAULT_PARAMS[NT_DISSENTER_PINS] = {
     "page1": [
-        {url:"https://gab.com", title:"Gab"},
-        {url:"https://identity.faith", title:"The Hive"},
-        {url:"https://www.bitchute.com/", title:"Bitchute"},
-        {url:"https://www.epik.com/", title:"Epik Domains"},
-        {url:"https://chrome.google.com/webstore", title:"Get Extensions"}
+        {url:"https://telosgreen.org", title:"Telos Coin"},
+        {url:"https://bitdorado.exchange", title:"Bitdorado exchange"},
+        {url:"https://governance.rocks", title:"governance.rocks"},
+        {url:"https://bitcoin-subsidium.org", title:"Bitcoin Subsidium"},
+        {url:"https://libra-ai.org", title:"Free Libra"}
     ]
 };
 STORAGE_DEFAULT_PARAMS[NT_DISSENTER_HIDE_TIPS] = false;
