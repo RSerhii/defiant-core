@@ -8,7 +8,7 @@ index 709552f18688ed39c64ab48581d46e7f43b39ffe..ccf0f7a0100b131d2a2bab194100ed13
  packaging_files_executables = [
 -  "$root_out_dir/chrome",
 -  "$root_out_dir/chrome_sandbox",
-+  "$root_out_dir/brave",
++  "$root_out_dir/thehive",
 +  "$root_out_dir/brave_sandbox",
  ]
  packaging_files_shlibs = []
@@ -18,7 +18,7 @@ index 709552f18688ed39c64ab48581d46e7f43b39ffe..ccf0f7a0100b131d2a2bab194100ed13
  
  action("strip_chrome_binary") {
 -  prog_name = "$root_out_dir/chrome"
-+  prog_name = "$root_out_dir/brave"
++  prog_name = "$root_out_dir/thehive"
    debug_file = prog_name + ".debug"
    stripped_file = prog_name + ".stripped"
    deps = [

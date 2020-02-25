@@ -14,8 +14,8 @@ declare_args() {
 
   brave_dsa_file = "dsa_pub.pem"
 
-  brave_product_name = ""
-  brave_project_name = ""
+  brave_product_name = "thehive"
+  brave_project_name = "thehive"
   brave_exe = "thehive"
   brave_version_major = ""
   brave_version_minor = ""
