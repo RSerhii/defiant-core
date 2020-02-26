@@ -4,7 +4,7 @@
 
 import styled, { keyframes } from 'styled-components'
 
-import LionImage from './lion_logo.svg'
+import LionImage from './thehive_logo.svg'
 import ImportImage from './welcome_import.svg'
 import RewardsImage from './welcome_rewards.svg'
 import SearchImage from './welcome_search.svg'
