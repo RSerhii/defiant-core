@@ -8,7 +8,7 @@ export let rule = {
 
 // parent menu
 chrome.contextMenus.create({
-  title: 'Brave',
+  title: 'The Hive',
   id: 'brave',
   contexts: ['all']
 })
